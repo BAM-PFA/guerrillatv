@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Saving Guerrilla Television: TVTV and the 1972 Elections"
+title: "PRESERVING GUERRILLA TELEVISION"
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   TVTV pioneered the movement of "do-it-yourself" television and championed the then new,
@@ -38,8 +38,10 @@ collections:
     output: true
   videos:
     output: true
-  # speeches:
-  #   output: true
+  interviews:
+    output: true
+  papers:
+    output: true
   # tutorials:
   #   output: true
 

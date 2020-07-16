@@ -8,7 +8,7 @@
     <nav class="nav d-flex justify-content-center">
       {% for collection in site.collections %}
         {% if collection.label != 'posts' %}
-          <a class="p-3 text-uppercase text-muted small" href="{{ collection.label | prepend: "/" | prepend: site.baseurl | prepend: site.url}}">{{ collection.label | capitalize }}</a>
+          <a class="p-3 text-uppercase text-muted" href="{{ collection.label | prepend: "/" | prepend: site.baseurl | prepend: site.url}}">{{ collection.label | capitalize }}</a>
         {% endif %}
       {% endfor %}
     </nav>

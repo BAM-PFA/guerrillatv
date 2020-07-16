@@ -7,6 +7,11 @@ layout: default
 
 This is the landing page where there can be a general description of the project, the outcomes, etc.
 
+<!-- <img src="{{ site.baseurl }}/assets/images/ar.gif"> -->
+<!-- ffmpeg -f image2 -framerate 1 -pattern_type glob -i "ar_*.png" -vf scale=600x450 ar.gif -->
+
+{% include carousel.html height="300" unit="px" duration="7" %}
+
 The articles and various videos will be in their own sections linked above.
 
 There can also be links out to other resources, the IA streaming videos at large, and the metadata records in OAC/OskiCat etc.
