@@ -21,9 +21,8 @@
 title: "PRESERVING GUERRILLA TELEVISION"
 email: your-email@example.com
 description: |
-  TVTV pioneered the movement of "do-it-yourself" television and championed the then new,
-  radical video formats as a means of changing society, as seen in their writings and
-  videos in our collection.<br>
+  TVTV pioneered the movement of "do-it-yourself" television and championed 
+  radical video formats as a means of changing society.<br>
   This preservation project has been funded through a generous Humanities Collections and Reference Resources grant from the
     <strong>National Endowment for the Humanities</strong>
 baseurl: "/guerrillatv" # the subpath of your site, e.g. /blog
@@ -38,11 +37,13 @@ collections_dir: _collections
 collections:
   articles:
     output: true
-  videos:
+  raw-footage:
     output: true
   interviews:
     output: true
-  papers:
+  paper-archives:
+    output: true
+  resources:
     output: true
   # tutorials:
   #   output: true
