@@ -13,10 +13,10 @@ This is the landing page where there can be a general description of the project
 Here is an image carousel where we can put a few representative images. I'd say no more than 5-6 at most.
 
 <!-- <div class="flex-row"> -->
-<div class="mx-auto">
-{% include carousel.html height="400" unit="px" duration="7" %}
+<!-- <div class="mx-auto"> -->
+{% include carousel.html height="400" unit="px" duration="3" %}
 <!-- </div> -->
-</div>
+<!-- </div> -->
 
 The articles and various videos will be in their own sections linked above.
 
