@@ -35,6 +35,7 @@ TVTV, an ad hoc collective of pioneering mediamakers, artists, and activists who
 </div>
 <div class="col-sm-4">
 <image style="width: 100%" src="{{ site.baseurl }}/assets/images/nancy-skip-van.jpg"/>
+<image style="width: 100%" src="{{ site.baseurl }}/assets/images/shamberg-williams.jpg"/>
 </div>
 </div>
 </div>
@@ -47,18 +48,20 @@ TVTV, an ad hoc collective of pioneering mediamakers, artists, and activists who
 ## Chip Lord
 <!-- ![chip lord](/assets/images/chip-jesus.jpg) -->
 Chip Lord is a member of [Ant Farm](link.com)
-<image style="width: 40%" src="{{ site.baseurl }}/assets/images/chip-jesus.jpg"/>
+<image style="width: 20%" src="{{ site.baseurl }}/assets/images/chip-jesus.jpg"/>
 
 ## Allen Rucker
 Allen Rucker is a media maker and activist, and was a founding member of TVTV.
 <image style="width: 40%" src="{{ site.baseurl }}/assets/images/rucker-shave.jpg"/>
 
 ## Michael Shamberg
+<image style="width: 20%" src="{{ site.baseurl }}/assets/images/shamberg.jpg"/>
 
 
 ## Tom Weinberg
 
 Tom Weinberg acted as producer on the convention tapes.
-<image style="width: 40%" src="{{ site.baseurl }}/assets/images/tom-weinberg.jpg"/>
+<image style="width: 20%" src="{{ site.baseurl }}/assets/images/tom-weinberg.jpg"/>
 
 ## Megan Williams
+<image style="width: 20%" src="{{ site.baseurl }}/assets/images/williams.jpg"/>
