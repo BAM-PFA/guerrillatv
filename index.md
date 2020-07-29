@@ -6,19 +6,21 @@ layout: default
 ---
 ---
 <div class="container-fluid">
-<h1 class="d-flex justify-content-center" id="tvtv">{{ page.title | upcase }}</h1>
-<div class="row">
-<div class="col-sm">
-<p>Top Value Television began in 1972 when a group of mediamakers, artists, and activists used brand-new portable videotape equipment to document the <strong>'72 presidential conventions</strong>. With the sensibilities of the underground and cutting-edge consumer video tech, TVTV and the loose global network of <strong>video guerrillas</strong> spearheaded community-based news, citizen journalism, and democratized media that in 2020 continue to gain relevance.
-</p>
-<p>
-This site showcases a 2018-2021 preservation project at <a href="https://bampfa.org">BAMPFA</a> to digitize the 1972 Democratic (<i><strong>World's Largest TV Studio</strong></i>) and Republican (<i><strong>Four More Years</strong></i>) convention tapes, and a 4-part look at the first 100 days following Richard Nixon's resignation (<i><strong>Gerald Ford's America</strong></i>).
-</p>
-</div>
-<div class="col-sm-4">
-<image style="width: 100%" src="{{ site.baseurl }}/assets/images/convention.jpg"/>
-</div>
-</div>
+  <!-- <h1 class="d-flex justify-content-center" id="tvtv">{{ page.title | upcase }}</h1> -->
+  <h1 class="d-flex" id="tvtv">{{ page.title | upcase }}</h1>
+  <div class="row">
+    <div class="col-sm">
+    <p>
+    Top Value Television began in 1972 when a group of mediamakers, artists, and activists used brand-new portable videotape equipment to document the <strong>'72 presidential conventions</strong>. With the sensibilities of the underground and cutting-edge consumer video tech, TVTV and a loose global network of <strong>video guerrillas</strong> spearheaded community-based news, citizen journalism, and democratized media that in 2020 continue to gain relevance.
+    </p>
+    <p>
+    This site showcases a 2018-2021 preservation project at <a href="https://bampfa.org">BAMPFA</a> to digitize hundreds of hours of raw footage that went into TVTV's documentaries on the 1972 Democratic (<i><strong>World's Largest TV Studio</strong></i>) and Republican (<i><strong>Four More Years</strong></i>) conventions, as well as a 4-part program with TVTV members embedded in the White House during the first 100 days after Richard Nixon's resignation (<i><strong>Gerald Ford's America</strong></i>). We also digitized TVTV's entire paper and photo archive, with thousands of pages available online.
+    </p>
+    </div>
+    <div class="col-sm-4">
+      <image style="width: 100%" src="{{ site.baseurl }}/assets/images/ar.gif"/>
+    </div>
+  </div>
 </div>
 
 
@@ -140,8 +142,8 @@ TVTV, an ad hoc collective of pioneering mediamakers, artists, and activists who
       <image style="width: 60%" src="{{ site.baseurl }}/assets/images/sibert.jpg"/>
     </div>
     <div class="col-md-6 text-right">
-      <h2>Jodi Sibert</h2>
-      <p>Jodi Sibert was a member of TVTV.</p>
+      <h2>Jody Sibert</h2>
+      <p>Jody Sibert was a member of TVTV.</p>
     </div>
   </div>
 
