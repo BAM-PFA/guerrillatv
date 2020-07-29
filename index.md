@@ -47,7 +47,7 @@ TVTV, an ad hoc collective of pioneering mediamakers, artists, and activists who
 
   <div class="row my-2">
     <div class="col-md-6">
-      <image style="width: 60%" src="{{ site.baseurl }}/assets/images/wendy-appel.jpg"/>
+      <image style="width: 60%" src="{{ site.baseurl }}/assets/images/appel.jpg"/>
     </div>
     <div class="col-md-6 text-right">
       <h2>Wendy Appel</h2>
@@ -77,11 +77,21 @@ TVTV, an ad hoc collective of pioneering mediamakers, artists, and activists who
 
   <div class="row my-2">
     <div class="col-md-6">
-      <image style="width: 60%" src="{{ site.baseurl }}/assets/images/williams.jpg"/>
+      <image style="width: 60%" src="{{ site.baseurl }}/assets/images/goldsmith.jpg"/>
     </div>
     <div class="col-md-6 text-right">
       <h2>Paul Goldsmith</h2>
       <p>"We were working with equipment that was not taken seriously. It was not really made for broadcast television. It was essentially amateur equipment, and we were the first people to take it seriously... Because it was different, it just meant we could make different television if we wanted to."</p>
+    </div>
+  </div>
+
+  <div class="row my-2">
+    <div class="col-md-6">
+      <image style="width: 60%" src="{{ site.baseurl }}/assets/images/korsts.jpg"/>
+    </div>
+    <div class="col-md-6 text-right">
+      <h2>Anda Korsts</h2>
+      <p>Anda Korsts was a member of TVTV.</p>
     </div>
   </div>
 
@@ -127,6 +137,16 @@ TVTV, an ad hoc collective of pioneering mediamakers, artists, and activists who
 
   <div class="row my-2">
     <div class="col-md-6">
+      <image style="width: 60%" src="{{ site.baseurl }}/assets/images/sibert.jpg"/>
+    </div>
+    <div class="col-md-6 text-right">
+      <h2>Jodi Sibert</h2>
+      <p>Jodi Sibert was a member of TVTV.</p>
+    </div>
+  </div>
+
+  <div class="row my-2">
+    <div class="col-md-6">
       <image style="width: 60%" src="{{ site.baseurl }}/assets/images/williams.jpg"/>
     </div>
     <div class="col-md-6 text-right">
@@ -147,7 +167,7 @@ TVTV, an ad hoc collective of pioneering mediamakers, artists, and activists who
 
   <div class="row my-2">
     <div class="col-md-6">
-      <image style="width: 60%" src="{{ site.baseurl }}/assets/images/williams.jpg"/>
+      <image style="width: 60%" src="{{ site.baseurl }}/assets/images/megan-williams.jpg"/>
     </div>
     <div class="col-md-6  text-right">
       <h2>Megan Williams</h2>
