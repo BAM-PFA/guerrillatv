@@ -42,26 +42,117 @@ TVTV, an ad hoc collective of pioneering mediamakers, artists, and activists who
 
 ---
 
-# TVTV Member Bios
+# About TVTV Members
+<div class="container-fluid">
 
-## Paul Goldsmith
-## Chip Lord
-<!-- ![chip lord](/assets/images/chip-jesus.jpg) -->
-Chip Lord is a member of [Ant Farm](link.com)
-<image style="width: 20%" src="{{ site.baseurl }}/assets/images/chip-jesus.jpg"/>
+  <div class="row my-2">
+    <div class="col-md-6">
+      <image style="width: 60%" src="{{ site.baseurl }}/assets/images/wendy-appel.jpg"/>
+    </div>
+    <div class="col-md-6 text-right">
+      <h2>Wendy Appel</h2>
+      <p>Wendy Appel was a founding member of TVTV.</p>
+    </div>
+  </div>
 
-## Allen Rucker
-Allen Rucker is a media maker and activist, and was a founding member of TVTV.
-<image style="width: 40%" src="{{ site.baseurl }}/assets/images/rucker-shave.jpg"/>
+  <div class="row my-2">
+    <div class="col-md-6">
+      <image style="width: 60%" src="{{ site.baseurl }}/assets/images/blumberg.jpg"/>
+    </div>
+    <div class="col-md-6 text-right">
+      <h2>Skip Blumberg</h2>
+      <p>Skip Blumberg was a founding member of TVTV.</p>
+    </div>
+  </div>
 
-## Michael Shamberg
-<image style="width: 20%" src="{{ site.baseurl }}/assets/images/shamberg.jpg"/>
+  <div class="row my-2">
+    <div class="col-md-6">
+      <image style="width: 60%" src="{{ site.baseurl }}/assets/images/nancy-cain.jpg"/>
+    </div>
+    <div class="col-md-6 text-right">
+      <h2>Nancy Cain</h2>
+      <p>Nancy Cain was a founding member of TVTV.</p>
+    </div>
+  </div>
 
+  <div class="row my-2">
+    <div class="col-md-6">
+      <image style="width: 60%" src="{{ site.baseurl }}/assets/images/williams.jpg"/>
+    </div>
+    <div class="col-md-6 text-right">
+      <h2>Paul Goldsmith</h2>
+      <p>"We were working with equipment that was not taken seriously. It was not really made for broadcast television. It was essentially amateur equipment, and we were the first people to take it seriously... Because it was different, it just meant we could make different television if we wanted to."</p>
+    </div>
+  </div>
 
-## Tom Weinberg
+  <div class="row my-2">
+    <div class="col-md-6">
+      <image style="width: 60%" src="{{ site.baseurl }}/assets/images/chip-jesus.jpg"/>
+    </div>
+    <div class="col-md-6 text-right">
+      <h2>Chip Lord</h2>
+      <p>Chip Lord was a founding member of <a href="example.com">Ant Farm</a> and TVTV.</p>
+    </div>
+  </div>
 
-Tom Weinberg acted as producer on the convention tapes.
-<image style="width: 20%" src="{{ site.baseurl }}/assets/images/tom-weinberg.jpg"/>
+  <div class="row my-2">
+    <div class="col-md-6">
+      <image style="width: 60%" src="{{ site.baseurl }}/assets/images/hudson.jpg"/>
+    </div>
+    <div class="col-md-6 text-right">
+      <h2>Hudson Marquez</h2>
+      <p>Hudson Marquez was a founding member of TVTV.</p>
+    </div>
+  </div>
 
-## Megan Williams
-<image style="width: 20%" src="{{ site.baseurl }}/assets/images/williams.jpg"/>
+  <div class="row my-2">
+    <div class="col-md-5">
+      <image style="width: 60%" src="{{ site.baseurl }}/assets/images/rucker.jpg"/>
+    </div>
+    <div class="col-md-7 text-right">
+      <h2>Allen Rucker</h2>
+      <p>"It’s handmade television. It’s documentary television that comes from the point of view of the people that make it and not from some kind of overall objective set of standards. It’s very subjective television. The style is intimate, it’s one-to-one."</p>
+    </div>
+  </div>
+
+  <div class="row my-2">
+    <div class="col-md-6">
+      <image style="width: 60%" src="{{ site.baseurl }}/assets/images/shamberg-1.jpg"/>
+    </div>
+    <div class="col-md-6 text-right">
+      <h2>Michael Shamberg</h2>
+      <p>Michael Shamberg was a founding member of TVTV.</p>
+    </div>
+  </div>
+
+  <div class="row my-2">
+    <div class="col-md-6">
+      <image style="width: 60%" src="{{ site.baseurl }}/assets/images/williams.jpg"/>
+    </div>
+    <div class="col-md-6 text-right">
+      <h2>Curtis Schreier</h2>
+      <p>Curtis Schreier was a founding member of TVTV.</p>
+    </div>
+  </div>
+
+  <div class="row my-2">
+    <div class="col-md-6">
+      <image style="width: 60%" src="{{ site.baseurl }}/assets/images/tom-weinberg.jpg"/>
+    </div>
+    <div class="col-md-6 text-right">
+      <h2>Tom Weinberg</h2>
+      <p>Tom Weinberg was a founding member of TVTV.</p>
+    </div>
+  </div>
+
+  <div class="row my-2">
+    <div class="col-md-6">
+      <image style="width: 60%" src="{{ site.baseurl }}/assets/images/williams.jpg"/>
+    </div>
+    <div class="col-md-6  text-right">
+      <h2>Megan Williams</h2>
+      <p>Megan Williams was a founding member of TVTV.</p>
+    </div>
+  </div>
+
+</div>
