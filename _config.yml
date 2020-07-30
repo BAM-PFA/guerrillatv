@@ -26,7 +26,7 @@ description: |
   This preservation project has been funded through a generous Humanities Collections and Reference Resources grant from the
     <strong>National Endowment for the Humanities</strong>
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://guerrillatv.bampfa.berkeley.edu" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://guerrillatv.bampfa.berkeley.edu" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bampfa
 github_username:  bam-pfa
 
