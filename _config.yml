@@ -35,7 +35,7 @@ github_username:  bam-pfa
 include: ["_pages"]
 collections_dir: _collections
 collections:
-  articles:
+  essays:
     output: true
   raw-footage:
     output: true

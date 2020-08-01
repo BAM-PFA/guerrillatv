@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Cool article"
-description: This is an article
+title:  "Cool essay"
+description: This is an essay
 date:   2020-06-12 20:20:35 +0200
 image: https://upload.wikimedia.org/wikipedia/commons/7/71/Athyrium_filix-femina.jpg
 

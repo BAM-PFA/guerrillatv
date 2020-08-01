@@ -11,7 +11,7 @@ layout: default
   <div class="row">
     <div class="col-sm">
     <p>
-    Top Value Television began in 1972 when a group of mediamakers, artists, and activists used brand-new portable videotape equipment to document the <strong>'72 presidential conventions</strong>. With the sensibilities of the underground and cutting-edge consumer video tech, TVTV and a loose global network of <strong>video guerrillas</strong> spearheaded community-based news, citizen journalism, and democratized media that in 2020 continue to gain relevance.
+    <strong>Top Value Television</strong> began in 1972 when a group of mediamakers, artists, and activists used brand-new portable videotape equipment to document the <strong>'72 presidential conventions</strong>. With the sensibilities of the underground and cutting-edge consumer video tech, TVTV and a loose global network of <strong>video guerrillas</strong> spearheaded community-based news, citizen journalism, and democratized media that in 2020 continue to gain relevance. Active until 1977, many TVTV collaborators went on to become household names, including Bill Murray, Harold Ramis, and John Belushi.
     </p>
     <p>
     This site showcases a 2018-2021 preservation project at <a href="https://bampfa.org">BAMPFA</a> to digitize hundreds of hours of raw footage that went into TVTV's documentaries on the 1972 Democratic (<i><strong>World's Largest TV Studio</strong></i>) and Republican (<i><strong>Four More Years</strong></i>) conventions, as well as a 4-part program with TVTV members embedded in the White House during the first 100 days after Richard Nixon's resignation (<i><strong>Gerald Ford's America</strong></i>). We also digitized TVTV's entire paper and photo archive, with thousands of pages available online.
@@ -129,6 +129,15 @@ TVTV, an ad hoc collective of pioneering mediamakers, artists, and activists who
 
   <div class="row my-2">
     <div class="col-md-6">
+        <image style="width: 60%" src="{{ site.baseurl }}/assets/images/schreier.jpg"/>
+      </div>
+      <div class="col-md-6 text-right">
+        <h2>Curtis Schreier</h2>
+        <p>Curtis Schreier was a founding member of TVTV.</p>
+      </div>
+  </div>
+  <div class="row my-2">
+    <div class="col-md-6">
       <image style="width: 60%" src="{{ site.baseurl }}/assets/images/shamberg-1.jpg"/>
     </div>
     <div class="col-md-6 text-right">
@@ -147,15 +156,6 @@ TVTV, an ad hoc collective of pioneering mediamakers, artists, and activists who
     </div>
   </div>
 
-  <div class="row my-2">
-    <div class="col-md-6">
-      <image style="width: 60%" src="{{ site.baseurl }}/assets/images/williams.jpg"/>
-    </div>
-    <div class="col-md-6 text-right">
-      <h2>Curtis Schreier</h2>
-      <p>Curtis Schreier was a founding member of TVTV.</p>
-    </div>
-  </div>
 
   <div class="row my-2">
     <div class="col-md-6">

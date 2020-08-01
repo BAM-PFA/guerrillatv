@@ -2,6 +2,7 @@
 layout: section
 title: resources
 permalink: /resources
+vimeoID: 362850245
 ---
 TVTV’s members were part of a rich interconnected network of artists who propelled a countercultural movement through the use of personal and portable video recording equipment. Throughout the late 1960s into the 1970s, these "guerrilla video" makers would band together, forming collectives with evolving memberships - Raindance Corporation, Ant Farm, Videofreex, TVTV and others shared co-founders and members - serving the common purpose of disrupting mainstream media.
 
@@ -72,6 +73,11 @@ Ant Farm was deeply interwoven into the video and conceptual art scenes of the 1
     <image style="width: 40%" src="{{ site.baseurl }}/assets/images/ant-farm.jpg" />
   </div>
 </div>
+<div class="row">
+  <div class="col-sm text-center">
+    <p><i>Image from the <a href="https://oac.cdlib.org/findaid/ark:/13030/c87m0fns/">TVTV Papers collection</a></i></p>
+  </div>
+</div>
 
 "A San Francisco-based collective of artists and architects working from 1968 to 1978, Ant Farm’s activity was distinctly interdisciplinary—combining architecture, performance, media, happenings, sculpture, and graphic design. With works that functioned as art, social critique, and pop anthropology, Ant Farm tore into the cultural fabric of post-World War II, Vietnam-era America and became one of the first groups to address television’s pervasive presence in everyday life. As graphic artists, Ant Farm contributed to numerous underground publications, including *Radical Software*, and designed Michael Shamberg’s *Guerrilla Television* (1971)." ([**Video Databank**](https://www.vdb.org))
 
@@ -92,6 +98,8 @@ Ant Farm was deeply interwoven into the video and conceptual art scenes of the 1
 
 "Founded in 1969 by Frank Gillette, Michael Shamberg, [Megan Williams,] and Ira Schneider, among others, Raindance was a self-described "countercultural thinktank" that embraced video as an alternative form of cultural communication. The name "Raindance" was a play on words for "cultural R & D" (research and development) [and a play on the establishment [RAND Corporation](https://en.wikipedia.org/wiki/RAND_Corporation) thinktank]. Influenced by the communications theories of Marshall McLuhan and Buckminster Fuller, the collective produced a data bank of tapes and writings that explored the relation of cybernetics, media, and ecology. [...] In 1971, Shamberg wrote *Guerrilla Television*, a summary of the group’s principles and a blueprint for the decentralization of television. In 1976, Raindance members Ira Schneider and Beryl Korot edited *Video Art: An Anthology*, one of the first readers on video art. The original Raindance collective dispersed in the mid-'70s; the nonprofit Raindance Foundation continues to exist today." ([**Video Databank**](https://www.vdb.org))
 
+---
+
 # Videofreex
 
 <div class="row">
@@ -109,6 +117,37 @@ Ant Farm was deeply interwoven into the video and conceptual art scenes of the 1
 
 The group soon grew to ten full-time members--including Chuck Kennedy, Nancy Cain, Skip Blumberg, Davidson Gigliotti, Carol Vontobel, Bart Friedman and Ann Woodward--and produced tapes, installations and multimedia events. The Videofreex trained hundreds of makers in this brand new medium though the group's Media Bus project." ([**Video Databank**](https://www.vdb.org))
 
-# Place Talks presentation about Media Vans
+---
 
-Ask her if we can link to her essay.
+# Tribal Vision Network
+
+<div class="row">
+  <div class="col-sm align-self-center text-center">
+    <image style="width: 40%" src="{{ site.baseurl }}/assets/images/sears.jpg" />
+  </div>
+</div>
+<div class="row">
+  <div class="col-sm text-center">
+    <p><i>Image courtesy <a href="https://www.lorensears.com">Loren Sears</a></i></p>
+  </div>
+</div>
+
+"A van outfitted with video recording, editing, and playback equipment toured the Pacific Coast in the early seventies... Loren Sears describes how the goal of his Tribal Vision Network (TVN) was 'to record lifestyle innovation happening in these communities, edit and feed it back as a way of providing connection and clarifying what was being accomplished – a kind of self-critical tool for cultural innovators.'" ([**Tanya Zimbardo**](https://www.tanyazimbardo.com/fullscreen-page/comp-jag793c1/1ff2be45-2985-442c-9100-d41705e11299/15/?i=15&p=&s=))
+
+---
+
+# Portable Channel
+<div class="row">
+  <div class="col-sm align-self-center text-center">
+    <a href="http://www.vsw.org/collections/watch-portable-channel-videos/night-at-the-planetarium-1971/"><image style="width: 40%" src="{{ site.baseurl }}/assets/images/portable-channel.png" /></a>
+  </div>
+</div>
+<div class="row">
+  <div class="col-sm text-center">
+    <p><i>Night at the Planetarium (1971)</i></p>
+    <p><i>From the collection of Visual Studies Workshop ©Visual Studies Workshop / Portable Channel</i></p>
+  </div>
+</div>
+
+
+"Portable Channel was a Rochester, NY non-profit (1971–1987) founded by documentary filmmaker and activist Bonnie Sherr Klein. Portable Channel supported community access to video equipment, provided training, and produced programs with an emphasis on community activism and documentary work." ([**Visual Studies Workshop**](http://www.vsw.org/collections/watch-portable-channel-videos/))
