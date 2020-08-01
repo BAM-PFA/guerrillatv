@@ -118,6 +118,16 @@ TVTV, an ad hoc collective of pioneering mediamakers, artists, and activists who
   </div>
 
   <div class="row my-2">
+    <div class="col-md-6">
+      <image style="width: 60%" src="{{ site.baseurl }}/assets/images/michels.jpg"/>
+    </div>
+    <div class="col-md-6 text-right">
+      <h2>Doug Michels</h2>
+      <p>Doug Michels was a founding member of Ant Farm and TVTV.</p>
+    </div>
+  </div>
+
+  <div class="row my-2">
     <div class="col-md-5">
       <image style="width: 60%" src="{{ site.baseurl }}/assets/images/rucker.jpg"/>
     </div>
