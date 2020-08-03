@@ -32,7 +32,7 @@ layout: default
 <div class="container-fluid">
 <div class="row">
 <div class="col-sm-8">
-TVTV, an ad hoc collective of pioneering mediamakers, artists, and activists who embraced video as a cultural form. TVTV’s operating philosophy was well expressed by founding member Michael Shamberg’s treatise Guerrilla Television (1971), which demanded an oppositional info-system to break the hold of mainstream media. In 1972, Shamberg, along with activist Megan Williams and Allen Rucker, a member of Stewart Brand’s Portola Institute, established the San Francisco Bay Area-based TVTV as a video production group that would use low-end video technology to create cultural and political programming notable for its unvarnished, rawly honest, and spontaneous coverage that countered the ossified and cautious coverage of corporate media. The initial spark for TVTV’s formation was a desire to document the 1972 presidential nominating conventions, both held in Miami Beach, Florida, from a point of view that the major television networks would be unable to capture. This led to TVTV’s opening salvo: the duo The World’s Largest TV Studio and Four More Years (both 1972), sardonic but serious coverage of the Democratic and Republican National Conventions. These videoworks constitute the first use of the 1/2” open reel video format ever broadcasted on national television. TVTV pioneered the movement of “do-it-yourself” television and championed the then new, radical video formats as a means of changing society, as seen in their writings and videos in our collection. Small-format video equipment like the Sony Portapak [...]
+TVTV, an ad hoc collective of pioneering mediamakers, artists, and activists who embraced video as a cultural form. TVTV’s operating philosophy was well expressed by founding member Michael Shamberg’s treatise Guerrilla Television (1971), which demanded an oppositional info-system to break the hold of mainstream media. In 1972, Shamberg, along with activist Megan Williams and Allen Rucker, a member of Stewart Brand’s Portola Institute, established the San Francisco Bay Area-based TVTV as a video production group that would use low-end video technology to create cultural and political programming notable for its unvarnished, rawly honest, and spontaneous coverage that countered the ossified and cautious coverage of corporate media. The initial spark for TVTV’s formation was a desire to document the 1972 presidential nominating conventions, both held in Miami Beach, Florida, from a point of view that the major television networks would be unable to capture. This led to TVTV’s opening salvo: the duo The World’s Largest TV Studio and Four More Years (both 1972), sardonic but serious coverage of the Democratic and Republican National Conventions. These videoworks constitute the first use of the 1/2” open reel video format ever broadcasted on national television. TVTV pioneered the movement of “do-it-yourself” television and championed the then new, radical video formats as a means of changing society, as seen in their writings and videos in our collection. Small-format video equipment like the Sony Portapak [this par. is just filler drawn from the grant app]
 </div>
 <div class="col-sm-4">
 <image style="width: 100%" src="{{ site.baseurl }}/assets/images/nancy-skip-van.jpg"/>
@@ -45,7 +45,7 @@ TVTV, an ad hoc collective of pioneering mediamakers, artists, and activists who
 
 # About Some of TVTV's Members
 
-Between 1972 and 1977 the TVTV collective attracted and lost dozens of members, contributors, collaborators, and hangers-on. Some of these later became household names (like Bill Murray, Harold Ramis, and Jim Belushi), and of the core members many went on to careers in Hollywood, academia, and the arts. Some of the core members of the group are listed here.
+Between 1972 and 1977 the TVTV collective attracted and lost dozens of members, contributors, collaborators, and hangers-on. Some of these later became household names (like Bill Murray, Harold Ramis, and John Belushi), and of the core members many went on to careers in Hollywood, academia, and the arts. Some of the core members of the group are listed here.
 
 
 
@@ -132,10 +132,10 @@ Between 1972 and 1977 the TVTV collective attracted and lost dozens of members, 
   </div>
 
   <div class="row my-2">
-    <div class="col-md-5">
-      <image style="width: 60%" src="{{ site.baseurl }}/assets/images/rucker.jpg"/>
+    <div class="col-md-4">
+      <image style="width: 100%" src="{{ site.baseurl }}/assets/images/rucker.jpg"/>
     </div>
-    <div class="col-md-7 text-right">
+    <div class="col-md-8 text-right">
       <h2>Allen Rucker</h2>
       <p>"It’s handmade television. It’s documentary television that comes from the point of view of the people that make it and not from some kind of overall objective set of standards. It’s very subjective television. The style is intimate, it’s one-to-one."</p>
     </div>
