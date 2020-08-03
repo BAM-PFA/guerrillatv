@@ -4,9 +4,17 @@ title: resources
 permalink: /resources
 vimeoID: 362850245
 ---
-TVTV’s members were part of a rich interconnected network of artists who propelled a countercultural movement through the use of personal and portable video recording equipment. Throughout the late 1960s into the 1970s, these "guerrilla video" makers would band together, forming collectives with evolving memberships - Raindance Corporation, Ant Farm, Videofreex, TVTV and others shared co-founders and members - serving the common purpose of disrupting mainstream media.
 
-The resources on this page are a gateway into the underground world of community-based news, citizen journalism, and democratized media.
+<div class="row">
+  <div class="col-sm-8">
+    <p>TVTV’s members were part of a rich interconnected network of artists who propelled a countercultural movement through the use of personal and portable video recording equipment. Throughout the late 1960s into the 1970s, these "guerrilla video" makers would band together, forming collectives with evolving memberships - Raindance Corporation, Ant Farm, Videofreex, TVTV and others shared co-founders and members - serving the common purpose of disrupting mainstream media.</p>
+
+    <p>The resources on this page are a gateway into the underground world of community-based news, citizen journalism, and democratized media.</p>
+    </div>
+  <div class="col-sm-4">
+    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/cam-boat.jpg" />
+  </div>
+</div>
 
 ---
 
@@ -22,6 +30,24 @@ Eight of the standalone TVTV programs are available from the original TVTV membe
 * **The Good Times Are Killing Me** (1975)
 * **TVTV Looks at the the Oscars** (1976)
 * **TVTV Goes to the Super Bowl** (1976)
+
+---
+
+# Electronic Arts Intermix
+# Video Data Bank
+
+<div class="row">
+  <div class="col-sm text-center">
+    <image style="width: 25%" src="{{ site.baseurl }}/assets/images/eai_logo.png" />
+    <image style="width: 25%" src="{{ site.baseurl }}/assets/images/vdb_logo.png" />
+  </div>
+  <!-- <div class="col-sm-6 text-center">
+  </div> -->
+</div>
+
+Many TVTV works (and works by related artists and collectives) are in distribution for rental or public exhibition through [Electronic Arts Intermix](https://www.eai.org/artists/tvtv/titles) and [Video Data Bank](https://www.vdb.org/artists/tvtv).
+
+EAI and Video Data Bank are two major resources in North America for video and media art from the '60s to the present day.
 
 ---
 
@@ -79,7 +105,7 @@ Ant Farm was deeply interwoven into the video and conceptual art scenes of the 1
   </div>
 </div>
 
-"A San Francisco-based collective of artists and architects working from 1968 to 1978, Ant Farm’s activity was distinctly interdisciplinary—combining architecture, performance, media, happenings, sculpture, and graphic design. With works that functioned as art, social critique, and pop anthropology, Ant Farm tore into the cultural fabric of post-World War II, Vietnam-era America and became one of the first groups to address television’s pervasive presence in everyday life. As graphic artists, Ant Farm contributed to numerous underground publications, including *Radical Software*, and designed Michael Shamberg’s *Guerrilla Television* (1971)." ([**Video Databank**](https://www.vdb.org))
+"A San Francisco-based collective of artists and architects working from 1968 to 1978, Ant Farm’s activity was distinctly interdisciplinary—combining architecture, performance, media, happenings, sculpture, and graphic design. With works that functioned as art, social critique, and pop anthropology, Ant Farm tore into the cultural fabric of post-World War II, Vietnam-era America and became one of the first groups to address television’s pervasive presence in everyday life. As graphic artists, Ant Farm contributed to numerous underground publications, including *Radical Software*, and designed Michael Shamberg’s *Guerrilla Television* (1971)." ([**Video Data Bank**](https://www.vdb.org))
 
 ---
 
@@ -96,7 +122,7 @@ Ant Farm was deeply interwoven into the video and conceptual art scenes of the 1
   </div>
 </div>
 
-"Founded in 1969 by Frank Gillette, Michael Shamberg, [Megan Williams,] and Ira Schneider, among others, Raindance was a self-described "countercultural thinktank" that embraced video as an alternative form of cultural communication. The name "Raindance" was a play on words for "cultural R & D" (research and development) [and a play on the establishment [RAND Corporation](https://en.wikipedia.org/wiki/RAND_Corporation) thinktank]. Influenced by the communications theories of Marshall McLuhan and Buckminster Fuller, the collective produced a data bank of tapes and writings that explored the relation of cybernetics, media, and ecology. [...] In 1971, Shamberg wrote *Guerrilla Television*, a summary of the group’s principles and a blueprint for the decentralization of television. In 1976, Raindance members Ira Schneider and Beryl Korot edited *Video Art: An Anthology*, one of the first readers on video art. The original Raindance collective dispersed in the mid-'70s; the nonprofit Raindance Foundation continues to exist today." ([**Video Databank**](https://www.vdb.org))
+"Founded in 1969 by Frank Gillette, Michael Shamberg, [Megan Williams,] and Ira Schneider, among others, Raindance was a self-described "countercultural thinktank" that embraced video as an alternative form of cultural communication. The name "Raindance" was a play on words for "cultural R & D" (research and development) [and a play on the establishment [RAND Corporation](https://en.wikipedia.org/wiki/RAND_Corporation) thinktank]. Influenced by the communications theories of Marshall McLuhan and Buckminster Fuller, the collective produced a data bank of tapes and writings that explored the relation of cybernetics, media, and ecology. [...] In 1971, Shamberg wrote *Guerrilla Television*, a summary of the group’s principles and a blueprint for the decentralization of television. In 1976, Raindance members Ira Schneider and Beryl Korot edited *Video Art: An Anthology*, one of the first readers on video art. The original Raindance collective dispersed in the mid-'70s; the nonprofit Raindance Foundation continues to exist today." ([**Video Data Bank**](https://www.vdb.org))
 
 ---
 
@@ -115,7 +141,7 @@ Ant Farm was deeply interwoven into the video and conceptual art scenes of the 1
 
 "Videofreex, one of the first video collectives, was founded in 1969 by David Cort, Mary Curtis Ratcliff and Parry Teasdale, after David and Parry met each other, video cameras in hand, at the Woodstock Music Festival. Working out of a loft in lower Manhattan, the group's first major project was producing a live and tape TV presentation for the CBS network, The Now Show, for which they traveled the country, interviewing countercultural figures such as Abbie Hoffman and Black Panther leader Fred Hampton.
 
-The group soon grew to ten full-time members--including Chuck Kennedy, Nancy Cain, Skip Blumberg, Davidson Gigliotti, Carol Vontobel, Bart Friedman and Ann Woodward--and produced tapes, installations and multimedia events. The Videofreex trained hundreds of makers in this brand new medium though the group's Media Bus project." ([**Video Databank**](https://www.vdb.org))
+The group soon grew to ten full-time members--including Chuck Kennedy, Nancy Cain, Skip Blumberg, Davidson Gigliotti, Carol Vontobel, Bart Friedman and Ann Woodward--and produced tapes, installations and multimedia events. The Videofreex trained hundreds of makers in this brand new medium though the group's Media Bus project." ([**Video Data Bank**](https://www.vdb.org))
 
 ---
 

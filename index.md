@@ -6,7 +6,6 @@ layout: default
 ---
 ---
 <div class="container-fluid">
-  <!-- <h1 class="d-flex justify-content-center" id="tvtv">{{ page.title | upcase }}</h1> -->
   <h1 class="d-flex" id="tvtv">{{ page.title | upcase }}</h1>
   <div class="row">
     <div class="col-sm">
@@ -44,84 +43,89 @@ TVTV, an ad hoc collective of pioneering mediamakers, artists, and activists who
 
 ---
 
-# About TVTV Members
+# About Some of TVTV's Members
+
+Between 1972 and 1977 the TVTV collective attracted and lost dozens of members, contributors, collaborators, and hangers-on. Some of these later became household names (like Bill Murray, Harold Ramis, and Jim Belushi), and of the core members many went on to careers in Hollywood, academia, and the arts. Some of the core members of the group are listed here.
+
+
+
 <div class="container-fluid">
 
   <div class="row my-2">
-    <div class="col-md-6">
-      <image style="width: 60%" src="{{ site.baseurl }}/assets/images/appel.jpg"/>
+    <div class="col-md-4">
+      <image style="width: 100%" src="{{ site.baseurl }}/assets/images/appel.jpg"/>
     </div>
-    <div class="col-md-6 text-right">
+    <div class="col-md-8 text-right">
       <h2>Wendy Appel</h2>
-      <p>Wendy Appel was a founding member of TVTV.</p>
+      <p>A principal member of the group and a crucial voice in the editing room: "The editing has always been of equal import to the shooting of any TVTV show. A lot of the TVTV style and the references come together and merge in the collage of editing."</p>
     </div>
   </div>
 
   <div class="row my-2">
-    <div class="col-md-6">
-      <image style="width: 60%" src="{{ site.baseurl }}/assets/images/blumberg.jpg"/>
+    <div class="col-md-4">
+      <image style="width: 100%" src="{{ site.baseurl }}/assets/images/blumberg.jpg"/>
     </div>
-    <div class="col-md-6 text-right">
+    <div class="col-md-8 text-right">
       <h2>Skip Blumberg</h2>
       <p>Skip Blumberg was a founding member of TVTV.</p>
     </div>
   </div>
 
   <div class="row my-2">
-    <div class="col-md-6">
-      <image style="width: 60%" src="{{ site.baseurl }}/assets/images/nancy-cain.jpg"/>
+    <div class="col-md-4">
+      <image style="width: 100%" src="{{ site.baseurl }}/assets/images/nancy-cain.jpg"/>
     </div>
-    <div class="col-md-6 text-right">
+    <div class="col-md-8 text-right">
       <h2>Nancy Cain</h2>
       <p>Nancy Cain was a founding member of TVTV.</p>
     </div>
   </div>
 
   <div class="row my-2">
-    <div class="col-md-6">
-      <image style="width: 60%" src="{{ site.baseurl }}/assets/images/goldsmith.jpg"/>
+    <div class="col-md-4">
+      <image style="width: 100%" src="{{ site.baseurl }}/assets/images/goldsmith.jpg"/>
     </div>
-    <div class="col-md-6 text-right">
+    <div class="col-md-8 text-right">
       <h2>Paul Goldsmith</h2>
       <p>"We were working with equipment that was not taken seriously. It was not really made for broadcast television. It was essentially amateur equipment, and we were the first people to take it seriously... Because it was different, it just meant we could make different television if we wanted to."</p>
     </div>
   </div>
 
   <div class="row my-2">
-    <div class="col-md-6">
-      <image style="width: 60%" src="{{ site.baseurl }}/assets/images/korsts.jpg"/>
+    <div class="col-md-4">
+      <image style="width: 100%" src="{{ site.baseurl }}/assets/images/korsts.jpg"/>
     </div>
-    <div class="col-md-6 text-right">
+    <div class="col-md-8 text-right">
       <h2>Anda Korsts</h2>
       <p>Anda Korsts was a member of TVTV.</p>
     </div>
   </div>
 
   <div class="row my-2">
-    <div class="col-md-6">
-      <image style="width: 60%" src="{{ site.baseurl }}/assets/images/chip-jesus.jpg"/>
+    <div class="col-md-4">
+      <image style="width: 100%" src="{{ site.baseurl }}/assets/images/chip-jesus.jpg"/>
     </div>
-    <div class="col-md-6 text-right">
+    <div class="col-md-8 text-right">
       <h2>Chip Lord</h2>
       <p>Chip Lord was a founding member of <a href="example.com">Ant Farm</a> and TVTV.</p>
     </div>
   </div>
 
   <div class="row my-2">
-    <div class="col-md-6">
-      <image style="width: 60%" src="{{ site.baseurl }}/assets/images/hudson.jpg"/>
+    <div class="col-md-4">
+      <image style="width: 100%" src="{{ site.baseurl }}/assets/images/hudson.jpg"/>
     </div>
-    <div class="col-md-6 text-right">
+    <div class="col-md-8 text-right">
       <h2>Hudson Marquez</h2>
       <p>Hudson Marquez was a founding member of TVTV.</p>
     </div>
   </div>
 
   <div class="row my-2">
-    <div class="col-md-6">
-      <image style="width: 60%" src="{{ site.baseurl }}/assets/images/michels.jpg"/>
+    <div class="col-md-4">
+      <image style="width: 100%" src="{{ site.baseurl }}/assets/images/michels.jpg"/>
     </div>
-    <div class="col-md-6 text-right">
+    <div class="col-md-8 text-right">
       <h2>Doug Michels</h2>
       <p>Doug Michels was a founding member of Ant Farm and TVTV.</p>
     </div>
@@ -138,29 +142,29 @@ TVTV, an ad hoc collective of pioneering mediamakers, artists, and activists who
   </div>
 
   <div class="row my-2">
-    <div class="col-md-6">
-        <image style="width: 60%" src="{{ site.baseurl }}/assets/images/schreier.jpg"/>
+    <div class="col-md-4">
+        <image style="width: 100%" src="{{ site.baseurl }}/assets/images/schreier.jpg"/>
       </div>
-      <div class="col-md-6 text-right">
+      <div class="col-md-8 text-right">
         <h2>Curtis Schreier</h2>
         <p>Curtis Schreier was a founding member of TVTV.</p>
       </div>
   </div>
   <div class="row my-2">
-    <div class="col-md-6">
-      <image style="width: 60%" src="{{ site.baseurl }}/assets/images/shamberg-1.jpg"/>
+    <div class="col-md-4">
+      <image style="width: 100%" src="{{ site.baseurl }}/assets/images/shamberg-1.jpg"/>
     </div>
-    <div class="col-md-6 text-right">
+    <div class="col-md-8 text-right">
       <h2>Michael Shamberg</h2>
-      <p>Michael Shamberg was a founding member of TVTV.</p>
+      <p>Michael Shamberg was one of the core founders of TVTV and participated in all of its productions. After TVTV began to fizzle out and ultimately dissovled in 1977, Shamberg moved into mainstream Hollywood producing, finding early success with <strong>The Big Chill</strong> (1983). Some of the standout films he later produced or executive produced include <strong>A Fish Called Wanda</strong> (1988), <strong>Pulp Fiction</strong> (1994), <strong>Erin Brokovich</strong> (2000), and <strong>Django Unchained</strong> (2012). In recent years he has also had a successful TV career, executive producing <strong>Reno 911!</strong>, among many others.</p>
     </div>
   </div>
 
   <div class="row my-2">
-    <div class="col-md-6">
-      <image style="width: 60%" src="{{ site.baseurl }}/assets/images/sibert.jpg"/>
+    <div class="col-md-4">
+      <image style="width: 100%" src="{{ site.baseurl }}/assets/images/sibert.jpg"/>
     </div>
-    <div class="col-md-6 text-right">
+    <div class="col-md-8 text-right">
       <h2>Jody Sibert</h2>
       <p>Jody Sibert was a member of TVTV.</p>
     </div>
@@ -168,18 +172,18 @@ TVTV, an ad hoc collective of pioneering mediamakers, artists, and activists who
 
 
   <div class="row my-2">
-    <div class="col-md-6">
-      <image style="width: 60%" src="{{ site.baseurl }}/assets/images/tom-weinberg.jpg"/>
+    <div class="col-md-4">
+      <image style="width: 100%" src="{{ site.baseurl }}/assets/images/tom-weinberg.jpg"/>
     </div>
-    <div class="col-md-6 text-right">
+    <div class="col-md-8 text-right">
       <h2>Tom Weinberg</h2>
       <p>Tom Weinberg was a founding member of TVTV.</p>
     </div>
   </div>
 
   <div class="row my-2">
-    <div class="col-md-6">
-      <image style="width: 60%" src="{{ site.baseurl }}/assets/images/megan-williams.jpg"/>
+    <div class="col-md-4">
+      <image style="width: 100%" src="{{ site.baseurl }}/assets/images/megan-williams.jpg"/>
     </div>
     <div class="col-md-6  text-right">
       <h2>Megan Williams</h2>
