@@ -1,6 +1,6 @@
 ---
 layout: section
-title: articles
+title: essays
 permalink: /essays
 ---
 This is where the interpretive essays will go. There can be a description of the process/

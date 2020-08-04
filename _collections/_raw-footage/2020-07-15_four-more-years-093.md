@@ -2,7 +2,7 @@
 layout: post
 title:  Four More Years [raw footage tape 093]
 description: Raw footage from FOUR MORE YEARS featuring a party for old and young Miamians, Allen Ginsberg, Ed Sanders of the Fugs
-<!-- date:   1976 -->
+date:   1972-08-16
 image: /assets/images/fmy-093.jpg
 archiveID: four-more-years-093_16209_PM0040774_R01of01
 ---
