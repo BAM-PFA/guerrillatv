@@ -4,9 +4,7 @@ title: essays
 permalink: /essays
 ---
 
-Ahead of the **2020 Republican and Democratic presidential conventions** and **election**, keep an eye on this space for essays by historians, archivists, and scholars of video art and activist media.
-
-These essays will give some historical context, and also make crucial links to the current political environment in which **democratized media** and **citizen journalism** are more important than ever.
+Ahead of the 2020 Republican and Democratic National conventions and presidential election, keep an eye on this space for new essays by historians, archivists, and scholars of video art and activist media. These essays will give historical context, while making  crucial links to the current political environment in which **democratized media** and citizen journalism are more important than ever.
 
 ---
 # Rick Prelinger
