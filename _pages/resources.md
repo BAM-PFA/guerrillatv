@@ -38,7 +38,7 @@ Eight of the standalone TVTV programs are available from the original TVTV membe
 
 <div class="row">
   <div class="col-sm text-center">
-    <image style="width: 25%" src="{{ site.baseurl }}/assets/images/eai_logo.png" />
+    <image style="width: 25%" src="{{ site.baseurl }}/assets/images/eai-logo.png" />
     <image style="width: 25%" src="{{ site.baseurl }}/assets/images/vdb_logo.png" />
   </div>
   <!-- <div class="col-sm-6 text-center">
