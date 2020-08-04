@@ -3,13 +3,13 @@ layout: default
 ---
 <hr>
 <section class="row m-2">
-  <div class=" container-fluid">
-    <div class="col-md-7 mx-auto mb-5">
-      <h1 class="d-flex justify-content-center">{{ page.title | upcase }}</h1>
+  <!-- <div class=" container-fluid p-0"> -->
+    <div class="col-md-7 mb-5">
+      <h1 class="d-flex">{{ page.title | upcase }}</h1>
     </div>
     <div class="product-device shadow-sm d-none d-md-block"></div>
     <div class="product-device product-device-2 shadow-sm d-none d-md-block"></div>
-  </div>
+  <!-- </div> -->
   <div class="container-fluid">
     {{ content }}
   </div>

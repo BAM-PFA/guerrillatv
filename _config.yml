@@ -18,11 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "PRESERVING GUERRILLA TELEVISION (beta site)"
+title: "PRESERVING GUERRILLA TELEVISION"
 email: your-email@example.com
 description: |
-  TVTV pioneered the movement of "do-it-yourself" television and championed
-  radical video formats as a means of changing society.<br>
   This preservation project has been funded through a generous Humanities Collections and Reference Resources grant from the
     <strong>National Endowment for the Humanities</strong>
 baseurl: "" # the subpath of your site, e.g. /blog
