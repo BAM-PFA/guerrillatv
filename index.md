@@ -1,7 +1,7 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-title: TVTV
+title: TVTV!
 layout: default
 ---
 ---
@@ -10,44 +10,59 @@ layout: default
   <div class="row">
     <div class="col-sm">
     <p>
-    <strong>Top Value Television</strong> began in 1972 when a group of mediamakers, artists, and activists used brand-new portable videotape equipment to document the <strong>'72 presidential conventions</strong>. With the sensibilities of the underground and cutting-edge consumer video tech, TVTV and a loose global network of <strong>video guerrillas</strong> spearheaded community-based news, citizen journalism, and democratized media that in 2020 continue to gain relevance. Active until 1977, many TVTV collaborators went on to become household names, including Bill Murray, Harold Ramis, and John Belushi.
+    The ground-breaking video collective <strong>Top Value Television</strong> (TVTV) began in 1972 when a group of mediamakers, artists, and activists used brand-new portable videotape equipment to document the <strong>‘72 Democratic and Republican presidential conventions</strong>. At a time when TV news reporters were weighed down by enormous packs of expensive equipment and gear, this band of "braless, blue-jeaned video freaks," as <i>Newsweek</i> called them, set out to revolutionize not only how to capture the news, but how to reframe the daily news cycle. With the sensibilities of the underground and cutting-edge consumer video tech, TVTV and a loose global network of <strong>video guerrillas</strong> spearheaded community-based news, citizen journalism, and democratized media that continue to gain relevance in the run-up to the <strong>2020 presidential conventions</strong>.
     </p>
     <p>
-    This site showcases a 2018-2021 preservation project at <a href="https://bampfa.org">BAMPFA</a> to digitize hundreds of hours of raw footage that went into TVTV's documentaries on the 1972 Democratic (<i><strong>World's Largest TV Studio</strong></i>) and Republican (<i><strong>Four More Years</strong></i>) conventions, as well as a 4-part program with TVTV members embedded in the White House during the first 100 days after Richard Nixon's resignation (<i><strong>Gerald Ford's America</strong></i>). We also digitized TVTV's entire paper and photo archive, with thousands of pages available online.
+    This site showcases a 2018-2021 preservation project at <a href="https://bampfa.org">BAMPFA</a> to digitize the hundreds of hours of never-before-seen raw footage that went into three of TVTV's broadcast documentaries. <strong>Four More Years</strong> follows the well-oiled Republican convention that nominated Richard Nixon and Spiro Agnew, and <strong>The World's Largest TV Studio</strong> documents the Democratic convention that put George McGovern and Thomas Eagleton on the ballot. <strong>Gerald Ford's America</strong> finds these Portapak-toting freex embedded in the White House during the turbulent 100 days following Nixon's resignation. A treasure-trove for political junkies, cultural historians, and anyone interested in how media portrays and shapes stories, the raw footage includes off-the-cuff cameos from such notables as as <strong>Allen Ginsberg</strong>, Ronald Reagan, Tricia Nixon, Willie Brown, <strong>Ralph Nader</strong>, Ron Dellums, Shirley MacLaine, <strong>Gloria Steinem</strong>, Walter Cronkite, and <strong>Dan Rather</strong>. This project has also digitized and put online several thousand pages of archival papers, including scrapbooks and snapshots by TVTV.
     </p>
     </div>
     <div class="col-sm-4">
-      <image style="width: 100%" src="{{ site.baseurl }}/assets/images/ar.gif"/>
+      <div class="row">
+        <div class="col text-center my-1">
+          <image style="width: 100%" src="{{ site.baseurl }}/assets/images/ar.gif"/>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col text-center my-1">
+          <image style="width: 100%" src="{{ site.baseurl }}/assets/images/portapak.jpg"/>
+        </div>
+      </div>
     </div>
   </div>
 </div>
 
 
 <div class="container" style="width: 80%">
-{% include carousel.html height="75" unit="%" duration="3" %}
+  {% include carousel.html height="75" unit="%" duration="3" %}
 </div>
 
 ---
 
 <div class="container-fluid">
-<div class="row">
-<div class="col-sm-8">
-TVTV, an ad hoc collective of pioneering mediamakers, artists, and activists who embraced video as a cultural form. TVTV’s operating philosophy was well expressed by founding member Michael Shamberg’s treatise Guerrilla Television (1971), which demanded an oppositional info-system to break the hold of mainstream media. In 1972, Shamberg, along with activist Megan Williams and Allen Rucker, a member of Stewart Brand’s Portola Institute, established the San Francisco Bay Area-based TVTV as a video production group that would use low-end video technology to create cultural and political programming notable for its unvarnished, rawly honest, and spontaneous coverage that countered the ossified and cautious coverage of corporate media. The initial spark for TVTV’s formation was a desire to document the 1972 presidential nominating conventions, both held in Miami Beach, Florida, from a point of view that the major television networks would be unable to capture. This led to TVTV’s opening salvo: the duo The World’s Largest TV Studio and Four More Years (both 1972), sardonic but serious coverage of the Democratic and Republican National Conventions. These videoworks constitute the first use of the 1/2” open reel video format ever broadcasted on national television. TVTV pioneered the movement of “do-it-yourself” television and championed the then new, radical video formats as a means of changing society, as seen in their writings and videos in our collection. Small-format video equipment like the Sony Portapak [this par. is just filler drawn from the grant app]
-</div>
-<div class="col-sm-4">
-<image style="width: 100%" src="{{ site.baseurl }}/assets/images/nancy-skip-van.jpg"/>
-<image style="width: 100%" src="{{ site.baseurl }}/assets/images/shamberg-williams.jpg"/>
-</div>
-</div>
+  <div class="row">
+    <div class="col-sm-8">
+      <p>
+      "The use of television's tools to give voice to overlooked peoples and viewpoints was at once an activist project and an aesthetic enterprise," writes former BAMPFA video curator <strong>Steve Seid</strong>. "No other video collective seemed to meld these dual intentions-political poignancy and artful rendering-as expertly as TVTV."
+      </p>
+      <p>
+      "We were inventing a new form of television," notes Allan Rucker, one of TVTV's founding members alongside Michael Shamberg, Tom Weinberg, Hudson Marquez, Wendy Appel, Paul Goldsmith, and Megan Williams. Inspired by Shamberg's 1971 DIY-call-to-arms video production manual-slash-manifesto, <strong>Guerrilla Television</strong>, the collective featured dozens of members between 1972-1977, with crossover from other now-legendary media collectives like <strong>Ant Farm</strong>, <strong>Raindance</strong>, and <strong>Videofreex</strong>. Their on-air "correspondents" included such future stars as Bill Murray, Harold Ramis, Christopher Guest, and John Belushi.
+      </p>
+      <p>
+      "TVTV’s iconoclastic coverage of the events—brash interviews with the media and politicians alike, cameraman-interviewers, stylish graphics, and no voice-overs, in sum their own video version of <i>vérité</i>—garnered praise from jaded journalists and hipster critics alike," writes author <strong>Deidre Boyle</strong>. "Their experimental TV tactics proved that a new style and energy had swept away the known world of network TV news."
+      </p>
+    </div>
+    <div class="col-sm-4">
+      <image style="width: 100%" src="{{ site.baseurl }}/assets/images/nancy-skip-van.jpg"/>
+      <image style="width: 100%" src="{{ site.baseurl }}/assets/images/shamberg-williams.jpg"/>
+    </div>
+  </div>
 </div>
 
 ---
 
 # About Some of TVTV's Members
 
-Between 1972 and 1977 the TVTV collective attracted and lost dozens of members, contributors, collaborators, and hangers-on. Some of these later became household names (like Bill Murray, Harold Ramis, and John Belushi), and of the core members many went on to careers in Hollywood, academia, and the arts. Some of the core members of the group are listed here.
-
-
+Between 1972 and 1977 the TVTV collective attracted and lost dozens of members, contributors, collaborators, and hangers-on. Some of these later became household names, and of the core members many went on to careers in Hollywood, academia, and the arts. Some of the core members of the group are listed here.
 
 <div class="container-fluid">
 
