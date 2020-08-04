@@ -11,17 +11,21 @@ This tape consists of approximately 33 minutes of raw footage from the TVTV shoo
 
 The TVTV crew attends a celebration for elderly Miami residents, complete with watermelons, musical performances, and speeches against Richard Nixon. Allen Ginsberg mixes with the crowd, and Ed Sanders of The Fugs sings a protest song with his autoharp. The last section of the tape includes news broadcasts taped off-air from television.
 
+<div class="iframe-container">
+  {% include internetArchive.html id=page.archiveID %}
+</div>
+
+---
+
 <div class="container">
   <div class="row">
-    <div class="col-sm-12 text-center">
-      {% include internetArchive.html id=page.archiveID %}
+    <div class="col">
+      <p>Here is the original TVTV tape log prepared for editing FOUR MORE YEARS:</p>
     </div>
   </div>
-  <p>Here is the original TVTV shot log prepared for editing FOUR MORE YEARS:</p>
-
   <div class="row">
-    <div class="col-sm-12 text-center">
-      <object height="1000" style="width: 70%" data="{{ site.baseurl }}/assets/pdfs/fmy-093-log.pdf" type='application/pdf'></object>
+    <div class="col text-center pdf-holder">
+      <object data="{{ site.baseurl }}/assets/pdfs/fmy-093-log.pdf" type='application/pdf'></object>
     </div>
   </div>
 

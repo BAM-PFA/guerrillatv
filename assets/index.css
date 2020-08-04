@@ -23,3 +23,24 @@
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
   }
+
+.iframe-container {
+  overflow: hidden;
+  padding-top: 56.25%;
+  position: relative;
+}
+
+.iframe-container iframe {
+   border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;
+}
+
+.pdf-holder object {
+  // generally this will be set on the col holding the object tag;
+  width: 80%;
+  min-height: 600px
+}
