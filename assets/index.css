@@ -39,6 +39,21 @@
    width: 100%;
 }
 
+.iframe-container-4-3 {
+  overflow: hidden;
+  padding-top: 75%;
+  position: relative;
+}
+
+.iframe-container-4-3 iframe {
+   border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;
+}
+
 .pdf-holder object {
   // generally this will be set on the col holding the object tag;
   width: 80%;

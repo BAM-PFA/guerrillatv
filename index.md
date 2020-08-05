@@ -49,10 +49,10 @@ vimeoID: 444606836
       "The use of television's tools to give voice to overlooked peoples and viewpoints was at once an activist project and an aesthetic enterprise," writes former BAMPFA video curator <strong>Steve Seid</strong>. "No other video collective seemed to meld these dual intentions–political poignancy and artful rendering–as expertly as TVTV."
       </p>
       <p>
-      "We were inventing a new form of television," notes Allan Rucker, one of TVTV's founding members alongside Michael Shamberg, Tom Weinberg, Hudson Marquez, Wendy Appel, Paul Goldsmith, and Megan Williams. Inspired by Shamberg's 1971 DIY-call-to-arms video production manual-slash-manifesto, <strong>Guerrilla Television</strong>, the collective featured dozens of members between 1972-1977, with crossover from other now-legendary media collectives like <strong>Ant Farm</strong>, <strong>Raindance</strong>, and <strong>Videofreex</strong>. Their on-air "correspondents" included such future stars as Bill Murray, Harold Ramis, Christopher Guest, and John Belushi.
+      "We were inventing a new form of television," notes Allen Rucker, one of TVTV's original members alongside Michael Shamberg, Tom Weinberg, Hudson Marquez, Wendy Appel, Paul Goldsmith, and Megan Williams. Inspired by Shamberg's 1971 DIY video production manual-slash-manifesto, <strong>Guerrilla Television</strong>, the collective featured dozens of members between 1972-1977, with crossover from other now-legendary media collectives like <strong>Ant Farm</strong>, <strong>Raindance</strong>, and <strong>Videofreex</strong>. Their on-air "correspondents" included such future stars as Bill Murray, Harold Ramis, Christopher Guest, and John Belushi.
       </p>
       <p>
-      "TVTV’s iconoclastic coverage of the events—brash interviews with the media and politicians alike, cameraman-interviewers, stylish graphics, and no voice-overs, in sum their own video version of <i>vérité</i>—garnered praise from jaded journalists and hipster critics alike," writes author <strong>Deidre Boyle</strong>. "Their experimental TV tactics proved that a new style and energy had swept away the known world of network TV news."
+      "TVTV’s iconoclastic coverage of the events—brash interviews with the media and politicians alike, cameraman-interviewers, stylish graphics, and no voice-overs, in sum their own video version of <i>vérité</i>—garnered praise from jaded journalists and hipster critics alike," writes author <strong>Deirdre Boyle</strong>. "Their experimental TV tactics proved that a new style and energy had swept away the known world of network TV news."
       </p>
     </div>
     <div class="col-sm-4">
@@ -86,7 +86,7 @@ Between 1972 and 1977 the TVTV collective attracted and lost dozens of members, 
     </div>
     <div class="col-md-8 text-right">
       <h2>Skip Blumberg</h2>
-      <p>Skip Blumberg was a founding member of TVTV.</p>
+      <p>Skip Blumberg was an original member of TVTV.</p>
     </div>
   </div>
 
@@ -96,7 +96,7 @@ Between 1972 and 1977 the TVTV collective attracted and lost dozens of members, 
     </div>
     <div class="col-md-8 text-right">
       <h2>Nancy Cain</h2>
-      <p>Nancy Cain was a founding member of TVTV.</p>
+      <p>Nancy Cain was an original member of TVTV.</p>
     </div>
   </div>
 
@@ -126,7 +126,7 @@ Between 1972 and 1977 the TVTV collective attracted and lost dozens of members, 
     </div>
     <div class="col-md-8 text-right">
       <h2>Chip Lord</h2>
-      <p>Chip Lord was a founding member of <a href="example.com">Ant Farm</a> and TVTV.</p>
+      <p>Chip Lord was an original member of <a href="example.com">Ant Farm</a> and TVTV.</p>
     </div>
   </div>
 
@@ -136,7 +136,7 @@ Between 1972 and 1977 the TVTV collective attracted and lost dozens of members, 
     </div>
     <div class="col-md-8 text-right">
       <h2>Hudson Marquez</h2>
-      <p>Hudson Marquez was a founding member of TVTV.</p>
+      <p>Hudson Marquez was an original member of Ant Farm TVTV.</p>
     </div>
   </div>
 
@@ -146,7 +146,7 @@ Between 1972 and 1977 the TVTV collective attracted and lost dozens of members, 
     </div>
     <div class="col-md-8 text-right">
       <h2>Doug Michels</h2>
-      <p>Doug Michels was a founding member of Ant Farm and TVTV.</p>
+      <p>Doug Michels was an original member of Ant Farm and TVTV.</p>
     </div>
   </div>
 
@@ -156,7 +156,9 @@ Between 1972 and 1977 the TVTV collective attracted and lost dozens of members, 
     </div>
     <div class="col-md-8 text-right">
       <h2>Allen Rucker</h2>
-      <p>"It’s handmade television. It’s documentary television that comes from the point of view of the people that make it and not from some kind of overall objective set of standards. It’s very subjective television. The style is intimate, it’s one-to-one."</p>
+      <p>
+        Allen Rucker was a founding and core member of TVTV for its duration. He later rose to greater prominence for his writing, including the mockumentary series <strong>The History of White People in America</strong> (with Martin Mull) and <i>The New York Times</i> bestseller <strong>The Sopranos Family Cookbook</strong>.
+      </p>
     </div>
   </div>
 
@@ -166,7 +168,7 @@ Between 1972 and 1977 the TVTV collective attracted and lost dozens of members, 
       </div>
       <div class="col-md-8 text-right">
         <h2>Curtis Schreier</h2>
-        <p>Curtis Schreier was a founding member of TVTV.</p>
+        <p>Curtis Schreier was an original member of TVTV.</p>
       </div>
   </div>
   <div class="row my-2">
@@ -196,7 +198,7 @@ Between 1972 and 1977 the TVTV collective attracted and lost dozens of members, 
     </div>
     <div class="col-md-8 text-right">
       <h2>Tom Weinberg</h2>
-      <p>Tom Weinberg was a founding member of TVTV.</p>
+      <p>Tom Weinberg was an original member of TVTV.</p>
     </div>
   </div>
 
@@ -206,7 +208,9 @@ Between 1972 and 1977 the TVTV collective attracted and lost dozens of members, 
     </div>
     <div class="col-md-6  text-right">
       <h2>Megan Williams</h2>
-      <p>Megan Williams was a founding member of TVTV.</p>
+      <p>
+        Megan Williams was a founding and core member of TVTV for its duration. She later became an Academy Award-nominated producer and recipient of the Alfred I. duPont Columbia Journalism Award, as well as an adjunct professor at USC’s School of Cinematic Arts.
+      </p>
     </div>
   </div>
 

@@ -3,7 +3,6 @@ layout: section
 title: Raw Footage
 permalink: /raw-footage
 ---
-
 <div class="row p-2">
   <div class="col-sm-8">
     <p>
