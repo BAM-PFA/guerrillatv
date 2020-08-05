@@ -6,12 +6,12 @@ vimeoID: 362850245
 ---
 
 <div class="row">
-  <div class="col-sm-8">
+  <div class="col-sm-8 col-xl-10">
     <p>TVTV’s members were part of a rich interconnected network of artists who propelled a countercultural movement through the use of personal and portable video recording equipment. Throughout the late 1960s into the 1970s, these "guerrilla video" makers would band together, forming collectives with evolving memberships - Raindance Corporation, Ant Farm, Videofreex, TVTV and others shared co-founders and members - serving the common purpose of disrupting mainstream media.</p>
 
     <p>The resources on this page are a gateway into the underground world of community-based news, citizen journalism, and democratized media.</p>
     </div>
-  <div class="col-sm-4">
+  <div class="col-sm-4 col-xl-2 mx-auto">
     <image style="width: 100%" src="{{ site.baseurl }}/assets/images/cam-boat.jpg" />
   </div>
 </div>
@@ -22,15 +22,24 @@ vimeoID: 362850245
 
 Eight of the standalone TVTV programs are available from the original TVTV members to stream or download on [tvtvnow.com](http://www.tvtvnow.com/)
 
-* **The World’s Largest TV Studio** (1972)
-* **Four More Years** (1972)
-* **Adland** (1974)
-* **The Lord of the Universe** (1974)
-* **Gerald Ford's America: WIN** and **Gerald Ford's America: Chic to Sheik** (1975)
-* **The Good Times Are Killing Me** (1975)
-* **TVTV Looks at the the Oscars** (1976)
-* **TVTV Goes to the Super Bowl** (1976)
-
+<div class="row">
+  <div class="col-xs-12 col-md-8">
+    <p>
+      <strong>The World’s Largest TV Studio</strong> (1972)<br>
+      <strong>Four More Years</strong> (1972)<br>
+      <strong>Adland</strong> (1974)<br>
+      <strong>The Lord of the Universe</strong> (1974)<br>
+      <strong>Gerald Ford's America: WIN</strong> and <strong>Gerald Ford's America: Chic to Sheik</strong> (1975)<br>
+      <strong>The Good Times Are Killing Me</strong> (1975)<br>
+      <strong>TVTV Looks at the the Oscars</strong> (1976)<br>
+      <strong>TVTV Goes to the Super Bowl</strong> (1976)<br>
+    </p>
+  </div>
+  <div class="col-xs-6 col-md-4 text-center">
+    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/lotu.jpg" />
+    <i>Image courtesy EIA</i>
+  </div>
+</div>
 ---
 
 # Electronic Arts Intermix
@@ -41,8 +50,6 @@ Eight of the standalone TVTV programs are available from the original TVTV membe
     <image style="width: 25%" src="{{ site.baseurl }}/assets/images/eai-logo.png" />
     <image style="width: 25%" src="{{ site.baseurl }}/assets/images/vdb_logo.png" />
   </div>
-  <!-- <div class="col-sm-6 text-center">
-  </div> -->
 </div>
 
 Many TVTV works (and works by related artists and collectives) are in distribution for rental or public exhibition through [Electronic Arts Intermix](https://www.eai.org/artists/tvtv/titles) and [Video Data Bank](https://www.vdb.org/artists/tvtv).

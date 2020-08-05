@@ -9,12 +9,12 @@ description: A scrapbook made by TVTV during the 1972 Democratic national conven
 TVTV made this scrapbook during the production of <strong>THE WORLD'S LARGEST TV STUDIO</strong>, their groundbreaking documentary about the 1972 Democratic National Convention (and the mainstream media's coverage of the convention). Intensely interested in <strong>how</strong> media gets made and intensely self-reflective, TVTV documented even the most mundane parts of their coverage from the deli lunches to the <strong>nitrous-oxide-inspired</strong> rap sessions.
 
 <div class="row">
-  <div class="col-sm">
+  <div class="col-sm-8 col-xl-3">
     <p>
       The scrapbook perfectly encapsulates the TVTV approach to guerrilla media: at the same time that they are long-haired, dope-smoking members of the <strong>underground</strong>, they are also very serious about making well-crafted tapes and are deceptively <strong>meticulous</strong>.
     </p>
   </div>
-  <div class="col-sm-4">
+  <div class="col-sm-4 mx-auto">
     <div class="row p-2">
       <image src="{{ site.baseurl}}/assets/images/boss-shamberg.jpg" style="width:100%"/>
     </div>
