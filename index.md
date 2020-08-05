@@ -46,7 +46,7 @@ vimeoID: 444606836
   <div class="row">
     <div class="col-sm-8">
       <p>
-      "The use of television's tools to give voice to overlooked peoples and viewpoints was at once an activist project and an aesthetic enterprise," writes former BAMPFA video curator <strong>Steve Seid</strong>. "No other video collective seemed to meld these dual intentions-political poignancy and artful rendering-as expertly as TVTV."
+      "The use of television's tools to give voice to overlooked peoples and viewpoints was at once an activist project and an aesthetic enterprise," writes former BAMPFA video curator <strong>Steve Seid</strong>. "No other video collective seemed to meld these dual intentions–political poignancy and artful rendering–as expertly as TVTV."
       </p>
       <p>
       "We were inventing a new form of television," notes Allan Rucker, one of TVTV's founding members alongside Michael Shamberg, Tom Weinberg, Hudson Marquez, Wendy Appel, Paul Goldsmith, and Megan Williams. Inspired by Shamberg's 1971 DIY-call-to-arms video production manual-slash-manifesto, <strong>Guerrilla Television</strong>, the collective featured dozens of members between 1972-1977, with crossover from other now-legendary media collectives like <strong>Ant Farm</strong>, <strong>Raindance</strong>, and <strong>Videofreex</strong>. Their on-air "correspondents" included such future stars as Bill Murray, Harold Ramis, Christopher Guest, and John Belushi.
@@ -175,7 +175,7 @@ Between 1972 and 1977 the TVTV collective attracted and lost dozens of members, 
     </div>
     <div class="col-md-8 text-right">
       <h2>Michael Shamberg</h2>
-      <p>Michael Shamberg was one of the core founders of TVTV and participated in all of its productions. After TVTV began to fizzle out and ultimately dissovled in 1977, Shamberg moved into mainstream Hollywood producing, finding early success with <strong>The Big Chill</strong> (1983). Some of the standout films he later produced or executive produced include <strong>A Fish Called Wanda</strong> (1988), <strong>Pulp Fiction</strong> (1994), <strong>Erin Brokovich</strong> (2000), and <strong>Django Unchained</strong> (2012). In recent years he has also had a successful TV career, executive producing <strong>Reno 911!</strong>, among many others.</p>
+      <p>Michael Shamberg was one of the core founders of TVTV and participated in all of its productions. After TVTV began to fizzle out and ultimately dissolved in 1977, Shamberg moved into mainstream Hollywood producing, finding early success with <strong>The Big Chill</strong> (1983). Some of the standout films he later produced or executive produced include <strong>A Fish Called Wanda</strong> (1988), <strong>Pulp Fiction</strong> (1994), <strong>Erin Brokovich</strong> (2000), and <strong>Django Unchained</strong> (2012). In recent years he has also had a successful TV career, executive producing <strong>Reno 911!</strong>, among many others.</p>
     </div>
   </div>
 
