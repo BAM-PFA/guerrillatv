@@ -29,6 +29,7 @@ url: "https://guerrillatv.bampfa.berkeley.edu" # the base hostname & protocol fo
 twitter_username: bampfa
 github_username:  bam-pfa
 title_image: /assets/images/hudson-chip-van.jpg
+google_analytics: UA-8226360-7
 
 # ||----------------------||
 # FROM THE ONASIS THEME CONFIG.YAML
