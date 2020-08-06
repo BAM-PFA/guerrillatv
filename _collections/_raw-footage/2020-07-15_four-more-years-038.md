@@ -15,7 +15,7 @@ The TVTV crew visits the encampment that had been set up in Flamingo Park, near 
 
 *__Kovic, pointing to each Marine Corps medal__: "Racism, sexism, imperialism, massacre, murder of the Indo-Chinese people, the starvation of the Vietnamese people."*
 
-<div class="iframe-container">
+<div class="iframe-container-4-3 mx-auto" style="width: 80%">
   {% include internetArchive.html id=page.archiveID %}
 </div>
 

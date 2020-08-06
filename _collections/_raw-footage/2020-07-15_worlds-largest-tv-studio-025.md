@@ -13,7 +13,7 @@ The **National Women's Political Caucus** met during the Democratic National Con
 
 *"Living the Black female experience is not an easy thing, you know. For me, my involvment in the women's movement follows out of my involvement in the Black movement, except now I'm addressing myself to the needs of the majority of the Black nation, which are Black women."(__Margaret Sloan-Hunter__)*
 
-<div class="iframe-container">
+<div class="iframe-container-4-3 mx-auto" style="width: 80%">
   {% include internetArchive.html id=page.archiveID %}
 </div>
 

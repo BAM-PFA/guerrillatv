@@ -13,7 +13,7 @@ The TVTV crew visits African-American delegates to the Democratic Convention in 
 
 *"I'd rather have a motherfucker that's going to try to sweet talk me to death than someone who's going to try to put his foot in my ass every day. And that's essentially the difference [between Democrats and Republicans]. I mean I really think the cat [McGovern] is sincere. Kennedy was sincere! But he wasn't sincere about overthrowing capitalism!"*
 
-<div class="iframe-container">
+<div class="iframe-container-4-3 mx-auto" style="width: 80%">
   {% include internetArchive.html id=page.archiveID %}
 </div>
 

@@ -13,7 +13,7 @@ The TVTV crew wanders the empty Miami Convention Center in the aftermath of the 
 
 *"You go through a day like today and you go 'Oh, I'm tired, what a week this has been,' but the fact is, I wouldn't have it any other way."* (Dan Rather on covering the Democratic onvention)
 
-<div class="iframe-container">
+<div class="iframe-container-4-3 mx-auto" style="width: 80%">
   {% include internetArchive.html id=page.archiveID %}
 </div>
 
