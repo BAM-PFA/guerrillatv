@@ -37,7 +37,7 @@ Eight of the standalone TVTV programs are available from the original TVTV membe
   </div>
   <div class="col-xs-6 col-md-4 text-center">
     <image style="width: 100%" src="{{ site.baseurl }}/assets/images/lotu.jpg" />
-    <i>Image courtesy EIA</i>
+    <i>Image courtesy EAI</i>
   </div>
 </div>
 ---

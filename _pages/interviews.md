@@ -5,7 +5,7 @@ permalink: /interviews
 ---
 
 <div class="row">
-  <div class="col-sm-7">
+  <div class="col-sm-7 col-xl-12">
     <p>
       In the run-up to the <strong>2020 Republican and Democratic National conventions</strong> and this November's <strong>presidential election</strong>, BAMPFA’s former video curator Steve Seid will interview some of the core members of TVTV. Megan Williams, Allen Rucker, Michael Shamberg, Hudson Marquez and Chip Lord, will give insight into the process of making <strong>guerrilla television</strong> and share their reflections on what has changed (and what hasn't) from the media landscape of the 1970s.
     </p>
@@ -13,7 +13,7 @@ permalink: /interviews
       Watch this space! Interviews will be posted throughout August and September 2020!
     </p>
   </div>
-  <div class="col-sm-5 text-center">
+  <div class="col-sm-5 col-xl-8 mx-auto">
     <image style="width:100%" src="{{ site.baseurl }}/assets/images/beautiful-miami-beach.jpg"></image>
   </div>
 </div>
