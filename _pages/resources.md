@@ -165,7 +165,7 @@ The group soon grew to ten full-time members--including Chuck Kennedy, Nancy Cai
   </div>
 </div>
 
-"A van outfitted with video recording, editing, and playback equipment toured the Pacific Coast in the early seventies... Loren Sears describes how the goal of his Tribal Vision Network (TVN) was 'to record lifestyle innovation happening in these communities, edit and feed it back as a way of providing connection and clarifying what was being accomplished – a kind of self-critical tool for cultural innovators.'" ([**Tanya Zimbardo**](https://www.tanyazimbardo.com/fullscreen-page/comp-jag793c1/1ff2be45-2985-442c-9100-d41705e11299/15/?i=15&p=&s=))
+"A van outfitted with video recording, editing, and playback equipment toured the Pacific Coast in the early seventies... Loren Sears describes how the goal of his <a href="https://www.lorensears.com/film-video-works/tribal-vision-archives/">Tribal Vision Network</a> (TVN) was 'to record lifestyle innovation happening in these communities, edit and feed it back as a way of providing connection and clarifying what was being accomplished – a kind of self-critical tool for cultural innovators.'" ([**Tanya Zimbardo**](https://www.tanyazimbardo.com/fullscreen-page/comp-jag793c1/1ff2be45-2985-442c-9100-d41705e11299/15/?i=15&p=&s=))
 
 ---
 

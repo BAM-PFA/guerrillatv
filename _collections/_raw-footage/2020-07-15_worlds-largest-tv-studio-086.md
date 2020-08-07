@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  The world's largest TV studio [raw footage tape 082]
-description: Raw footage from THE WORLD'S LARGEST TV STUDIO. TVTV interviews African-American delegates to the Democratic Convention on race, McGovern, and politics "Heavy Black Marxist Rap"
-date:   1972-07-12
-image: /assets/images/wltvs-082.jpg
-archiveID: worlds-largest-studio-082_16278_PM0040843_r01of01
+title:  The world's largest TV studio [raw footage tape 086]
+description: Raw footage from THE WORLD'S LARGEST TV STUDIO. TVTV sifts through the aftermath of the 1972 Democratic convention and interviews Walter Cronkite and Dan Rather
+date:   1972-07-14
+image: /assets/images/wltvs-086.jpg
+archiveID: worlds-largest-studio-086_16282_PM0040847_r01of01
 ---
 
-This tape consists of approximately 33 minutes of raw footage from the TVTV shooting of THE WORLD'S LARGEST TV STUDIO.
+This tape consists of approximately 25 minutes of raw footage from the TVTV shooting of THE WORLD'S LARGEST TV STUDIO.
 
-The TVTV crew visits African-American delegates to the Democratic Convention in their convention hotel room. What follows is a candid conversation about race in politics and higher education, representation for African-Americans and Latinos in the Democratic party, and navigating a discriminatory political landscape. We also see the TVTV crew driving around Miami Beach in the TVTV Media Van. TVTV labeled the original tape "**Black Marxist rap on McGovern (Heavy!)**".
+The TVTV crew wanders the empty Miami Convention Center in the aftermath of the Democratic convention. The empty halls, the floor littered with signs and debris, and the lonely janitors are a stark contrast to the bustle of the previous four days. This had been one of the longest and most grueling Democratic conventions ever, with all-night sessions and contentious issues including racism and abortion coming to the foreground of the Democratic party platform. Among the rubble the TVTV crew find Walter Cronkite and Dan Rather each wrapping up their coverage of the convention.
 
-*"I'd rather have a motherfucker that's going to try to sweet talk me to death than someone who's going to try to put his foot in my ass every day. And that's essentially the difference [between Democrats and Republicans]. I mean I really think the cat [McGovern] is sincere. Kennedy was sincere! But he wasn't sincere about overthrowing capitalism!"*
+*"You go through a day like today and you go 'Oh, I'm tired, what a week this has been,' but the fact is, I wouldn't have it any other way."* (Dan Rather on covering the Democratic onvention)
 
 <div class="iframe-container-4-3 mx-auto" style="width: 80%">
   {% include internetArchive.html id=page.archiveID %}
@@ -27,7 +27,7 @@ The TVTV crew visits African-American delegates to the Democratic Convention in 
   </div>
   <div class="row">
     <div class="col text-center pdf-holder">
-      <object data="{{ site.baseurl }}/assets/pdfs/wltvs-082-log.pdf" type='application/pdf'></object>
+      <object data="{{ site.baseurl }}/assets/pdfs/wltvs-086-log.pdf" type='application/pdf'></object>
     </div>
   </div>
 

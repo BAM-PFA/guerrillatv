@@ -82,7 +82,7 @@ Between 1972 and 1977 the TVTV collective attracted and lost dozens of members, 
 
   <div class="row my-2">
     <div class="col-md-4">
-      <image style="width: 100%" src="{{ site.baseurl }}/assets/images/blumberg.jpg"/>
+      <image style="width: 100%" src="{{ site.baseurl }}/assets/images/skip-skip.jpg"/>
     </div>
     <div class="col-md-8 text-right">
       <h2>Skip Blumberg</h2>
@@ -106,7 +106,8 @@ Between 1972 and 1977 the TVTV collective attracted and lost dozens of members, 
     </div>
     <div class="col-md-8 text-right">
       <h2>Paul Goldsmith</h2>
-      <p>"We were working with equipment that was not taken seriously. It was not really made for broadcast television. It was essentially amateur equipment, and we were the first people to take it seriously... Because it was different, it just meant we could make different television if we wanted to."</p>
+      <p>A principal member of TVTV who brought professional experience as a cinematographer to the group’s productions. Goldsmith produced and directed the documentary <strong>TVTV: Video Revolutionaries</strong> (2018).</p>
+      <p>"We were working with equipment that was not taken seriously. [...] It was essentially amateur equipment, and we were the first people to take it seriously. Because it was different, it just meant we could make different television if we wanted to."</p>
     </div>
   </div>
 
