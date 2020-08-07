@@ -24,6 +24,11 @@
     font-weight: 400;
   }
 
+div.jumbotron span {
+  /* color: #df702c; */
+  background-color: rgba(204, 204, 204, 0.5);
+}
+
 .iframe-container {
   overflow: hidden;
   padding-top: 56.25%;
