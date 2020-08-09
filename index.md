@@ -96,7 +96,7 @@ Between 1972 and 1977 the TVTV collective attracted and lost dozens of members, 
     </div>
     <div class="col-md-8 text-right">
       <h2>Nancy Cain</h2>
-      <p>Nancy Cain was an original member of TVTV.</p>
+      <p>One of several Videofreex to join TVTV for their earliest transmissions, Nancy Cain’s life is an embodiment of the guerrilla television ethos. She was the driving force behind community access television stations (Lanesville, KY and Woodstock, NY); created and directed irreverent and iconoclastic programs for public television (<strong>The ‘90s</strong>) and cable (<strong>CamNet: The Camcorder Network</strong>); and wrote a book recounting her life in video, <strong>Video Days: and What We Saw Through the Viewfinder</strong>.</p>
     </div>
   </div>
 
@@ -169,7 +169,7 @@ Between 1972 and 1977 the TVTV collective attracted and lost dozens of members, 
       </div>
       <div class="col-md-8 text-right">
         <h2>Curtis Schreier</h2>
-        <p>Curtis Schreier was an original member of TVTV.</p>
+        <p>Curtis Schreier was an original member of TVTV and one of the founders of Ant Farm. Schreier’s design sensibilities and offbeat humor can be found in many of Ant Farm’s and TVTV’s printed material (like the "Video Scrapbooks" poster above) and built objects like the TVTV media van (lent to TVTV by Ant Farm).</p>
       </div>
   </div>
   <div class="row my-2">
@@ -199,7 +199,7 @@ Between 1972 and 1977 the TVTV collective attracted and lost dozens of members, 
     </div>
     <div class="col-md-8 text-right">
       <h2>Tom Weinberg</h2>
-      <p>Tom Weinberg was an original member of TVTV.</p>
+      <p>Tom Weinberg was an original member of TVTV and founder of <strong>Media Burn</strong>, an online video archive that focuses on independent documentaries with a social justice lens. After TVTV he went on to an award-winning career producing independent documentaries and television, including creating <strong>The '90s</strong> and <strong>Image Union</strong>.</p>
     </div>
   </div>
 
