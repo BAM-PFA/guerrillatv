@@ -13,40 +13,72 @@ permalink: /interviews
       Watch this space! Interviews will be posted throughout August and September 2020!
     </p>
   </div>
-  <div class="col-sm-5 col-xl-8 mx-auto">
-    <image style="width:100%" src="{{ site.baseurl }}/assets/images/beautiful-miami-beach.jpg"></image>
+  <div class="col-sm-5 col-xl-6 mx-auto">
+    <image style="width:100%" src="{{ site.baseurl }}/assets/images/ice-cream.jpg"></image>
   </div>
 </div>
 
 ---
 
-# Megan Williams
-
-Megan Williams has continued to produce documentary films since the 1980s.
-
----
-
-# Allen Rucker
-
-Allen Rucker has continued to be involved in media production, teaching, and writing, and has also become an activist for disability rights.
-
----
-
-# Michael Shamberg
-
-Michael Shamberg has remained a film producer in Hollywood with successful films ranging from **Pulp Fiction** to **Erin Brokovitch**.
+<div class="row my-2">
+  <div class="col-md-4 col-lg-3">
+    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/williams-3.jpg"/>
+  </div>
+  <div class="col-md-8 col-xl-6 text-right">
+    <h2>Megan Williams</h2>
+    <p>After TVTV Megan Williams became an Academy Award-nominated producer and recipient of the Alfred I. duPont Columbia Journalism Award, and has taught at the University of Southern California’s School of Cinematic Arts.</p>
+  </div>
+</div>
 
 ---
 
-# Hudson Marquez
-
-Hudson Marquez has remained an active video artist and painter, currently based in Los Angeles.
+<div class="row my-2">
+  <div class="col-md-4 col-lg-3">
+    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/rucker-2.jpg"/>
+  </div>
+  <div class="col-md-8 col-xl-6 text-right">
+    <h2>Allen Rucker</h2>
+    <p>
+      Allen Rucker later became known for his writing, including the mockumentary series <strong>The History of White People in America</strong> (with Martin Mull) and <i>The New York Times</i> bestseller <strong>The Sopranos Family Cookbook</strong>, and has also become an activist for disability rights.
+    </p>
+  </div>
+</div>
 
 ---
 
-# Chip Lord
+<div class="row my-2">
+  <div class="col-md-4 col-lg-3">
+    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/williams-shamberg-gear.jpg"/>
+  </div>
+  <div class="col-md-8 col-xl-6 text-right">
+    <h2>Michael Shamberg</h2>
+    <p>After TVTV dissolved in 1977, Shamberg remained a film producer in Hollywood with successful films ranging from <strong>Pulp Fiction</strong> (1994), to <strong>Erin Brockovich</strong> (2000), to <strong>Django Unchained</strong> (2012).</p>
+  </div>
+</div>
 
-After working with TVTV, Chip Lord continued as a core member of the **Ant Farm** conceptual art and architecture collective. He is currently an active media artist and professor of film and digital media at UC Santa Cruz.
+---
+
+<div class="row my-2">
+  <div class="col-md-4 col-lg-3">
+    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/marquez-2.jpg"/>
+  </div>
+  <div class="col-md-8 col-xl-6 text-right">
+    <h2>Hudson Marquez</h2>
+    <p>Alongside TVTV, Hudson Marquez and the rest of the Ant Farm continued making conceptual-architectual art. Marquez has remained an active video artist and painter, currently based in Los Angeles.</p>
+  </div>
+</div>
+
+---
+
+<div class="row my-2">
+    <div class="col-md-4 col-lg-3">
+      <image style="width: 100%" src="{{ site.baseurl }}/assets/images/chip-gear.jpg"/>
+    </div>
+    <div class="col-md-8 col-xl-6 text-right">
+      <h2>Chip Lord</h2>
+      <p>After a stint with TVTV, Chip Lord continued as a member Ant Farm and maintained his own art practice. He is currently an active media artist and professor in the Department of Film and Digital Media at UC Santa Cruz.</p>
+    </div>
+</div>
 
 <!-- {% include sections/last_post.html last_post=site.interviews.last%}
 {% include sections/items_except_last.html items=site.interviews%} -->
