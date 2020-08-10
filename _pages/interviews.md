@@ -26,7 +26,7 @@ permalink: /interviews
   </div>
   <div class="col-md-8 col-xl-6 text-right">
     <h2>Megan Williams</h2>
-    <p>After TVTV Megan Williams became an Academy Award-nominated producer and recipient of the Alfred I. duPont Columbia Journalism Award, and has taught at the University of Southern California’s School of Cinematic Arts.</p>
+    <p>After TVTV Megan Williams became an Academy Award-nominated producer and recipient of the <strong>Alfred I. duPont Columbia Journalism Award</strong>, and has taught at the University of Southern California’s School of Cinematic Arts.</p>
   </div>
 </div>
 

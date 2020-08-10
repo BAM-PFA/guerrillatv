@@ -74,7 +74,7 @@ Ahead of the <strong>2020 Republican and Democratic National Conventions</strong
   </div>
   <div class="col-md-8 text-right">
     <h2>Steve Seid</h2>
-    <p>Steve Seid is the former video curator at BAMPFA and has written extensively on video art, guerrilla video, and activist art practice. He coordinated the donation of TVTV's video and paper archives to BAMPFA and is the author of a forthcoming definitive history of the <strong>Ant Farm</strong> art collective, in addition to co-author of a retrospective exhibition catalogue (2004) of Ant Farm's work with Constance Lewallen.</p>
+    <p>Steve Seid is the former video curator at BAMPFA and has written extensively on video art, guerrilla video, and activist art practice. He coordinated the donation of TVTV's video and paper archives to BAMPFA and is the author of a forthcoming definitive history of <strong>Ant Farm's</strong> iconic conceptual art piece <a href="https://www.moma.org/collection/works/107284"><i>Media Burn</i></a>, in addition to co-author of a retrospective exhibition catalogue (<i>Ant Farm: 1968-1978</i>, 2004) of Ant Farm's work with Constance Lewallen.</p>
   </div>
 </div>
 
