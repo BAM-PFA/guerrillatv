@@ -78,7 +78,7 @@ Between 1972 and 1977 the TVTV collective attracted and lost dozens of members, 
   <div class="col-md-8 text-right">
     <h2>Wendy Appel</h2>
     <p>
-    The life of Nancy Cain, one of several Videofreex to join TVTV for their earliest transmissions, is an embodiment of the guerrilla television ethos. She was the driving force behind community access television stations in Lanesville, Kentucky, and Woodstock, New York; created and directed irreverent and iconoclastic programs for public television (<i>The ‘90s</i>) and cable TV (<i>CamNet: The Camcorder Network</i>); and wrote a book recounting her life in video, <i>Video Days: and What We Saw Through the Viewfinder</i>.
+    Appel was a core member of TVTV and a crucial voice in the editing room. "The editing has always been of equal import to the shooting of any TVTV show. A lot of the TVTV style and the references come together and merge in the collage of editing."—Wendy Appel
     </p>
   </div>
 </div>
@@ -99,7 +99,9 @@ Between 1972 and 1977 the TVTV collective attracted and lost dozens of members, 
   </div>
   <div class="col-md-8 text-right">
     <h2>Nancy Cain</h2>
-    <p>One of several Videofreex to join TVTV for their earliest transmissions, Nancy Cain’s life is an embodiment of the guerrilla television ethos. She was the driving force behind community access television stations (Lanesville, KY and Woodstock, NY); created and directed irreverent and iconoclastic programs for public television (<strong>The ‘90s</strong>) and cable (<strong>CamNet: The Camcorder Network</strong>); and wrote a book recounting her life in video, <strong>Video Days: and What We Saw Through the Viewfinder</strong>.</p>
+    <p>
+    The life of Nancy Cain, one of several Videofreex to join TVTV for their earliest transmissions, is an embodiment of the guerrilla television ethos. She was the driving force behind community access television stations in Lanesville, Kentucky, and Woodstock, New York; created and directed irreverent and iconoclastic programs for public television (<i>The ‘90s</i>) and cable TV (<i>CamNet: The Camcorder Network</i>); and wrote a book recounting her life in video, <i>Video Days: and What We Saw Through the Viewfinder</i>.
+    </p>
   </div>
 </div>
 
