@@ -7,10 +7,7 @@ permalink: /interviews
 <div class="row">
   <div class="col-sm-7 col-xl-12">
     <p>
-      In the run-up to the <strong>2020 Republican and Democratic National conventions</strong> and this November's <strong>presidential election</strong>, BAMPFA’s former video curator Steve Seid will interview some of the core members of TVTV. Megan Williams, Allen Rucker, Michael Shamberg, Hudson Marquez and Chip Lord, will give insight into the process of making <strong>guerrilla television</strong> and share their reflections on what has changed (and what hasn't) from the media landscape of the 1970s.
-    </p>
-    <p>
-      Watch this space! Interviews will be posted throughout August and September 2020!
+      In the run-up to the 2020 Republican and Democratic National Conventions and this November's presidential election, BAMPFA’s former video curator Steve Seid interviews some of the core members of TVTV. Chip Lord, Hudson Marquez, Allen Rucker, Michael Shamberg, and Megan Williams and give insight into the process of making <strong>guerrilla television</strong> and share their reflections on what has changed (and what hasn't) from the media landscape of the 1970s.
     </p>
   </div>
   <div class="col-sm-5 col-xl-6 mx-auto">
@@ -26,7 +23,7 @@ permalink: /interviews
   </div>
   <div class="col-md-8 col-xl-6 text-right">
     <h2>Megan Williams</h2>
-    <p>After TVTV Megan Williams became an Academy Award-nominated producer and recipient of the <strong>Alfred I. duPont Columbia Journalism Award</strong>, and has taught at the University of Southern California’s School of Cinematic Arts.</p>
+    <p>After TVTV Megan Williams became an Academy Award-nominated producer and recipient of the Alfred I. duPont Columbia Journalism Award, and has taught at the University of Southern California’s School of Cinematic Arts.</p>
   </div>
 </div>
 
@@ -39,7 +36,7 @@ permalink: /interviews
   <div class="col-md-8 col-xl-6 text-right">
     <h2>Allen Rucker</h2>
     <p>
-      Allen Rucker later became known for his writing, including the mockumentary series <strong>The History of White People in America</strong> (with Martin Mull) and <i>The New York Times</i> bestseller <strong>The Sopranos Family Cookbook</strong>, and has also become an activist for disability rights.
+      Allen Rucker later became known for his writing, including the mockumentary series <i>The History of White People in America</i> (with Martin Mull) and <i>The New York Times</i> bestseller <i>The Sopranos Family Cookbook</i>, and has also become an activist for disability rights.
     </p>
   </div>
 </div>
@@ -52,7 +49,7 @@ permalink: /interviews
   </div>
   <div class="col-md-8 col-xl-6 text-right">
     <h2>Michael Shamberg</h2>
-    <p>After TVTV dissolved in 1977, Shamberg remained a film producer in Hollywood with successful films ranging from <strong>Pulp Fiction</strong> (1994), to <strong>Erin Brockovich</strong> (2000), to <strong>Django Unchained</strong> (2012).</p>
+    <p>After TVTV dissolved in 1977, Shamberg remained a film producer in Hollywood with successful films ranging from <i>Pulp Fiction</i> (1994), to <i>Erin Brockovich</i> (2000), to <i>Django Unchained</i> (2012).</p>
   </div>
 </div>
 
@@ -64,7 +61,7 @@ permalink: /interviews
   </div>
   <div class="col-md-8 col-xl-6 text-right">
     <h2>Hudson Marquez</h2>
-    <p>Alongside TVTV, Hudson Marquez and the rest of the Ant Farm continued making conceptual-architectual art. Marquez has remained an active video artist and painter, currently based in Los Angeles.</p>
+    <p>Alongside TVTV, Hudson Marquez and the rest of the Ant Farm continued making conceptual-architectual art. Marquez has remained an active video artist and painter. He is currently based in Los Angeles.</p>
   </div>
 </div>
 
