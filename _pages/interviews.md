@@ -18,12 +18,24 @@ permalink: /interviews
 ---
 
 <div class="row my-2">
+    <div class="col-md-4 col-lg-3">
+      <image style="width: 100%" src="{{ site.baseurl }}/assets/images/chip-gear.jpg"/>
+    </div>
+    <div class="col-md-8 col-xl-6 text-right">
+      <h2>Chip Lord</h2>
+      <p>After a stint with TVTV, Chip Lord continued as a member Ant Farm and maintained his own art practice. He is currently an active media artist and professor in the Department of Film and Digital Media at UC Santa Cruz.</p>
+    </div>
+</div>
+
+---
+
+<div class="row my-2">
   <div class="col-md-4 col-lg-3">
-    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/williams-3.jpg"/>
+    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/marquez-2.jpg"/>
   </div>
   <div class="col-md-8 col-xl-6 text-right">
-    <h2>Megan Williams</h2>
-    <p>After TVTV Megan Williams became an Academy Award-nominated producer and recipient of the Alfred I. duPont Columbia Journalism Award, and has taught at the University of Southern California’s School of Cinematic Arts.</p>
+    <h2>Hudson Marquez</h2>
+    <p>Alongside TVTV, Hudson Marquez and the rest of the Ant Farm continued making conceptual-architectual art. Marquez has remained an active video artist and painter. He is currently based in Los Angeles.</p>
   </div>
 </div>
 
@@ -57,25 +69,14 @@ permalink: /interviews
 
 <div class="row my-2">
   <div class="col-md-4 col-lg-3">
-    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/marquez-2.jpg"/>
+    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/williams-3.jpg"/>
   </div>
   <div class="col-md-8 col-xl-6 text-right">
-    <h2>Hudson Marquez</h2>
-    <p>Alongside TVTV, Hudson Marquez and the rest of the Ant Farm continued making conceptual-architectual art. Marquez has remained an active video artist and painter. He is currently based in Los Angeles.</p>
+    <h2>Megan Williams</h2>
+    <p>After TVTV Megan Williams became an Academy Award-nominated producer and recipient of the Alfred I. duPont Columbia Journalism Award, and has taught at the University of Southern California’s School of Cinematic Arts.</p>
   </div>
 </div>
 
 ---
-
-<div class="row my-2">
-    <div class="col-md-4 col-lg-3">
-      <image style="width: 100%" src="{{ site.baseurl }}/assets/images/chip-gear.jpg"/>
-    </div>
-    <div class="col-md-8 col-xl-6 text-right">
-      <h2>Chip Lord</h2>
-      <p>After a stint with TVTV, Chip Lord continued as a member Ant Farm and maintained his own art practice. He is currently an active media artist and professor in the Department of Film and Digital Media at UC Santa Cruz.</p>
-    </div>
-</div>
-
 <!-- {% include sections/last_post.html last_post=site.interviews.last%}
 {% include sections/items_except_last.html items=site.interviews%} -->

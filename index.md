@@ -227,7 +227,7 @@ Between 1972 and 1977 the TVTV collective attracted and lost dozens of members, 
   <div class="col-md-4">
     <image style="width: 100%" src="{{ site.baseurl }}/assets/images/megan-williams.jpg"/>
   </div>
-  <div class="col-md-6  text-right">
+  <div class="col-md-8  text-right">
     <h2>Megan Williams</h2>
     <p>
       Megan Williams was a member of TVTV for its duration. She later became an Academy Award-nominated producer and a recipient of the Alfred I. duPont Columbia Journalism Award, and has taught at the University of Southern California’s School of Cinematic Arts.

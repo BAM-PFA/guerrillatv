@@ -7,10 +7,10 @@ vimeoID: 362850245
 
 <div class="row">
   <div class="col-sm-8 col-xl-10">
-    <p>TVTV’s members were part of a rich interconnected network of artists who propelled a countercultural movement through the use of personal and portable video recording equipment. Throughout the late 1960s into the 1970s, these "guerrilla video" makers would band together, forming collectives with evolving memberships - Raindance Corporation, Ant Farm, Videofreex, TVTV and others shared co-founders and members - serving the common purpose of disrupting mainstream media.</p>
-
-    <p>The resources on this page are a gateway into the underground world of community-based news, citizen journalism, and democratized media.</p>
-    </div>
+    <p>
+      TVTV’s members were part of a rich interconnected network of artists who propelled a countercultural movement through the use of personal and portable video recording equipment. Throughout the late 1960s and into the 1970s, these "guerrilla television" makers banded together, forming collectives with evolving memberships serving the common purpose of disrupting mainstream media. Raindance Corporation, Ant Farm, Videofreex, TVTV and others shared cofounders and members. The following resources shed light on the origins of this underground world of community-based news, citizen journalism, and democratized media.
+    </p>
+  </div>
   <div class="col-sm-4 col-xl-2 mx-auto">
     <image style="width: 100%" src="{{ site.baseurl }}/assets/images/cam-boat.jpg" />
   </div>
@@ -25,14 +25,14 @@ Eight of the standalone TVTV programs are available from the original TVTV membe
 <div class="row">
   <div class="col-xs-12 col-md-8">
     <p>
-      <strong>The World’s Largest TV Studio</strong> (1972)<br>
-      <strong>Four More Years</strong> (1972)<br>
-      <strong>Adland</strong> (1974)<br>
-      <strong>The Lord of the Universe</strong> (1974)<br>
-      <strong>Gerald Ford's America: WIN</strong> and <strong>Gerald Ford's America: Chic to Sheik</strong> (1975)<br>
-      <strong>The Good Times Are Killing Me</strong> (1975)<br>
-      <strong>TVTV Looks at the the Oscars</strong> (1976)<br>
-      <strong>TVTV Goes to the Super Bowl</strong> (1976)<br>
+      <i>The World’s Largest TV Studio</i> (1972)<br>
+      <i>Four More Years</i> (1972)<br>
+      <i>Adland</i> (1974)<br>
+      <i>The Lord of the Universe</i> (1974)<br>
+      <i>Gerald Ford's America: WIN</i> and <i>Gerald Ford's America: Chic to Sheik</i> (1975)<br>
+      <i>The Good Times Are Killing Me</i> (1975)<br>
+      <i>TVTV Looks at the the Oscars</i> (1976)<br>
+      <i>TVTV Goes to the Super Bowl</i> (1976)<br>
     </p>
   </div>
   <div class="col-xs-6 col-md-4 text-center">
@@ -72,7 +72,7 @@ EAI and Video Data Bank are two major resources in North America for video and m
 </div>
 <!-- ![dvd cover for the 2018 documentary about tvtvt](/assets/images/tvtv-doc.jpg) -->
 
-Directed by TVTV member Paul Goldsmith, this 2018 documentary explores the origins, achievements and antics of the Top Value Television crew between 1972-1977. It features footage of Bill Murray, Hunter S. Thompson, Steven Spielberg, Lynn Swan, Goldie Hawn, Abbie Hoffman, Lily Tomlin and more, as well as original interviews with many of TVTV’s members.
+Directed by TVTV member Paul Goldsmith, this 2018 documentary explores the origins, achievements, and antics of the TVTV crew between 1972 and 1977. It features footage of Goldie Hawn, Abbie Hoffman, Bill Murray, Steven Spielberg, Lynn Swan, Hunter S. Thompson, Lily Tomlin, and more, as well as original interviews with many of TVTV’s members. Read a review from Vulture here.
 
 Read a review from *Vulture* [here](https://www.vulture.com/2018/11/paul-goldsmiths-tvtv-video-revolutionaries-documentary.html).
 
@@ -91,15 +91,15 @@ Read a review from *Vulture* [here](https://www.vulture.com/2018/11/paul-goldsmi
   </div>
 </div>
 
-*Radical Software* was an underground magazine revolving closely around the core of the independent video and video art scenes. It was founded in 1970, in the wake of Sony loading the first generation of (relatively) low-cost, portable video equipment into the hands of artists, activists, and ordinary people. With a circulation of 5,000 freex, it became a communication network for the burgeoning American video community of the early 1970s and included contributions by [Nam June Paik](https://americanart.si.edu/artist/nam-june-paik-3670), [Douglas Davis](https://www.eai.org/artists/douglas-davis/biography), [Paul Ryan](https://www.eai.org/artists/paul-ryan/biography), [Frank Gillette](http://www.vdb.org/artists/frank-gillette), [Beryl Korot](https://www.moma.org/artists/35522), [Charles Bensinger](http://www.peopleofthechange.com/charles-bensinger/), [Ira Schneider](https://www.ira-schneider.com/artist/index.html), [Ann Tyng](https://www.design.upenn.edu/anne-grisold-tyng-collection-074), [R. Buckminster Fuller](https://en.wikipedia.org/wiki/Buckminster_Fuller), [Gregory Bateson](https://en.wikipedia.org/wiki/Gregory_Bateson), [Gene Youngblood](http://www.vasulka.org/Kitchen/PDF_ExpandedCinema/book.pdf), [Parry Teasdale](https://www.vdb.org/titles/parry-teasdale-interview), [Ant Farm](https://www.sfmoma.org/artist/ant_farm/), and many others.
+*Radical Software* was an underground magazine revolving closely around the core of the independent video and video art scenes. It was founded in 1970, in the wake of Sony loading the first generation of (relatively) low-cost, portable video equipment into the hands of artists, activists, and ordinary people. With a circulation of 5,000 freex, it became a communication network for the burgeoning American video community of the early 1970s and included contributions by [Ant Farm](https://www.sfmoma.org/artist/ant_farm/), [Gregory Bateson](https://en.wikipedia.org/wiki/Gregory_Bateson), [Charles Bensinger](http://www.peopleofthechange.com/charles-bensinger/), [Douglas Davis](https://www.eai.org/artists/douglas-davis/biography), [R. Buckminster Fuller](https://en.wikipedia.org/wiki/Buckminster_Fuller), [Frank Gillette](http://www.vdb.org/artists/frank-gillette), [Beryl Korot](https://www.moma.org/artists/35522), [Nam June Paik](https://americanart.si.edu/artist/nam-june-paik-3670), [Paul Ryan](https://www.eai.org/artists/paul-ryan/biography), [Ira Schneider](https://www.ira-schneider.com/artist/index.html), [Parry Teasdale](https://www.vdb.org/titles/parry-teasdale-interview), [Ann Tyng](https://www.design.upenn.edu/anne-grisold-tyng-collection-074), [Gene Youngblood](http://www.vasulka.org/Kitchen/PDF_ExpandedCinema/book.pdf), and many others.
 
-All eleven Radical Software issues are available to browse, read and download on [this comprehensive site](https://www.radicalsoftware.org/e/index.html) which also includes informative essays and a detailed history about the publication. Radical Software was published between 1970-1974 overseen at first by the Raindance Corporation, followed by the Raindance Foundation with Gordon and Breach Publishers.
+All eleven *Radical Software* issues are available to browse, read and download on [this comprehensive site](https://www.radicalsoftware.org/e/index.html) which also includes informative essays and a detailed history about the publication. Published between 1970 and 1974, the magazine was overseen at first by the Raindance Corporation, then by the Raindance Foundation with Gordon and Breach Publishers.
 
 ---
 
 # Ant Farm
 
-Ant Farm was deeply interwoven into the video and conceptual art scenes of the 1970s. Members crossed over into many other groups, with varying degrees of collaboration: Chip Lord, Doug Michels, Curtis Schreier, Hudson Marquez, and others contributed to or were core members of TVTV.
+Ant Farm was deeply interwoven into the video and conceptual art scenes of the 1970s. Members crossed over into many other groups, with varying degrees of collaboration: Chip Lord, Hudson Marquez, Doug Michels, Curtis Schreier, and others contributed to or were core members of TVTV.
 
 <div class="row">
   <div class="col-sm align-self-center text-center">
@@ -129,7 +129,7 @@ Ant Farm was deeply interwoven into the video and conceptual art scenes of the 1
   </div>
 </div>
 
-"Founded in 1969 by Frank Gillette, Michael Shamberg, [Megan Williams,] and Ira Schneider, among others, Raindance was a self-described "countercultural thinktank" that embraced video as an alternative form of cultural communication. The name "Raindance" was a play on words for "cultural R & D" (research and development) [and a play on the establishment [RAND Corporation](https://en.wikipedia.org/wiki/RAND_Corporation) thinktank]. Influenced by the communications theories of Marshall McLuhan and Buckminster Fuller, the collective produced a data bank of tapes and writings that explored the relation of cybernetics, media, and ecology. [...] In 1971, Shamberg wrote *Guerrilla Television*, a summary of the group’s principles and a blueprint for the decentralization of television. In 1976, Raindance members Ira Schneider and Beryl Korot edited *Video Art: An Anthology*, one of the first readers on video art. The original Raindance collective dispersed in the mid-'70s; the nonprofit Raindance Foundation continues to exist today." ([**Video Data Bank**](https://www.vdb.org))
+"Founded in 1969 by Frank Gillette, Michael Shamberg, [Megan Williams,] and Ira Schneider, among others, Raindance was a self-described 'countercultural thinktank' that embraced video as an alternative form of cultural communication. The name 'Raindance' was a play on words for 'cultural R & D' (research and development) [and a play on the establishment [RAND Corporation](https://en.wikipedia.org/wiki/RAND_Corporation) thinktank]. Influenced by the communications theories of Marshall McLuhan and Buckminster Fuller, the collective produced a data bank of tapes and writings that explored the relation of cybernetics, media, and ecology. . . . In 1971, Shamberg wrote *Guerrilla Television*, a summary of the group’s principles and a blueprint for the decentralization of television. In 1976, Raindance members Ira Schneider and Beryl Korot edited *Video Art: An Anthology*, one of the first readers on video art. The original Raindance collective dispersed in the mid-'70s; the nonprofit Raindance Foundation continues to exist today." ([**Video Data Bank**](https://www.vdb.org))
 
 ---
 
