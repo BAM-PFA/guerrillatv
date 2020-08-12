@@ -8,8 +8,6 @@ author: Rick Prelinger
 excerpt_separator: <!-- more -->
 ---
 
-<i>By {{ page.author }}</i>
-
 <div class="row">
   <div class="col-sm-7 col-xl-12">
     <p>

@@ -3,7 +3,9 @@ layout: default
 ---
 <div class="jumbotron" style="background-image: url({{ page.image }}); background-size: cover;">
   <h1 class="col-md-5 mx-auto mb-5 d-flex justify-content-center display-5"><span>{{ page.title }}</span></h1>
+  {% if page.author %}<h4 class="col-md-5 mx-auto mb-5 d-flex justify-content-center display-5"><span> by {{ page.author }}</span></h4>{% endif %}
   <h3><span>{{ page.description }}</span></h3>
+
 </div>
 <article class="container">
   {{ content }}

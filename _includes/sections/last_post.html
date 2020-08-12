@@ -4,7 +4,7 @@
       <div class="col-md-4 col-lg-12 col-xl-12">
         <div>
           <a href="{{ include.last_post.url | prepend: site.baseurl }}" class="text-reset">
-            <h3>{{ include.last_post.title }}</h3><h5> by {{ include.last_post.author }}</h5>
+            <h3>{{ include.last_post.title }}</h3>{% if include.last_post.author %}<h5> by {{ include.last_post.author }}</h5>{% endif %}
           </a>
           <p class="card-text">{{ include.last_post.excerpt }}</p>
           <p class="card-text"><small class="text-muted">{{ include.last_post.date | date_to_long_string }}</small></p>
