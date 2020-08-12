@@ -11,7 +11,7 @@ This tape consists of approximately twenty-five minutes of raw footage from the 
 
 The TVTV crew wanders the empty Miami Convention Center in the aftermath of the Democratic convention. The empty halls, the floor littered with signs and debris, and the lonely janitors are a stark contrast to the bustle of the previous four days. This had been one of the longest and most grueling Democratic conventions ever, with all-night sessions and contentious issues including racism and abortion coming to the foreground of the Democratic Party platform. Among the rubble, the TVTV crew find Walter Cronkite and Dan Rather each wrapping up their coverage of the convention.
 
-*__Dan Rather on covering the Democratic National Convention: __"You go through a day like today and you go 'Oh, I'm tired, what a week this has been,' but the fact is, I wouldn't have it any other way."*
+*__Dan Rather on covering the Democratic National Convention:__* *"You go through a day like today and you go 'Oh, I'm tired, what a week this has been,' but the fact is, I wouldn't have it any other way."*
 
 
 <div class="iframe-container-4-3 mx-auto" style="width: 80%">

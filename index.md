@@ -1,7 +1,5 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-title: TVTV!
+title: About TVTV
 layout: default
 vimeoID: 444606836
 ---
@@ -30,6 +28,8 @@ vimeoID: 444606836
     </div>
   </div>
 </div>
+
+---
 
 <div class="iframe-container mx-auto" style="width: 80%">
 {% include vimeo_player.html id=page.vimeoID %}
