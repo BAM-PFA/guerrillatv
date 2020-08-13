@@ -8,8 +8,8 @@ permalink: /essays
 
 ---
 
-{% include sections/last_post.html last_post=site.essays.last%}
-{% include sections/items_except_last.html items=site.essays%}
+<!-- {% include sections/last_post.html last_post=site.essays.last%} -->
+{% include sections/essay_posts.html items=site.essays%}
 
 
 # About the authors
@@ -53,7 +53,7 @@ permalink: /essays
 
 <div class="row my-2">
   <div class="col-md-4">
-    <!-- <image style="width: 100%" src="{{ site.baseurl }}/assets/images/maybell-romero.jpg"/> -->
+    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/maybell-romero.jpg"/>
   </div>
   <div class="col-md-8 text-right">
     <h2>Maybell Romero</h2>

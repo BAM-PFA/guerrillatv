@@ -208,7 +208,7 @@ Between 1972 and 1977 the TVTV collective attracted and lost dozens of members, 
   </div>
   <div class="col-md-8 text-right">
     <h2>Smokey the cat</h2>
-    <p><i>Meow</i></p>
+    <p><i>"Meow"</i></p>
   </div>
 </div>
 

@@ -2,10 +2,11 @@
 layout: post
 title:  The Revolutionary Glowing Rectangle
 description: TVTV used guerrilla television tactics to expose media as politics and politics as media starting with documentaries made at the 1972 Democratic and Republican National Conventions.
-date:   2020-08-10
+date:   2020-08-11
 image: /assets/images/sibert-appel-bus.jpg
 author: Rick Prelinger
 excerpt_separator: <!-- more -->
+
 ---
 
 <div class="row">
