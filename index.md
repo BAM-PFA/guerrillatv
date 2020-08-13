@@ -69,7 +69,7 @@ vimeoID: 444606836
 
 # About Some of TVTV's Members
 
-Between 1972 and 1977 the TVTV collective attracted and lost dozens of members, contributors, Between 1972 and 1977 the TVTV collective attracted and lost dozens of members, contributors, collaborators, and hangers-on. Some of these later became household names, and many of the core members went on to careers in Hollywood, academia, and the arts.
+Between 1972 and 1977 the TVTV collective attracted and lost dozens of members, contributors, collaborators, and hangers-on. Some of these later became household names, and many of the core members went on to careers in Hollywood, academia, and the arts.
 
 <div class="row my-2">
   <div class="col-md-4">
@@ -89,7 +89,7 @@ Between 1972 and 1977 the TVTV collective attracted and lost dozens of members, 
   </div>
   <div class="col-md-8 text-right">
     <h2>Skip Blumberg</h2>
-    <p>Skip Blumberg was an original member of TVTV.</p>
+    <p>One of the legends of guerrilla television, Skip Blumberg was an early member of Videofreex and TVTV. During a career in video spanning over fifty years, Blumberg has made hundreds of works for a diverse audience, screened in every conceivable venue—on television, from tiny pirate stations to the major networks; in classrooms; in museums and galleries; and in film and video festivals around the world. He produced and directed over 150 shorts for <i>Sesame Street</i> and is the recipient of three Emmy Awards.</p>
   </div>
 </div>
 
@@ -123,7 +123,7 @@ Between 1972 and 1977 the TVTV collective attracted and lost dozens of members, 
   </div>
   <div class="col-md-8 text-right">
     <h2>Anda Korsts</h2>
-    <p>Anda Korsts was a member of TVTV.</p>
+    <p>Anda Korsts (1942–1991) was an early member of TVTV and founder of Videopolis, Chicago’s first alternative video space. After co-creating the Studs Terkel-inspired series <i>It’s a Living</i> for PBS in the late 1970s and directing video for <i>The Artaud Project</i> in the 1980s, Anda dropped out of the video scene. According to Anda’s sister Gundega Korsts, Anda  "went to Disneyland and saw everyone with a TV camera, and she said, ‘It’s time to move on to something else.’"</p>
   </div>
 </div>
 
@@ -133,7 +133,7 @@ Between 1972 and 1977 the TVTV collective attracted and lost dozens of members, 
   </div>
   <div class="col-md-8 text-right">
     <h2>Chip Lord</h2>
-    <p>Chip Lord was an original member of <a href="example.com">Ant Farm</a> and TVTV.</p>
+    <p>Chip Lord was a founding partner of the alternative architecture and media collective Ant Farm and an early member of TVTV. He continues his work as an artist and is Professor Emeritus in the Department of Film and Digital Media at UC Santa Cruz.</p>
   </div>
 </div>
 
@@ -143,7 +143,7 @@ Between 1972 and 1977 the TVTV collective attracted and lost dozens of members, 
   </div>
   <div class="col-md-8 text-right">
     <h2>Hudson Marquez</h2>
-    <p>Hudson Marquez was an original member of Ant Farm TVTV.</p>
+    <p>A key member of Ant Farm—the group's best-known work, <i>Cadillac Ranch</i>, was his idea—and one of the founders of TVTV, Hudson Marquez was perhaps the most gifted of the gabbers on the TVTV crew, as the raw footage may attest. Whether making an “awful” cup of coffee, answering the phone in an unattended congressional office, or driving the TVTV Media Van through the streets of Miami, Marquez always has something provocative, and usually hilarious, to say in TVTV's convention tapes.</p>
   </div>
 </div>
 
@@ -153,7 +153,7 @@ Between 1972 and 1977 the TVTV collective attracted and lost dozens of members, 
   </div>
   <div class="col-md-8 text-right">
     <h2>Doug Michels</h2>
-    <p>Doug Michels was an original member of Ant Farm and TVTV.</p>
+    <p>Doug Michels (1943–2003) was an early member of TVTV and a founding partner of Ant Farm. Michels famously piloted a modified white Cadillac through a pyramid of flaming television sets in <i>Media Burn</i> (1975) and played the role of <i>Jackie Kennedy</i> in The Eternal Frame (1975).</p>
   </div>
 </div>
 
@@ -198,7 +198,7 @@ Between 1972 and 1977 the TVTV collective attracted and lost dozens of members, 
   </div>
   <div class="col-md-8 text-right">
     <h2>Jody Sibert</h2>
-    <p>Jody Sibert was a member of TVTV.</p>
+    <p>Jody Sibert joined TVTV in its early days through her involvement in Raindance with Michael Shamberg and Megan Williams. She was one of the primary correspondents in TVTV's convention tapes and in <i>Gerald Ford's America</i>.</p>
   </div>
 </div>
 
