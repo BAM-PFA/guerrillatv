@@ -9,7 +9,7 @@
               <a class="text-reset" href="{{ item.url | prepend: site.baseurl}}">
                 <h5 class="card-title">{{ item.title }}</h5>{% if item.author %}<h5> by {{ item.author }}</h5>{% endif %}
               </a>
-              <p class="card-text">{{ item.description }}</p>
+              <p class="card-text">{{ item.description }} [. . .]</p>
               <p class="card-text"><small class="text-muted">{{ item.date | date_to_long_string }}</small></p>
             </div>
           </div>
