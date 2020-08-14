@@ -15,6 +15,26 @@
 <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville|Mansalva&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="{{ "/assets/index.css" | relative_url }}">
 
+<!-- Twitter cards -->
+<!-- <meta name="twitter:site"    content="@{{ site.twitter_username }}"> -->
+<meta name="twitter:creator" content="@{{ page.author }}">
+<meta name="twitter:title"   content="{{ page.title }}">
+
+{% if page.summary %}
+<meta name="twitter:description" content="{{ page.summary }}">
+{% else %}
+<meta name="twitter:description" content="{{ site.description }}">
+{% endif %}
+
+{% if page.image %}
+<meta name="twitter:card"  content="summary_large_image">
+<meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
+{% else %}
+<meta name="twitter:card"  content="summary">
+<meta name="twitter:image" content="{{ site.title_image }}">
+{% endif %}
+<!-- end of Twitter cards -->
+
 <link rel="shortcut icon" href="{{ "/favicon.ico" | prepend: site.baseurl | prepend: site.url }}" />
 
 
