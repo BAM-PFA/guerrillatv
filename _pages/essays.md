@@ -66,7 +66,7 @@ image: /assets/images/nixon.jpg
 
 <div class="row my-2">
   <div class="col-md-4">
-    <!-- <image style="width: 100%" src="{{ site.baseurl }}/assets/images/steve-seid.jpg"/> -->
+    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/steve-seid.jpg"/>
   </div>
   <div class="col-md-8 text-right">
     <h2>Steve Seid</h2>
