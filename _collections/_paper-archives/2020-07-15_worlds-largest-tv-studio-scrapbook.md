@@ -25,7 +25,7 @@ TVTV made this scrapbook during the production of <i>The World’s Largest TV St
 
 <div class="row p-2">
   <div class="col-sm p-2">
-    <h3>Flip through the entire scrapbook <a href="">here</a>.</h3>
+    <h3>Flip through the entire scrapbook <a href="https://digicoll.lib.berkeley.edu/record/91910">here</a>.</h3>
     <!-- <div class='uv' data-locale='en-GB:English (GB),en-GB:English (GB)' data-config='/api/v1/universalviewer_config?download=1' data-uri='/nanna/iiif/91910/manifest' data-collectionindex='0' data-manifestindex='0' data-sequenceindex='0' data-canvasindex='0' data-xywh='-303,-460,6044,4998' data-rotation='0' style='width:560px; height:420px; background-color: #000'></div><script type='text/javascript' id='embedUV' src='https://digicoll.lib.berkeley.edu/js/uv-2.0.2/lib/embed.js'></script><script type='text/javascript'>/* wordpress fix */</script> -->
   </div>
   <div class="col-sm p-2">

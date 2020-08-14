@@ -16,14 +16,15 @@ permalink: /paper-archives
   </div>
   <div class="col-sm-4 col-xl-2 text-right mx-auto">
     <image style="width: 100%" src="{{ site.baseurl }}/assets/images/booth.gif"/>
+    <p><i>TVTV members mugging for the photo booth while in Miami for the 1972 National Party Conventions</i></p>
   </div>
 </div>
 
-<div class="row">
+<!-- <div class="row">
   <div class="col-sm-12  col-xl-8 text-center mx-auto">
     <image style="width: 80%" src="{{ site.baseurl }}/assets/images/worlds-largest.jpg"/>
   </div>
-</div>
+</div> -->
 
 ---
 
