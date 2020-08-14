@@ -2,6 +2,7 @@
 title: About TVTV
 layout: default
 vimeoID: 444606836
+image: /assets/images/hudson-chip-van.jpg
 ---
 ---
 <h1 class="d-flex" id="tvtv">{{ page.title | upcase }}</h1>

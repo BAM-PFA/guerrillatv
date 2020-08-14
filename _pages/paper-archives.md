@@ -2,6 +2,7 @@
 layout: section
 title: paper archives
 permalink: /paper-archives
+image: /assets/images/worlds-largest.jpg
 ---
 
 <div class="row my-2">

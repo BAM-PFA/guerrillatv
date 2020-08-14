@@ -2,6 +2,7 @@
 layout: section
 title: essays
 permalink: /essays
+image: /assets/images/nixon.jpg
 ---
 
 *Ahead of the 2020 Republican and Democratic National conventions and presidential election, keep an eye on this space for new essays by historians, archivists, and scholars of video art and activist media. These essays give historical context, while making crucial links to the current political environment in which __democratized media__ and citizen journalism are more important than ever.*

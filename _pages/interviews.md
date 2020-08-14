@@ -2,6 +2,7 @@
 layout: section
 title: TVTV Member Interviews
 permalink: /interviews
+image: /assets/images/ice-cream.jpg
 ---
 
 <div class="row">

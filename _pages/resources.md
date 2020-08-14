@@ -3,6 +3,7 @@ layout: section
 title: resources
 permalink: /resources
 vimeoID: 362850245
+image: /assets/images/guerrilla-tv.jpg
 ---
 
 <div class="row">

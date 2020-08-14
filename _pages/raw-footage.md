@@ -2,6 +2,7 @@
 layout: section
 title: Raw Footage
 permalink: /raw-footage
+image: /assets/images/tapes.gif
 ---
 <div class="row p-2">
   <div class="col-sm-12 col-md-12 col-lg-6">
