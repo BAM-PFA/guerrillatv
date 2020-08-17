@@ -28,7 +28,7 @@ excerpt_separator: <!-- more -->
   </div>
   <div class="col-sm-5 col-xl-6 mx-auto my-2">
     <image style="width:100%" src="{{ site.baseurl }}/assets/images/Paik-TV-bra.jpg" alt="image from Nam June Paik and Charlotte Moorman's TV Bra for Living Sculpture"></image>
-    <p class="small"><i>Image from Nam June Paik and Charlotte Moorman's TV Bra for Living Sculpture (1969) from the 1969 exhibition TV as a Creative Medium. Image courtesy <a href="http://www.eai.org/webpages/1163" target="blank">Electronic Arts Intermix</a>.</i></p>
+    <p class="small"><i>Image from Nam June Paik and Charlotte Moorman's</i> TV Bra for Living Sculpture <i>(1969) from the 1969 exhibition </i>TV as a Creative Medium<i>. Image courtesy <a href="http://www.eai.org/webpages/1163" target="blank">Electronic Arts Intermix</a>.</i></p>
   </div>
 </div>
 
@@ -41,7 +41,7 @@ To juxtapose “TV” with the word “Creative” was itself an outrageous decl
   </div>
   <div class="col-sm-5 col-xl-6 mx-auto my-2">
     <image style="width:100%" src="{{ site.baseurl }}/assets/images/wipe-cycle.jpg" alt="image from Frank Gillette's and Ira Schneider's Wipe Cycle"></image>
-    <p class="small"><i>Image of Frank Gillette's and Ira Schneider's Wipe Cycle (1969) from Ira Schneider's TV as a Creative Medium (1969-84). Image courtesy <a href="https://vimeo.com/ondemand/tvasacreativemedium" target="blank">Ira Schneider.</a></i></p>
+    <p class="small"><i>Image of Frank Gillette's and Ira Schneider's </i>Wipe Cycle<i> (1969) from Ira Schneider's </i>TV as a Creative Medium (1969—84)<i>. Image courtesy <a href="https://vimeo.com/ondemand/tvasacreativemedium" target="blank">Ira Schneider.</a></i></p>
   </div>
 </div>
 
@@ -74,12 +74,13 @@ Into this rich ferment came a young journalist, Michael Shamberg, on assignment 
     </div>
   </div>
   <div class="col-sm-5 col-xl-6 mx-auto my-2">
-    <image style="width:100%" src="{{ site.baseurl }}/assets/images/guerrilla-tv.jpg" alt="cover of Guerrilla Television by Michael Shamberg"></image>
-    <p class="small"><i>Guerrilla Television, as advertised in Radical Software. Image courtesy Raindance Foundation.</i></p>
+    <image style="width:100%" src="{{ site.baseurl }}/assets/images/radical-software-issue-1.jpg" alt="cover of issue 1 of Radical Software magazine"></image>
+    <p class="small">Radical Software<i>, Volume I, Number 1, Spring 1970. Thanks to Davidson Gigliotti, the </i>Radical Software <i>website.</i></p>
   </div>
 </div>
 
 With a snarky cut-and-paste design by San Francisco’s Ant Farm, <i>Guerrilla Television</i> was really two books—the Meta-Manual and the Manual.<sup><a href="#7" id="7a">7</a> </sup>The Meta-Manual explains the characteristics of what Shamberg calls “Media-America,” a complex media-saturated system of information generation, filtration, and consumption. What he foresees is a shift from hardware to software, from product to process. The emphasis on process directly destroys the power of hierarchy. For instance, the mainstream media, what he calls “beast-TV,” loses its centrality as process tools proliferate. The fluid citizen becomes both producer and consumer.
+
 
 <div class="row my-2">
   <div class="col-md-3">
@@ -91,9 +92,19 @@ With a snarky cut-and-paste design by San Francisco’s Ant Farm, <i>Guerrilla T
   </div>
 </div>
 
-When it comes to mainstream media, its absolute control—over subject matter, visual language, and who, ultimately, is in charge of meting out access—creates an untenable situation, “a kind of psychic genocide.” Within the pages of <i>Guerrilla Television</i> it is not deemed possible to reform “beast-TV.” The beast cannot be tamed. It must be circumvented or destroyed.
+<div class="row">
+  <div class="col-sm-7 col-xl-12">
+    <p>When it comes to mainstream media, its absolute control—over subject matter, visual language, and who, ultimately, is in charge of meting out access—creates an untenable situation, “a kind of psychic genocide.” Within the pages of <i>Guerrilla Television</i> it is not deemed possible to reform “beast-TV.” The beast cannot be tamed. It must be circumvented or destroyed.
+    </p>
+  </div>
+  <div class="col-sm-5 col-xl-6 mx-auto my-2">
+    <image style="width:100%" src="{{ site.baseurl }}/assets/images/guerrilla-tv.jpg" alt="cover of Guerrilla Television by Michael Shamberg"></image>
+    <p class="small">Guerrilla Television<i>, as advertised in</i> Radical Software<i>. Image courtesy Raindance Foundation.</i></p>
+  </div>
+</div>
 
-And so we come to the Manual, leaving behind the theorization for the practicum. Here, we enter the territory of such countercultural publications as the <i>Whole Earth Catalog</i>, the DIY bible of the day, and perhaps even Ant Farm’s own <i>Inflatocookbook</i> (1971), if anything, 95 cents cheaper than Guerrilla Television, for a handy guide to constructing a new and improved Media-America.
+
+And so we come to the Manual, leaving behind the theorization for the practicum. Here, we enter the territory of such countercultural publications as the <i>Whole Earth Catalog</i>, the DIY bible of the day, and perhaps even Ant Farm’s own <i>Inflatocookbook</i> (1971), if anything, 95 cents cheaper than <i>Guerrilla Television</i>, for a handy guide to constructing a new and improved Media-America.
 
 <div class="row my-2">
   <div class="col-md-3">
@@ -109,7 +120,7 @@ Though the Manual does have tactical musings, for instance the lengthy section c
 
 Ultimately, <i>Guerrilla Television</i> sets out to inoculate the people against infectious mainstream Media-America by creating a confrontational alternative. “Instead of politicizing people with mass-TV,” Shamberg writes, “Guerrilla Television seeks to media-ize people against it.”<sup><a href="#10" id="10a">10</a></sup>  This antidote would come in the form of a self-made, overarching “cultural data bank,” an accessible storehouse of countercultural experience, aspiration, and strategies. The consequences of inaction are dire, for the greater culture’s fate relies on its adaptation to an ever-morphing, process-oriented sense of information, rather than its current monopolistic stranglehold.<sup><a href="#11" id="11a">11</a></sup> Resist this evolutionary tendency and “America will be the first culture to perish from misunderstanding the consequences of media-ecology.”<sup><a href="#12" id="12a">12</a></sup>
 
-With the publication of <i>Guerrilla Television</i>, the trajectory from speculative musings to utilitarian application was almost complete—almost. What seemed like the next logical step was a test case with Portapak technology ambushing mainstream TV.<sup><a href="#13" id="13a">13</a></sup> This was not to be a take-no-prisoners undertaking—Guerrilla Television was, after all, nonviolent by definition—but a subversive, parallel-universe of alternative media construction. To accomplish this, Shamberg needed a Raindance equivalent, but instead of running counter to RAND Corp., it would have network TV as its foil.
+With the publication of <i>Guerrilla Television</i>, the trajectory from speculative musings to utilitarian application was almost complete—almost. What seemed like the next logical step was a test case with Portapak technology ambushing mainstream TV.<sup><a href="#13" id="13a">13</a></sup> This was not to be a take-no-prisoners undertaking—guerrilla television was, after all, nonviolent by definition—but a subversive, parallel-universe of alternative media construction. To accomplish this, Shamberg needed a Raindance equivalent, but instead of running counter to RAND Corp., it would have network TV as its foil.
 
 <div class="row">
   <div class="col-sm-7 col-xl-12">
@@ -150,7 +161,7 @@ The two documentaries veer drastically in style, treatment, and image capture as
 
 <div class="row">
   <div class="col-sm-7 col-xl-12">
-    <p>The Democratic National Convention was an unruly event as delegations challenged convention rules and new constituencies struggled to be part of the party’s platform. The old guard was there in the form of Senators Hubert Humphrey, Edmund Muskie, and nominee-apparent George McGovern, and even Governor George Wallace. But new factions were vying for influence: California Assemblyman Willie Brown, Congressman Ron Dellums, and civil rights activist Jesse Jackson were some of those representing minority interests, while Congresswomen Bella Abzug, Shirley Chisholm, the latter a presidential candidate, and feminist activists Gloria Steinem, Betty Friedan, and Shirley MacLaine kept women’s rights central to the national party platform.
+    <p>The Democratic National Convention was an unruly event as delegations challenged convention rules and new constituencies struggled to be part of the party’s platform. The old guard was there in the form of Senators Hubert Humphrey, Edmund Muskie, and nominee-apparent George McGovern, and even Governor George Wallace. But new factions were vying for influence: California Assemblyman Willie Brown, Congressman Ron Dellums, and civil rights activist Jesse Jackson were some of those representing minority interests, while Congresswomen Bella Abzug and Shirley Chisholm, the latter a presidential candidate, and feminist activists Gloria Steinem, Betty Friedan, and Shirley MacLaine kept women’s rights central to the national party platform.
     </p>
   </div>
   <div class="col-sm-5 col-xl-6 mx-auto my-2">
@@ -163,7 +174,16 @@ TVTV captured this political tumult in a manner that expressed the contentious a
 
 By the second outing, the Republican National Convention, a different approach emerges. Gone is the off-the-cuff sincerity of Democratic activists and in its place, the studied and humorless replies of lockstep Republicans. This made for coverage that was not about discovery or the serendipitous but about the critique of a prepackaged spectacle in which every gesture was authorized. Guests such as Ronald Reagan, John Wayne, Sammy Davis Jr., Henry Kissinger, and others have their predictable celebrity walk-ons. And the Young Republicans, a brigade of some 3,000 Nixon youth troopers, clearly bewilder the TVTVers as they try to penetrate the hive-mind of these new voters. “It looks to me like it’s a very packaged, plastic kind of thing,” says NBC’s Cassie Mackin, the first woman to report from the convention floor.<sup><a href="#16" id="16a">16</a></sup>
 
-The highly manicured event sent the video freaks searching for something a bit more shambolic—which they found in profusion outside the convention hall. This was the purely unpredictable nature of the antiwar demonstrations and the aggressive police response. Nowhere is the footage more telling than in irate Republican delegates seeking refuge in the convention hall after encountering tear gas on the streets. It is one of the few moments when the anarchy outside the hall breaches the convention’s scripted decorum. Again the source material illustrates this dichotomy with restrained footage of the Republican attendees resisting unwelcome questions from the TVTV interviewers juxtaposed with the unbridled, angry raps delivered notably by Ron Kovic and his fellow Vietnam Veterans Against the War. The final work, <i>Four More Years</i>, then becomes more restrained due to its subject matter and the accumulating sophistication of TVTV itself.
+<div class="row">
+  <div class="col-sm-7 col-xl-12">
+    <p>The highly manicured event sent the video freaks searching for something a bit more shambolic—which they found in profusion outside the convention hall. This was the purely unpredictable nature of the antiwar demonstrations and the aggressive police response. Nowhere is the footage more telling than in irate Republican delegates seeking refuge in the convention hall after encountering tear gas on the streets. It is one of the few moments when the anarchy outside the hall breaches the convention’s scripted decorum. Again the source material illustrates this dichotomy with restrained footage of the Republican attendees resisting unwelcome questions from the TVTV interviewers juxtaposed with the unbridled, angry raps delivered notably by Ron Kovic and his fellow Vietnam Veterans Against the War. The final work, <i>Four More Years</i>, then becomes more restrained due to its subject matter and the accumulating sophistication of TVTV itself.
+    </p>
+  </div>
+  <div class="col-sm-5 col-xl-6 mx-auto my-2">
+    <image style="width:100%" src="{{ site.baseurl }}/assets/images/kovic.jpg" alt="Ron Kovic of Vietnam Veterans Against the War"></image>
+    <p class="small"><i>TVTV interviews Ron Kovic of Vietnam Veterans Against the War in Flamingo Park, a center of protests at the 1972 Republican National Convention.</i></p>
+  </div>
+</div>
 
 But there are still more treasures to be found in the resurfaced source footage, particularly the internal TVTV raps about the tenor and theory of what they were doing.
 
@@ -175,7 +195,7 @@ In one recovered exchange, Shamberg, Williams, and Rucker are hashing out the in
 
 This was the intrinsic irony of TVTV’s project to inject a forceful, alternative style of television into the greater body of mass media—the irony of control versus expression, of hierarchy versus free range. At one point, Shamberg volunteers this comical observation about Andy Mann, one of the more effusive and energetic freaks present: “He has an artist contract. There are no riders on an artist contract.”<sup><a href="#20" id="20a">20</a></sup> Yet it was reining in not reigning that was heatedly sought.
 
-One of the more articulate video freaks was Michael Couzens, a young lawyer focused on community television and federal policy: “Everybody came down here thinking they wouldn’t be geared into an organization. Everybody imagines an organization is something that feeds them. It doesn’t require any fuel. Suddenly they discover that there’s a lot of work involved so you can retrieve things . . . and they sort of bridle at the rules. You’re not responsible, you’re not dictatorial.<sup><a href="#21" id="21a">21</a></sup> Is this the price to be paid when you’re herding hepcats?
+One of the more articulate video freaks was Michael Couzens, a young lawyer focused on community television and federal policy: “Everybody came down here thinking they wouldn’t be geared into an organization. Everybody imagines an organization is something that feeds them. It doesn’t require any fuel. Suddenly they discover that there’s a lot of work involved so you can retrieve things . . . and they sort of bridle at the rules. You’re not responsible, you’re not dictatorial."<sup><a href="#21" id="21a">21</a></sup> Is this the price to be paid when you’re herding hepcats?
 
 <div class="row">
   <div class="col-sm-7 col-xl-12">
@@ -291,6 +311,6 @@ Quote taken from reel \#16295.
   </div>
   <div class="col-md-8 text-right">
     <h2>Steve Seid</h2>
-    <p>Steve Seid is the former video curator at BAMPFA and has written extensively on video art, guerrilla video, and activist art practice. He coordinated the donation of TVTV's video and paper archives to BAMPFA and is the author of a forthcoming definitive history of Ant Farm's iconic conceptual art piece <a href="https://www.moma.org/collection/works/107284"><i>Media Burn</i></a>, in addition to co-author of a retrospective exhibition catalogue (<i>Ant Farm: 1968-1978</i>, 2004) of Ant Farm's work with Constance Lewallen.</p>
+    <p>Steve Seid is the former video curator at BAMPFA and has written extensively on video art, guerrilla video, and activist art practice. He coordinated the donation of TVTV's video and paper archives to BAMPFA and is the author of a forthcoming definitive history of Ant Farm's iconic conceptual art piece <a href="https://www.moma.org/collection/works/107284"><i>Media Burn</i></a>, in addition to co-author with Constance Lewallen of a retrospective exhibition catalogue (<i>Ant Farm: 1968-1978</i>, 2004) of Ant Farm's work.</p>
   </div>
 </div>
