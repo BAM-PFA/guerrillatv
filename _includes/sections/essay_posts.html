@@ -8,7 +8,7 @@
           <a href="{{ item.url | prepend: site.baseurl }}" class="text-reset">
             <h3>{{ item.title }}</h3>{% if item.author %}<h5> by {{ item.author }}</h5>{% endif %}
           </a>
-          <p class="card-text">{{ item.excerpt | markdownify | strip_html }} [. . .]</p>
+          <p class="card-text">{{ item.excerpt | markdownify | strip_html }} <a href="{{ item.url | prepend: site.baseurl }}">[. . .]</a></p>
           <!-- <p class="card-text"><small class="text-muted">{{ item.date | date_to_long_string }}</small></p> -->
         </div>
       </div>

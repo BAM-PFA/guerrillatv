@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Confrontation TV
-description: p
+description: TVTV set out to recreate television in a democratic mold with new portable video equipment, beginning with the 1972 Democratic and Republican National Conventions
 date: 2020-08-16
 image: /assets/images/wendy-reviews-tape.jpg
 author: Steve Seid
