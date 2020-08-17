@@ -28,7 +28,7 @@ excerpt_separator: <!-- more -->
   </div>
   <div class="col-sm-5 col-xl-6 mx-auto my-2">
     <image style="width:100%" src="{{ site.baseurl }}/assets/images/Paik-TV-bra.jpg" alt="image from Nam June Paik and Charlotte Moorman's TV Bra for Living Sculpture"></image>
-    <p class="small"><i>Image from Nam June Paik and Charlotte Moorman's TV Bra for Living Sculpture (1969) from the 1969 exhibition TV as a Creative Medium. Image courtesy <a href="http://www.eai.org/webpages/1163">Electronic Arts Intermix.</a></i></p>
+    <p class="small"><i>Image from Nam June Paik and Charlotte Moorman's TV Bra for Living Sculpture (1969) from the 1969 exhibition TV as a Creative Medium. Image courtesy <a href="http://www.eai.org/webpages/1163" target="blank">Electronic Arts Intermix</a>.</i></p>
   </div>
 </div>
 
@@ -41,7 +41,7 @@ To juxtapose “TV” with the word “Creative” was itself an outrageous decl
   </div>
   <div class="col-sm-5 col-xl-6 mx-auto my-2">
     <image style="width:100%" src="{{ site.baseurl }}/assets/images/wipe-cycle.jpg" alt="image from Frank Gillette's and Ira Schneider's Wipe Cycle"></image>
-    <p class="small"><i>Image of Frank Gillette's and Ira Schneider's Wipe Cycle (1969) from Ira Schneider's TV as a Creative Medium (1969-84). Image courtesy <a href="https://vimeo.com/ondemand/tvasacreativemedium">Ira Schneider.</a></i></p>
+    <p class="small"><i>Image of Frank Gillette's and Ira Schneider's Wipe Cycle (1969) from Ira Schneider's TV as a Creative Medium (1969-84). Image courtesy <a href="https://vimeo.com/ondemand/tvasacreativemedium" target="blank">Ira Schneider.</a></i></p>
   </div>
 </div>
 
@@ -133,7 +133,7 @@ With the publication of <i>Guerrilla Television</i>, the trajectory from specula
   </div>
 </div>
 
-As makeshift and spontaneous as this venture may have seemed, there was a chasing after order. Monies raised from cable systems, a few smaller foundations, and personal contributions put about $16,000 into the kitty.<sup><a href="#15" id="15a">15</a></sup> Many of the TVTV crew brought along their own camera packages, greatly expanding their accumulated tech resources, and making it possible to have multiple crews covering the convention. An instructional checklist—eventually published in the Winter 1972 issue of <i>Radical Software</i>—offered the participants coverage guidelines with such headings as “Things to Tape,” “Delegates,” “The Media,” “Pseudo-Events,” “Confrontations,” and “Style.” Additional guidelines covered the overarching categories of “Hardware,” “Software,” “Content,” and “Decision Structure.”
+As makeshift and spontaneous as this venture may have seemed, there was a chasing after order. Monies raised from cable systems, a few smaller foundations, and personal contributions put about $16,000 into the kitty.<sup><a href="#15" id="15a">15</a></sup> Many of the TVTV crew brought along their own camera packages, greatly expanding their accumulated tech resources, and making it possible to have multiple crews covering the convention. An instructional checklist—eventually published in the <a href="https://radicalsoftware.org/e/volume2nr1.html" target="blank">Winter 1972 issue</a> of <i>Radical Software</i>—offered the participants coverage guidelines with such headings as “Things to Tape,” “Delegates,” “The Media,” “Pseudo-Events,” “Confrontations,” and “Style.” Additional guidelines covered the overarching categories of “Hardware,” “Software,” “Content,” and “Decision Structure.”
 
 <div class="row">
   <div class="col-sm-7 col-xl-12">
@@ -209,7 +209,7 @@ The term “videospace” was formalized by Brice Howard, director of the Nation
 
 ### <a href="#4a">4</a>
 
-Meta-Manual,” <i>Radical Software</i> I, no. 3 (Spring 1971): n.p.
+"Meta-Manual," <i>Radical Software</i> I, no. 3 (Spring 1971): n.p.
 
 ### <a href="#5a">5</a>
 
