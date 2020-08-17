@@ -46,7 +46,7 @@ image: /assets/images/nixon.jpg
   </div>
   <div class="col-md-8 text-right">
     <h2>Rick Prelinger</h2>
-    <p>Rick Prelinger is the co-founder of San Francisco's <a href="http://www.prelingerlibrary.org/">Prelinger Library</a> and the Chair of the Department of Film and Digital Media at UC Santa Cruz. He is known for his radical championing of amateur and non-Hollywood media, and as host of <a href="https://vimeo.com/335998108">Lost Landscapes</a> screenings that show small-gauge home movies as a window into history from the bottom up.</p>
+    <p>Rick Prelinger is co-founder of San Francisco's <a href="http://www.prelingerlibrary.org/">Prelinger Library</a> and the Chair of the Department of Film & Digital Media at UC Santa Cruz. He is known for his radical championing of amateur and non-Hollywood media, and as host of <a href="https://vimeo.com/335998108">Lost Landscapes</a> screenings that show small-gauge home movies as a window into history from the bottom up.</p>
   </div>
 </div>
 

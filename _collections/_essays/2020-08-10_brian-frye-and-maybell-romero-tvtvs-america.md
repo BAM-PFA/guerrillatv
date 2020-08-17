@@ -128,3 +128,23 @@ Sadly, all weird things must come to an end. <i>Gerald Ford’s America</i> was 
     <p class="small"><i>Oregon Governor Tom McCall on Ford's meat-and-potatoes appeal three months into Ford's presidency</i></p>
   </div>
 </div>
+
+---
+
+<div class="row my-2">
+  <div class="col-md-4">
+    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/brian-frye.jpg"/>
+  </div>
+  <div class="col-md-8 text-right">
+    <p><i>Brian L. Frye is Spears-Gilbert Professor of Law at the University of Kentucky College of Law. His research focuses on intellectual property and legal history, especially in relation to the arts. He is also a <a href="https://www.rogerebert.com/reviews/our-nixon-2013">filmmaker</a> and film programmer.</i></p>
+  </div>
+</div>
+
+<div class="row my-2">
+  <div class="col-md-4">
+    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/maybell-romero.jpg"/>
+  </div>
+  <div class="col-md-8 text-right">
+    <p><i>Maybell Romero is an Associate Professor of Law at Northern Illinois University College of Law, where she teaches Criminal Law, Criminal Law, and Constitutional Law. Her research focuses on criminal legal system ethics, law and rurality, and juvenile justice.</i></p>
+  </div>
+</div>

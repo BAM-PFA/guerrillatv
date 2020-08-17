@@ -20,6 +20,7 @@ excerpt_separator: <!-- more -->
     <p class="small"><i>Maureen Orth (right) interviews Catherine Mackin (NBC), the first female floor reporter, as Gloria Steinem passes by at the 1972 Democratic Convention</i></p>
   </div>
 </div>
+
 Crises of relevance are old hat today. Whether it’s the rush to relate to Black Lives Matter demonstrators or present entertainment that resonates with people sidelined by the coronavirus pandemic, mainstream media companies are now in the business of worrying how to hold on to their fickle audiences. In the three-network era of the early 1970s, even though disaffected audiences had nowhere else to turn, network executives (who tend to smell of fear) worried that their coveted young audiences would abandon their staid and structured programming. Cable TV, at that time an upstart rule-breaker that promised to end channel scarcity and open up television to new, diverse voices, jumped in and underwrote TVTV’s excursions to the 1972 conventions. TVTV’s interventions reveal the difference between making TV as a job and making it as an adventure.
 
 <div class="row">
@@ -32,7 +33,7 @@ Crises of relevance are old hat today. Whether it’s the rush to relate to Blac
 <div class="row">
   <div class="col-sm-7 col-xl-12">
     <p>
-      Watching only the finished programs can’t begin to communicate the flavor of TVTV’s work. As with all unscripted television, the narrative is in the cut show, but the reality lies in the source tapes. Like classic cinema-verité but without the limitations of fixed-length film rolls and the expense of raw stock, this is TV whose tactic and ultimate goal is to explore as much as record. The tapes are often chaotic, sometimes incoherent. Steeped in the low-res portable video esthetic (think of your very first camera phone) and what cantankerous Soviet documentary pioneer Dziga Vertov called in a very different context “the maelstrom of colliding phenomena known as life,” they can be as hard to look at as an early YouTube. But consider the difference between these tapes and today’s highly crafted video documentaries, meticulously edited, flaws removed except where they’re left in for esthetic effect, every frame altered by the hand of the postproduction colorist and every scene scored with music that more often than not guides your emotions. In most of today’s docs, you can close your eyes, listen to the music, and come away with some sense of the narrative. In TVTV’s tapes, you can plug your ears and watch the gyrations of the camera. Think of their spontaneous scenes, many discovered by chance and simply pointing the camera in the right direction, as tweets from a past that also foretells something of the future.
+      Watching only the finished programs can’t begin to communicate the flavor of TVTV’s work. As with all unscripted television, the narrative is in the cut show, but the reality lies in the source tapes. Like classic cinema-verité but without the limitations of fixed-length film rolls and the expense of raw stock, this is TV whose tactic and ultimate goal is to explore as much as record. The tapes are often chaotic, sometimes incoherent. Steeped in the low-res portable video aesthetic (think of your very first camera phone) and what cantankerous Soviet documentary pioneer Dziga Vertov called in a very different context “the maelstrom of colliding phenomena known as life,” they can be as hard to look at as an early YouTube. But consider the difference between these tapes and today’s highly crafted video documentaries, meticulously edited, flaws removed except where they’re left in for aesthetic effect, every frame altered by the hand of the postproduction colorist and every scene scored with music that more often than not guides your emotions. In most of today’s docs, you can close your eyes, listen to the music, and come away with some sense of the narrative. In TVTV’s tapes, you can plug your ears and watch the gyrations of the camera. Think of their spontaneous scenes, many discovered by chance and simply pointing the camera in the right direction, as tweets from a past that also foretells something of the future.
     </p>
   </div>
   <div class="col-sm-5 col-xl-6 mx-auto my-2">
@@ -76,4 +77,13 @@ Crises of relevance are old hat today. Whether it’s the rush to relate to Blac
 
 Some TVTV members, like Megan Williams and Skip Blumberg, remained in the documentary and independent video world. Michael Shamberg and Bill Murray went to Hollywood. The Ant Farmers veered into the arts. But the buttoned-down management of the TV networks, at least those who would survive the cable and home video upheavals, straightened their ties and moved on.
 
-*Rick Prelinger, an archivist, writer, and filmmaker, is Chair of Film & Digital Media at UC Santa Cruz.*
+---
+
+<div class="row my-2">
+  <div class="col-md-4">
+    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/rick-prelinger.jpg"/>
+  </div>
+  <div class="col-md-8 text-right">
+    <p><i>Rick Prelinger is co-founder of San Francisco's <a href="http://www.prelingerlibrary.org/">Prelinger Library</a> and the Chair of the Department of Film & Digital Media at UC Santa Cruz. He is known for his radical championing of amateur and non-Hollywood media, and as host of <a href="https://vimeo.com/335998108">Lost Landscapes</a> screenings that show small-gauge home movies as a window into history from the bottom up.</i></p>
+  </div>
+</div>

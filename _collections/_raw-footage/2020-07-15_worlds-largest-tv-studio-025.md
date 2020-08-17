@@ -11,7 +11,7 @@ This tape consists of approximately thirty-three minutes of raw footage from the
 
 The National Women’s Political Caucus met during the 1972 Democratic National Convention and held a press conference that included Bella Abzug, Sissy Farenthold, Betty Friedan, and Gloria Steinem. After the press conference, TVTV interviewed intersectional activists Florynce Kennedy and Margaret Sloan-Hunter who discussed the challenges facing Black lesbian feminists at a moment when second-wave feminism tended to exclude the experiences of African American women and homophobia was commonplace (at the Democratic Convention that very week, the Democratic Party Platform Committee rejected a plank that would have recognized LGBT civil rights).
 
-*__Margaret Sloan-Hunter: __"Living the Black female experience is not an easy thing, you know. For me, my involvment in the women's movement follows out of my involvement in the Black movement, except now I'm addressing myself to the needs of the majority of the Black nation, which are Black women."*
+*__Margaret Sloan-Hunter:__ "Living the Black female experience is not an easy thing, you know. For me, my involvment in the women's movement follows out of my involvement in the Black movement, except now I'm addressing myself to the needs of the majority of the Black nation, which are Black women."*
 
 <div class="iframe-container-4-3 mx-auto" style="width: 80%">
   {% include internetArchive.html id=page.archiveID %}

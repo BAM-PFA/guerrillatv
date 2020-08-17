@@ -126,7 +126,7 @@ Ant Farm was deeply interwoven into the video and conceptual art scenes of the 1
 </div>
 <div class="row">
   <div class="col-sm text-center">
-    <p><i>Image courtesy Radical Software</i></p>
+    <p><i>Image courtesy Raindance Foundation</i></p>
   </div>
 </div>
 
