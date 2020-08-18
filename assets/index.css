@@ -64,3 +64,107 @@ div.jumbotron span {
   width: 80%;
   min-height: 600px
 }
+
+.iframe-overlaid {
+    /* background:rgba(0,0,0,0.5); */
+    position:absolute;
+    overflow: hidden;
+    /* padding-top: 2.5%; */
+    /* padding-bottom: 3.75%; */
+    top: 0;
+    /* right: 0; */
+    left: 0;
+    /* bottom: 0; */
+    width: 100%;
+    /* height: 100%; */
+    /* color: white; */
+    opacity: 1;
+    z-index: 0;
+    /* -webkit-transition: opacity 0.5s; */
+    /* transition: opacity 0.5s; */
+}
+
+.iframe-loaded {
+  z-index: 3
+}
+
+.iframe-img {
+  display: block;
+  z-index: 1;
+  position: relative;
+  width: 100%;
+  /*top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0; */
+}
+
+.iframe-img-hidden {
+  visibility: hidden;
+  -webkit-transition: opacity 0.5s;
+  transition: opacity 0.5s;
+}
+
+.fade-out {
+  animation: fadeOut ease forwards .5s;
+  -webkit-animation: fadeOut ease forwards .5s;
+  -moz-animation: fadeOut ease forwards .5s;
+  -o-animation: fadeOut ease forwards .5s;
+  -ms-animation: fadeOut ease forwards .5s;
+}
+
+@keyframes fadeOut {
+  0% {
+    opacity:1;
+  }
+  100% {
+    opacity:0;
+  }
+}
+
+@-moz-keyframes fadeOut {
+  0% {
+    opacity:1;
+  }
+  100% {
+    opacity:0;
+  }
+}
+
+@-webkit-keyframes fadeOut {
+  0% {
+    opacity:1;
+  }
+  100% {
+    opacity:0;
+  }
+}
+
+@-o-keyframes fadeOut {
+  0% {
+    opacity:1;
+  }
+  100% {
+    opacity:0;
+  }
+}
+
+@-ms-keyframes fadeOut {
+  0% {
+    opacity:1;
+  }
+  100% {
+    opacity:0;
+  }
+}
+
+
+.iframe-div-container {
+    /* position: absolute; */
+    top: 0;
+    /* right: 0; */
+    left: 0;
+    /* bottom: 0; */
+    display: inline-block;
+    z-index: 2;
+}
