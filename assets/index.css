@@ -65,27 +65,39 @@ div.jumbotron span {
   min-height: 600px
 }
 
+.drive-port {
+
+}
+
 .iframe-overlaid {
     /* background:rgba(0,0,0,0.5); */
-    position:absolute;
-    overflow: hidden;
+    position: absolute;
+    /* overflow: hidden; */
     /* padding-top: 2.5%; */
     /* padding-bottom: 3.75%; */
-    top: 0;
+    /* top: 0; */
     /* right: 0; */
-    left: 0;
+    /* left: 0; */
     /* bottom: 0; */
-    width: 100%;
+    /* width: 100%; */
     /* height: 100%; */
     /* color: white; */
-    opacity: 1;
+    /* opacity: 1; */
     z-index: 0;
     /* -webkit-transition: opacity 0.5s; */
     /* transition: opacity 0.5s; */
 }
 
+.iframe-overlaid iframe {
+  overflow: hidden;
+  top: 0;
+  width: 100%;
+}
+
 .iframe-loaded {
-  z-index: 3
+  z-index: 3;
+  /* width: 120%; */
+  /* right: 0; */
 }
 
 .iframe-img {

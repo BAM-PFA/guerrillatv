@@ -35,6 +35,20 @@
 {% endif %}
 <!-- end of Twitter cards -->
 
+<!-- function to display iframe on click -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script>
+  function load_iframe (vid,img) {
+    var iframe = $("#"+vid);
+    var image = $("#"+img)
+    image.addClass("fade-out");
+    iframe.attr("src", iframe.data("src"));
+    iframe.addClass("iframe-loaded mx-auto");
+  }
+</script>
+
+<!-- end iframe display function -->
+
 <link rel="shortcut icon" href="{{ "/favicon.ico" | prepend: site.baseurl | prepend: site.url }}" />
 
 
