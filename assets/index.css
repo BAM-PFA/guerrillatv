@@ -66,26 +66,28 @@ div.jumbotron span {
 }
 
 .drive-port {
+  /* something to constrain letterboxing on video? */
+}
 
+.iframe-div-container {
+    /* position: absolute; */
+    top: 0;
+    /* right: 0; */
+    left: 0;
+    /* bottom: 0; */
+    display: inline-block;
+    /* text-align:center; */
+    z-index: 2;
 }
 
 .iframe-overlaid {
-    /* background:rgba(0,0,0,0.5); */
-    position: absolute;
-    /* overflow: hidden; */
-    /* padding-top: 2.5%; */
-    /* padding-bottom: 3.75%; */
-    /* top: 0; */
-    /* right: 0; */
-    /* left: 0; */
-    /* bottom: 0; */
-    /* width: 100%; */
-    /* height: 100%; */
-    /* color: white; */
-    /* opacity: 1; */
-    z-index: 0;
-    /* -webkit-transition: opacity 0.5s; */
-    /* transition: opacity 0.5s; */
+  position: absolute;
+  /* position: relative; */
+  /* width: 100%; */
+  /* top: 50; */
+  padding-top: 2.5%;
+  /* padding-bottom: 3.75%; */
+  z-index: 0;
 }
 
 .iframe-overlaid iframe {
@@ -96,8 +98,9 @@ div.jumbotron span {
 
 .iframe-loaded {
   z-index: 3;
-  /* width: 120%; */
-  /* right: 0; */
+  overflow: hidden;
+  /* width: 80%; */
+  /* height: 52%; */
 }
 
 .iframe-img {
@@ -168,15 +171,4 @@ div.jumbotron span {
   100% {
     opacity:0;
   }
-}
-
-
-.iframe-div-container {
-    /* position: absolute; */
-    top: 0;
-    /* right: 0; */
-    left: 0;
-    /* bottom: 0; */
-    display: inline-block;
-    z-index: 2;
 }
