@@ -450,3 +450,58 @@ These seventy-nine tapes were transferred from  camera original half-inch open r
     </div>
   </div>
 </div>
+<div class="row">
+  <div class="col-md-4 col-sm-6 col-xs-12">
+    <div class="iframe-div-container" onclick="load_iframe('16205','img_16205')" style="cursor: pointer;">
+      <iframe data-src="https://drive.google.com/file/d/1wMwMSGqJpiCH0WaRmql6mGdZZm7r7dVd/preview" allowfullscreen="" class="iframe-overlaid" id="16205" frameborder="0" allow="fullscreen"></iframe>
+      <image class="iframe-img" id="img_16205" src="{{ site.baseurl }}/assets/images/raw_footage_thumbs/four-more-years-089_16205_PM0040770_R01of01_H264.mp4_thumb.jpg"></image>
+      <p>Agnew/Nixon convention speech.</p>
+    </div>
+  </div>
+  <div class="col-md-4 col-sm-6 col-xs-12">
+    <div class="iframe-div-container" onclick="load_iframe('16206','img_16206')" style="cursor: pointer;">
+      <iframe data-src="https://drive.google.com/file/d/1cYYVfAYgUlgTnq1NHDcaM6CVu5YppYOB/preview" allowfullscreen="" class="iframe-overlaid" id="16206" frameborder="0" allow="fullscreen"></iframe>
+      <image class="iframe-img" id="img_16206" src="{{ site.baseurl }}/assets/images/raw_footage_thumbs/four-more-years-090_16206_PM0040771_R01of01_H264.mp4_thumb.jpg"></image>
+      <p>Friday 8/25/72. TVTV signs off one by one. Exteriors of hotels named for presidents; dismantled convention floor. Shot logs incorrect (tape not blank). TVTV signoffs are good.</p>
+    </div>
+  </div>
+  <div class="col-md-4 col-sm-6 col-xs-12">
+    <div class="iframe-div-container" onclick="load_iframe('16207','img_16207')" style="cursor: pointer;">
+      <iframe data-src="https://drive.google.com/file/d/1mITXPWJjpb7L-IBNxstIMtYgiYXl_LPQ/preview" allowfullscreen="" class="iframe-overlaid" id="16207" frameborder="0" allow="fullscreen"></iframe>
+      <image class="iframe-img" id="img_16207" src="{{ site.baseurl }}/assets/images/raw_footage_thumbs/four-more-years-091_16207_PM0040772_R01of01_H264.mp4_thumb.jpg"></image>
+      <p>Wednesday 8/23/72. Convention floor; handshakes from Spiro Agnew. 00:17:40 TVTV signs off. TVTV signoffs are good. Woman at 00:12:20 is amusing.</p>
+    </div>
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-4 col-sm-6 col-xs-12">
+    <div class="iframe-div-container" onclick="load_iframe('16212','img_16212')" style="cursor: pointer;">
+      <iframe data-src="https://drive.google.com/file/d/1PrzER_358u7PMM5UCho5r0RfM3DN_4KD/preview" allowfullscreen="" class="iframe-overlaid" id="16212" frameborder="0" allow="fullscreen"></iframe>
+      <image class="iframe-img" id="img_16212" src="{{ site.baseurl }}/assets/images/raw_footage_thumbs/four-more-years-099_16212_PM0040777_R01of01_H264.mp4_thumb.jpg"></image>
+      <p>Vietnam Veterans Against the War traveling to Miami. Total series=16210-16215, with their arrival in Miami captured in 16156.</p>
+    </div>
+  </div>
+  <div class="col-md-4 col-sm-6 col-xs-12">
+    <div class="iframe-div-container" onclick="load_iframe('16213','img_16213')" style="cursor: pointer;">
+      <iframe data-src="https://drive.google.com/file/d/1PrzER_358u7PMM5UCho5r0RfM3DN_4KD/preview" allowfullscreen="" class="iframe-overlaid" id="16213" frameborder="0" allow="fullscreen"></iframe>
+      <image class="iframe-img" id="img_16213" src="{{ site.baseurl }}/assets/images/raw_footage_thumbs/four-more-years-100_16213_PM0040778_R01of01_H264.mp4_thumb.jpg"></image>
+      <p>Vietnam Veterans Against the War traveling to Miami. Total series=16210-16215, with their arrival in Miami captured in 16156.</p>
+    </div>
+  </div>
+  <div class="col-md-4 col-sm-6 col-xs-12">
+    <div class="iframe-div-container" onclick="load_iframe('16214','img_16214')" style="cursor: pointer;">
+      <iframe data-src="https://drive.google.com/file/d/1GX7DNJU3ERrN1RRtv9PvBvMUYz6RnaCs/preview" allowfullscreen="" class="iframe-overlaid" id="16214" frameborder="0" allow="fullscreen"></iframe>
+      <image class="iframe-img" id="img_16214" src="{{ site.baseurl }}/assets/images/raw_footage_thumbs/four-more-years-101_16214_PM0040779_R01of01_H264.mp4_thumb.jpg"></image>
+      <p>Vietnam Veterans Against the War traveling to Miami. Total series=16210-16215, with their arrival in Miami captured in 16156.</p>
+    </div>
+  </div>
+  <div class="row">
+  <div class="col-md-4 col-sm-6 col-xs-12">
+    <div class="iframe-div-container" onclick="load_iframe('16215','img_16215')" style="cursor: pointer;">
+      <iframe data-src="https://drive.google.com/file/d/16EbQWZfT_wjunb18Ziy7BztztTf2Zetc/preview" allowfullscreen="" class="iframe-overlaid" id="16215" frameborder="0" allow="fullscreen"></iframe>
+      <image class="iframe-img" id="img_16215" src="{{ site.baseurl }}/assets/images/raw_footage_thumbs/four-more-years-102_16215_PM0040780_R01of01_H264.mp4_thumb.jpg"></image>
+      <p>Vietnam Veterans Against the War traveling to Miami. Total series=16210-16215, with their arrival in Miami captured in 16156.</p>
+    </div>
+  </div>
+  </div>
+</div>

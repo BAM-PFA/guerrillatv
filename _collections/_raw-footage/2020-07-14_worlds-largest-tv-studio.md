@@ -615,3 +615,19 @@ TVTV Archive Date: 7/6/1972</p>
     </div>
   </div>
 </div>
+<div class="row">
+  <div class="col-md-4 col-sm-6 col-xs-12">
+    <div class="iframe-div-container" onclick="load_iframe('16327','img_16327')" style="cursor: pointer;">
+      <iframe data-src="https://drive.google.com/file/d/1zww82U_NdbrzOzxYDHNr9IvBaK72JijT/preview" allowfullscreen="" class="iframe-overlaid" id="16327" frameborder="0" allow="fullscreen"></iframe>
+      <image class="iframe-img" id="img_16327" src="{{ site.baseurl }}/assets/images/raw_footage_thumbs/worlds-largest-studio-147_16327_PM0040892_r01of01_H264.mp4_thumb.jpg"></image>
+      <p>n.d. Post-convention interviews at Fountainebleu and on the street.</p>
+    </div>
+  </div>
+  <div class="col-md-4 col-sm-6 col-xs-12">
+    <div class="iframe-div-container" onclick="load_iframe('16312','img_16312')" style="cursor: pointer;">
+      <iframe data-src="https://drive.google.com/file/d/1_vKw2SaRgGza7Sbh-uWACDfxG4q_RRQ-/preview" allowfullscreen="" class="iframe-overlaid" id="16312" frameborder="0" allow="fullscreen"></iframe>
+      <image class="iframe-img" id="img_16312" src="{{ site.baseurl }}/assets/images/raw_footage_thumbs/worlds-largest-tv-studio-122_16312_PM0040877_r01of01.mp4_thumb.jpg"></image>
+      <p>7/12/1972. Convention hall. Interview with Wallace supporter; Jesus rally; Endicott Peabody campaigning outside hall; interview with "drag queen" [according to shot logs] about gay liberation platform; Wallace donkeys. TVTV watches this tape in the house in 16317.</p>
+    </div>
+  </div>
+</div>
