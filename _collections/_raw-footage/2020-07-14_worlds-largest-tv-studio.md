@@ -11,7 +11,7 @@ multipage: true
 
 Their <strong>portable video</strong> cameras (still a brand-new concept in 1972) allowed them to dance circles around mainstream broadcasters with million-dollar cameras and two-inch "Quad" tape (for comparison, VHS, like TVTV's medium, measures just half an inch). With such small equipment that most people had never seen and basically limitless tape, they could get out to the streets to interview protestors, get in the faces of politicians like Ronald Reagan, and get extremely "meta" taping themselves talk about their own processes and reflections on media theory.
 
-These one hundred five tapes were transferred from camera original half-inch open reel videotape in 2019 through a grant funded in part by the National Endowment for the Humanities. A small handful of tapes have been excluded from display due to privacy and other concerns. We have included some descriptions of tape contents written at the time of shooting along with notes compiled by BAMPFA's Project Assistants during our digitization project.
+These one hundred five tapes were transferred from camera original half-inch open reel videotape in 2019 through a grant from the National Endowment for the Humanities. A small handful of tapes have been excluded from display due to privacy and other concerns. We have included some descriptions of tape contents written at the time of shooting along with notes compiled by BAMPFA's Project Assistants during our digitization project.
 
 ---
 

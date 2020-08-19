@@ -9,7 +9,7 @@ multipage: true
 
 <i>Four More Years</i> (1972) is one of TVTV's iconic early works and a brash expression of <strong>guerrilla television</strong> in action. TVTV gained access to the Republican National Convention with press credentials and portable video equipment, and set out to make a documentary on the spectacle that was clear in its point of view, unapologetic of its roots in the counterculture, and unprecedented in its degree of access to politicians, celebrities, and media insiders.
 
-These seventy-nine tapes were transferred from  camera original half-inch open reel videotape in 2019 through a grant funded in part by the National Endowment for the Humanities. A small handful of tapes have been excluded from display due to privacy and other concerns. We have included some descriptions of tape contents written at the time of shooting along with notes compiled by BAMPFA's Project Assistants during our digitization project.
+These seventy-nine tapes were transferred from  camera original half-inch open reel videotape in 2019 through a grant from the National Endowment for the Humanities. A small handful of tapes have been excluded from display due to privacy and other concerns. We have included some descriptions of tape contents written at the time of shooting along with notes compiled by BAMPFA's Project Assistants during our digitization project.
 
 ---
 
