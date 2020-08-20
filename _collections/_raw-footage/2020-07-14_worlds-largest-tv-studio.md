@@ -15,11 +15,13 @@ These one hundred five tapes were transferred from camera original half-inch ope
 
 ---
 
+
 <div class="row">
   <div class="col-md-4 col-sm-6 col-xs-12">
-    <div class="iframe-div-container" onclick="load_iframe('16217','img_16217')" style="cursor: pointer;">
-      <iframe data-src="https://drive.google.com/file/d/1-Ilm81kUODL9R1-foSzfro-K37fuRhxR/preview" allowfullscreen="" class="iframe-overlaid" id="16217" frameborder="0" allow="fullscreen"></iframe>
-      <image class="iframe-img" id="img_16217" src="{{ site.baseurl }}/assets/images/raw_footage_thumbs/worlds-largest-studio-004_16217_PM0040782_r01of01_H264.mp4_thumb.jpg"></image>
+    <div class="iframe-div-container" id="POOP" >
+    <div onclick="hide_iframe('16217','img_16217','close_16217')" id="close_16217" class="closer-hidden"><i class="fa fa-times" aria-hidden="true"></i></div>
+      <iframe data-src="https://archive.org/embed/square_sar_test_short" allowfullscreen="" class="iframe-overlaid" id="16217" frameborder="0" allow="fullscreen"></iframe>
+      <image onclick="load_iframe('16217','img_16217','close_16217')" class="iframe-img" id="img_16217" src="{{ site.baseurl }}/assets/images/raw_footage_thumbs/worlds-largest-studio-004_16217_PM0040782_r01of01_H264.mp4_thumb.jpg"></image>
       <p>Michael Shamberg, Megan Williams, and Tom Weinberg discuss strategy and plan logistics over a meal. Process tape.</p>
     </div>
   </div>

@@ -36,14 +36,34 @@
 <!-- end of Twitter cards -->
 
 <!-- function to display iframe on click -->
+
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script>
-  function load_iframe (vid,img) {
+  function load_iframe (vid,img,cls) {
     var iframe = $("#"+vid);
-    var image = $("#"+img)
+    var image = $("#"+img);
+    var close = $("#"+cls);
     image.addClass("fade-out");
     iframe.attr("src", iframe.data("src"));
-    iframe.addClass("iframe-loaded mx-auto");
+    iframe.removeClass('iframe-overlaid').addClass("iframe-loaded mx-auto");
+    close.removeClass("closer-hidden").addClass("closer");
+    $(this).css({ 'cursor' : '' });
+    <!-- alert(event.target.id) -->
+    $("#POOP").removeClass("iframe-div-container").addClass("iframe-div-container-null");
+  }
+</script>
+<script>
+  function hide_iframe (vid,img,cls) {
+    var iframe = $("#"+vid)
+    var image = $("#"+img)
+    var close = $("#"+cls)
+    <!-- var orig_src = iframe.attr("src") -->
+    <!-- iframe.attr("data-src", orig_src); -->
+    iframe.attr("src", "");
+    $("#POOP").removeClass("iframe-div-container-null").addClass("iframe-div-container");
+    image.removeClass("fade-out");
+    iframe.removeClass("iframe-loaded mx-auto").addClass("iframe-overlaid");
+    close.removeClass("closer").addClass("closer-hidden");
   }
 </script>
 
