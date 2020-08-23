@@ -18,7 +18,7 @@ image: /assets/images/tapes.gif
   <div class="col-sm-12 col-md-12 col-lg-6">
     <div class="col">
       <p>
-        BAMPFA <strong>digitized and preserved</strong> 437 <a href="https://en.wikipedia.org/wiki/EIAJ-1">half-inch open reel</a> videotapes from these three works as part of a multi-year project funded by the National Endowment for the Humanities. You can now view more than two hundred hours of raw, behind-the-scenes footage from a pivotal moment in in our nation’s history. All the raw tapes from this project will soon be available for viewing with detailed metadata at <a href="https://archive.org/details/@bampfa_film_library_study_center">archive.org</a>. We’ve prepared a selection of highlights you can stream in high quality now, in addition to smaller versions of all the footage from these three programs.
+        BAMPFA <strong>digitized and preserved</strong> 437 <a href="https://en.wikipedia.org/wiki/EIAJ-1">half-inch open reel</a> videotapes from these three works as part of a multi-year project funded by the National Endowment for the Humanities. You can now view more than two hundred hours of raw, behind-the-scenes footage from a pivotal moment in in our nation’s history. All the raw tapes from this project are available on <a href="https://archive.org/details/@bampfa_film_library_study_center">archive.org</a> and we’ve also prepared a selection of highlights here.
       </p>
     </div>
     <div class="col">
