@@ -103,6 +103,7 @@ div.jumbotron span {
   position: absolute;
   padding-top: 2.5%;
   visibility:visible;
+  min-height: 240px;
   /* width: 80%; */
   /* height: 52%; */
 }

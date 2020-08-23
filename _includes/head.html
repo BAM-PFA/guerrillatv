@@ -56,14 +56,14 @@
   function hide_iframe (vid,img,cls) {
     var iframe = $("#"+vid)
     var image = $("#"+img)
-    var close = $("#"+cls)
+    var closer = $("#"+cls)
     <!-- var orig_src = iframe.attr("src") -->
     <!-- iframe.attr("data-src", orig_src); -->
     iframe.attr("src", "");
     $("#POOP").removeClass("iframe-div-container-null").addClass("iframe-div-container");
     image.removeClass("fade-out");
     iframe.removeClass("iframe-loaded mx-auto").addClass("iframe-overlaid");
-    close.removeClass("closer").addClass("closer-hidden");
+    closer.removeClass("closer").addClass("closer-hidden");
   }
 </script>
 
