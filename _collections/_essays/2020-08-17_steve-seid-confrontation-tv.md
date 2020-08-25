@@ -171,7 +171,15 @@ The two documentaries veer drastically in style, treatment, and image capture as
 
 TVTV captured this political tumult in a manner that expressed the contentious atmosphere—their own camerawork, often shaky, ill-exposed, and impatient, amplified the commotion. You can see from the source footage the initial impulse to keep the cameras rolling. This comes in the form of crowds needlessly navigated, interviews exhausted, camera positions thwarted, endless pans of generic delegations. The source footage is also a compendium of convention procedures, especially such things as the receipt of press credentials, the magnitude of the network undertaking, and countless rules meetings with faceless attendees.
 
-By the second outing, the Republican National Convention, a different approach emerges. Gone is the off-the-cuff sincerity of Democratic activists and in its place, the studied and humorless replies of lockstep Republicans. This made for coverage that was not about discovery or the serendipitous but about the critique of a prepackaged spectacle in which every gesture was authorized. Guests such as Ronald Reagan, John Wayne, Sammy Davis Jr., Henry Kissinger, and others have their predictable celebrity walk-ons. And the Young Republicans, a brigade of some 3,000 Nixon youth troopers, clearly bewilder the TVTVers as they try to penetrate the hive-mind of these new voters. “It looks to me like it’s a very packaged, plastic kind of thing,” says NBC’s Cassie Mackin, the first woman to report from the convention floor.<sup><a href="#16" id="16a">16</a></sup>
+<div class="row">
+  <div class="col-sm-7 col-xl-12">
+    <p>By the second outing, the Republican National Convention, a different approach emerges. Gone is the off-the-cuff sincerity of Democratic activists and in its place, the studied and humorless replies of lockstep Republicans. This made for coverage that was not about discovery or the serendipitous but about the critique of a prepackaged spectacle in which every gesture was authorized. Guests such as Ronald Reagan, John Wayne, Sammy Davis Jr., Henry Kissinger, and others have their predictable celebrity walk-ons. And the Young Republicans, a brigade of some 3,000 Nixon youth troopers, clearly bewilder the TVTVers as they try to penetrate the hive-mind of these new voters. “It looks to me like it’s a very packaged, plastic kind of thing,” says NBC’s Cassie Mackin, the first woman to report from the convention floor.<sup><a href="#16" id="16a">16</a></sup></p>
+  </div>
+  <div class="col-sm-5 col-xl-6 mx-auto my-2">
+    <image style="width:100%" src="{{ site.baseurl }}/assets/images/tricia-nixon.jpg" alt="Tricia Nixon"></image>
+    <p class="small"><i>Tricia Nixon flashes her smile for donors and delegates during the 1972 Republican National Convention.</i></p>
+  </div>
+</div>
 
 <div class="row">
   <div class="col-sm-7 col-xl-12">
@@ -186,7 +194,16 @@ By the second outing, the Republican National Convention, a different approach e
 
 But there are still more treasures to be found in the resurfaced source footage, particularly the internal TVTV raps about the tenor and theory of what they were doing.
 
-In a recent interview, Megan Williams and Allen Rucker agreed that TVTV wasn’t the proving ground for the theories espoused in <i>Guerrilla Television</i>, but more a break with its countercultural implications.<sup><a href="#17" id="17a">17</a></sup> The underlying concept was not to produce programs intended for narrowly defined communities, but to make nationally attractive programming with a subversive tone and politic. In this sense, the collective crews assembled in Miami were being asked, at least tacitly, to go against the grain of their own noncommercial, localized ideology. The result was a conflict between the hierarchical structures of top-down TV and the anarchic instincts of the video freaks, each with their own motives, aesthetics, and incentives.
+<div class="row">
+  <div class="col-sm-7 col-xl-12">
+    <p>In a recent interview, Megan Williams and Allen Rucker agreed that TVTV wasn’t the proving ground for the theories espoused in <i>Guerrilla Television</i>, but more a break with its countercultural implications.<sup><a href="#17" id="17a">17</a></sup> The underlying concept was not to produce programs intended for narrowly defined communities, but to make nationally attractive programming with a subversive tone and politic. In this sense, the collective crews assembled in Miami were being asked, at least tacitly, to go against the grain of their own noncommercial, localized ideology. The result was a conflict between the hierarchical structures of top-down TV and the anarchic instincts of the video freaks, each with their own motives, aesthetics, and incentives.
+    </p>
+  </div>
+  <div class="col-sm-5 col-xl-6 mx-auto my-2">
+    <image style="width:100%" src="{{ site.baseurl }}/assets/images/skip-cronkite.jpg" alt="Skip Blumberg interviews Walter Cronkite athte 1972 RNC"></image>
+    <p class="small"><i>Skip Blumberg interviews Walter Cronkite at the 1972 Republican National Convention.</i></p>
+  </div>
+</div>
 
 “I think it’s a critical moment,” says Shamberg in the outtakes, feeling the weight of their project. “We used the convention as a come-on because it’s of interest. We used it with the cable stations because they can relate to it. . . .  Now there’s a chance to show what you are doing. . . . I know two things: I’m not an artist. I’m not going to create for myself. And television’s not an art medium. It’s a throwaway medium. It’s trash. We had one chance to get attention. . . . I’m afraid we’ll blow it.”<sup><a href="#18" id="18a">18</a></sup>
 
