@@ -74,12 +74,70 @@ Between 1972 and 1977 the TVTV collective attracted and lost dozens of members, 
 
 <div class="row my-2">
   <div class="col-md-4">
+    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/hudson.jpg"/>
+  </div>
+  <div class="col-md-8 text-right">
+    <h2>Hudson Marquez</h2>
+    <p>A key member of Ant Farm—the group's best-known work, <i>Cadillac Ranch</i>, was his idea—and one of the founders of TVTV, Hudson Marquez was perhaps the most gifted of the gabbers on the TVTV crew, as the raw footage may attest. Whether making an “awful” cup of coffee, answering the phone in an unattended congressional office, or driving the TVTV Media Van through the streets of Miami, Marquez always has something provocative, and usually hilarious, to say in TVTV's convention tapes.</p>
+  </div>
+</div>
+
+<div class="row my-2">
+  <div class="col-md-4">
+    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/rucker.jpg"/>
+  </div>
+  <div class="col-md-8 text-right">
+    <h2>Allen Rucker</h2>
+    <p>
+      A founder of TVTV, and a core member for its duration, Rucker later became known for his writing, including the mockumentary series <i>The History of White People in America</i> (with Martin Mull) and <i>The New York Times</i> bestseller <i>The Sopranos Family Cookbook</i>.
+    </p>
+  </div>
+</div>
+
+<div class="row my-2">
+  <div class="col-md-4">
+    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/shamberg-1.jpg"/>
+  </div>
+  <div class="col-md-8 text-right">
+    <h2>Michael Shamberg</h2>
+    <p>
+    A founder of TVTV, Michael Shamberg participated in all of its productions and literally wrote the book on <a href="{{ site.baseurl }}/resources#raindance-corporation"><i>Guerrilla Television</i></a> in 1971. After TVTV dissolved in 1977, Shamberg moved into mainstream Hollywood producing, finding early success with <i>The Big Chill</i> (1983). Some of the standout films he later produced or executive produced include <i>A Fish Called Wanda</i> (1988), <i>Pulp Fiction</i> (1994), <i>Erin Brockovich</i> (2000), and <i>Django Unchained</i> (2012).
+    </p>
+  </div>
+</div>
+
+<div class="row my-2">
+  <div class="col-md-4">
+    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/megan-williams.jpg"/>
+  </div>
+  <div class="col-md-8  text-right">
+    <h2>Megan Williams</h2>
+    <p>
+      Megan Williams was a member of TVTV for its duration. She later became an Academy Award-nominated producer and a recipient of the Alfred I. duPont Columbia Journalism Award, and has taught at the University of Southern California’s School of Cinematic Arts.
+    </p>
+  </div>
+</div>
+
+<div class="row my-2">
+  <div class="col-md-4">
     <image style="width: 100%" src="{{ site.baseurl }}/assets/images/appel.jpg"/>
   </div>
   <div class="col-md-8 text-right">
     <h2>Wendy Appel</h2>
     <p>
     Appel was a core member of TVTV and a crucial voice in the editing room. "The editing has always been of equal import to the shooting of any TVTV show. A lot of the TVTV style and the references come together and merge in the collage of editing."—Wendy Appel
+    </p>
+  </div>
+</div>
+
+<div class="row my-2">
+  <div class="col-md-4">
+    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/goldsmith.jpg"/>
+  </div>
+  <div class="col-md-8 text-right">
+    <h2>Paul Goldsmith</h2>
+    <p>
+    A principal member of TVTV who brought professional experience as a cinematographer to the group’s productions. Goldsmith produced and directed the documentary <i>TVTV: Video Revolutionaries</i> (2018). "We were working with equipment that was not taken seriously. . . . It was essentially amateur equipment, and we were the first people to take it seriously. Because it was different, it just meant we could make different television if we wanted to," says Goldsmith.
     </p>
   </div>
 </div>
@@ -108,13 +166,22 @@ Between 1972 and 1977 the TVTV collective attracted and lost dozens of members, 
 
 <div class="row my-2">
   <div class="col-md-4">
-    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/goldsmith.jpg"/>
+    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/chip-jesus.jpg"/>
   </div>
   <div class="col-md-8 text-right">
-    <h2>Paul Goldsmith</h2>
+    <h2>Chip Lord</h2>
+    <p>Chip Lord was a founding partner of the alternative architecture and media collective Ant Farm and an early member of TVTV. He continues his work as an artist and is Professor Emeritus in the Department of Film and Digital Media at UC Santa Cruz.</p>
+  </div>
+</div>
+
+<div class="row my-2">
+  <div class="col-md-4">
+    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/tom-weinberg.jpg"/>
+  </div>
+  <div class="col-md-8 text-right">
+    <h2>Tom Weinberg</h2>
     <p>
-    A principal member of TVTV who brought professional experience as a cinematographer to the group’s productions. Goldsmith produced and directed the documentary <i>TVTV: Video Revolutionaries</i> (2018). "We were working with equipment that was not taken seriously. . . . It was essentially amateur equipment, and we were the first people to take it seriously. Because it was different, it just meant we could make different television if we wanted to," says Goldsmith.
-    </p>
+    Tom Weinberg was an original member of TVTV and founder of <i>Media Burn</i>, an online video archive that focuses on independent documentaries with a social justice lens. As producer for TVTV's first tapes, Tom gained the nickname "Score" for scoring the collective's sweet rental pad, complete with pool. After TVTV he went on to an award-winning career producing independent documentaries and television, including creating <i>The '90s</i> and <i>Image Union</i>.</p>
   </div>
 </div>
 
@@ -130,43 +197,11 @@ Between 1972 and 1977 the TVTV collective attracted and lost dozens of members, 
 
 <div class="row my-2">
   <div class="col-md-4">
-    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/chip-jesus.jpg"/>
-  </div>
-  <div class="col-md-8 text-right">
-    <h2>Chip Lord</h2>
-    <p>Chip Lord was a founding partner of the alternative architecture and media collective Ant Farm and an early member of TVTV. He continues his work as an artist and is Professor Emeritus in the Department of Film and Digital Media at UC Santa Cruz.</p>
-  </div>
-</div>
-
-<div class="row my-2">
-  <div class="col-md-4">
-    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/hudson.jpg"/>
-  </div>
-  <div class="col-md-8 text-right">
-    <h2>Hudson Marquez</h2>
-    <p>A key member of Ant Farm—the group's best-known work, <i>Cadillac Ranch</i>, was his idea—and one of the founders of TVTV, Hudson Marquez was perhaps the most gifted of the gabbers on the TVTV crew, as the raw footage may attest. Whether making an “awful” cup of coffee, answering the phone in an unattended congressional office, or driving the TVTV Media Van through the streets of Miami, Marquez always has something provocative, and usually hilarious, to say in TVTV's convention tapes.</p>
-  </div>
-</div>
-
-<div class="row my-2">
-  <div class="col-md-4">
     <image style="width: 100%" src="{{ site.baseurl }}/assets/images/michels.jpg"/>
   </div>
   <div class="col-md-8 text-right">
     <h2>Doug Michels</h2>
     <p>Doug Michels (1943–2003) was an early member of TVTV and a founding partner of Ant Farm. Michels famously piloted a modified white Cadillac through a pyramid of flaming television sets in <i>Media Burn</i> (1975) and played the role of <i>Jackie Kennedy</i> in The Eternal Frame (1975).</p>
-  </div>
-</div>
-
-<div class="row my-2">
-  <div class="col-md-4">
-    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/rucker.jpg"/>
-  </div>
-  <div class="col-md-8 text-right">
-    <h2>Allen Rucker</h2>
-    <p>
-      A founder of TVTV, and a core member for its duration, Rucker later became known for his writing, including the mockumentary series <i>The History of White People in America</i> (with Martin Mull) and <i>The New York Times</i> bestseller <i>The Sopranos Family Cookbook</i>.
-    </p>
   </div>
 </div>
 
@@ -180,17 +215,6 @@ Between 1972 and 1977 the TVTV collective attracted and lost dozens of members, 
       Curtis Schreier was an original member of TVTV and one of the founders of Ant Farm. Schreier’s design sensibilities and offbeat humor can be found in many of Ant Farm’s and TVTV’s printed material (like the <i>Video Scrapbooks</i> poster above) and built objects including the TVTV media van (lent to TVTV by Ant Farm).
       </p>
     </div>
-</div>
-<div class="row my-2">
-  <div class="col-md-4">
-    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/shamberg-1.jpg"/>
-  </div>
-  <div class="col-md-8 text-right">
-    <h2>Michael Shamberg</h2>
-    <p>
-    A founder of TVTV, Michael Shamberg participated in all of its productions and literally wrote the book on <a href="{{ site.baseurl }}/resources#raindance-corporation"><i>Guerrilla Television</i></a> in 1971. After TVTV dissolved in 1977, Shamberg moved into mainstream Hollywood producing, finding early success with <i>The Big Chill</i> (1983). Some of the standout films he later produced or executive produced include <i>A Fish Called Wanda</i> (1988), <i>Pulp Fiction</i> (1994), <i>Erin Brockovich</i> (2000), and <i>Django Unchained</i> (2012).
-    </p>
-  </div>
 </div>
 
 <div class="row my-2">
@@ -210,28 +234,5 @@ Between 1972 and 1977 the TVTV collective attracted and lost dozens of members, 
   <div class="col-md-8 text-right">
     <h2>Smokey the cat</h2>
     <p><i>"Meow"</i></p>
-  </div>
-</div>
-
-<div class="row my-2">
-  <div class="col-md-4">
-    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/tom-weinberg.jpg"/>
-  </div>
-  <div class="col-md-8 text-right">
-    <h2>Tom Weinberg</h2>
-    <p>
-    Tom Weinberg was an original member of TVTV and founder of <i>Media Burn</i>, an online video archive that focuses on independent documentaries with a social justice lens. As producer for TVTV's first tapes, Tom gained the nickname "Score" for scoring the collective's sweet rental pad, complete with pool. After TVTV he went on to an award-winning career producing independent documentaries and television, including creating <i>The '90s</i> and <i>Image Union</i>.</p>
-  </div>
-</div>
-
-<div class="row my-2">
-  <div class="col-md-4">
-    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/megan-williams.jpg"/>
-  </div>
-  <div class="col-md-8  text-right">
-    <h2>Megan Williams</h2>
-    <p>
-      Megan Williams was a member of TVTV for its duration. She later became an Academy Award-nominated producer and a recipient of the Alfred I. duPont Columbia Journalism Award, and has taught at the University of Southern California’s School of Cinematic Arts.
-    </p>
   </div>
 </div>
