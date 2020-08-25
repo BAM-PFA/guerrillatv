@@ -13,7 +13,7 @@ These outtakes from <i>Gerald Ford's America</i> have been assembled to simulate
 
 Digitized by BAMPFA with support from the National Endowment for the Humanities.
 
-*__Skip Blumburg:__ "Well, representative Andy, what's going to happen? Am I going to get dizzy or are you going to get tired?"*
+*__Skip Blumberg:__ "Well, representative Andy, what's going to happen? Am I going to get dizzy or are you going to get tired?"*
 
 *__Andy Mann:__ "You're going to get dizzy before I get tired."*
 
