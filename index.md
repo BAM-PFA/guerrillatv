@@ -125,7 +125,7 @@ Between 1972 and 1977 the TVTV collective attracted and lost dozens of members, 
   <div class="col-md-8 text-right">
     <h2>Wendy Appel</h2>
     <p>
-    Appel was a core member of TVTV and a crucial voice in the editing room. "The editing has always been of equal import to the shooting of any TVTV show. A lot of the TVTV style and the references come together and merge in the collage of editing."—Wendy Appel
+    "Wendy Appel (who also spelled her name 'Apple') graduated from New York University's Film School and became one of the first women videographers. After her years with TVTV, she produced and directed a number of documentaries, including <i>The Cutting Edge: The Magic of Movie Editing</i> in 2004. She also taught at the University of Southern California's School of Cinematic Arts and at CalArts. Wendy passed away in 2017."--Allen Rucker
     </p>
   </div>
 </div>
