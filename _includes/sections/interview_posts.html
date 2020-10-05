@@ -1,0 +1,21 @@
+{% assign posts = include.items | reverse %}
+{% for item in posts %}
+<div class="container border-bottom">
+  <div class="card my-5 pb-5 border-0">
+    <div class="row">
+      <div class="col-12">
+        <div>
+          <a href="{{ item.url | prepend: site.baseurl }}" class="text-reset">
+            <h3>{{ item.title }}</h3>{% if item.author %}<h5> by {{ item.author }}</h5>{% endif %}
+          </a>
+          <p class="card-text">{{ item.excerpt | markdownify | strip_html }} <a href="{{ item.url | prepend: site.baseurl }}">[. . .]</a></p>
+          <!-- <p class="card-text"><small class="text-muted">{{ item.date | date_to_long_string }}</small></p> -->
+        </div>
+      </div>
+      <div class="col-8 mx-auto mt-3">
+        <img src="{{item.image}}" class="w-100" alt="image of {{ item.title }}">
+      </div>
+    </div>
+  </div>
+</div>
+{% endfor %}

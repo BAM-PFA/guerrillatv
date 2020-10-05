@@ -18,6 +18,8 @@ image: /assets/images/ice-cream.jpg
 
 ---
 
+{% include sections/interview_posts.html items=site.interviews %}
+
 <div class="row my-2">
     <div class="col-md-4 col-lg-3">
       <image style="width: 100%" src="{{ site.baseurl }}/assets/images/chip-gear.jpg"/>
