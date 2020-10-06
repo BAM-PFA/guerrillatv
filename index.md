@@ -5,6 +5,9 @@ vimeoID: 444606836
 image: /assets/images/hudson-chip-van.jpg
 ---
 ---
+<div class="alert alert-info" role="alert">
+  Join us on Wednesday, October 21st, at 8:15PM Pacific time for a new, livestream conversation between Steve Seid, Megan Williams, and Allen Rucker! This event is presented in conjunction with BAMPFA's virtual screening of <i>Four More Years</i>, TVTV's 1972 documentary on the GOP presidential convention. Tickets and more information <a href="https://bampfa.org/event/four-more-years">here</a>.
+</div>
 <h1 class="d-flex" id="tvtv">{{ page.title | upcase }}</h1>
 <div class="row">
   <div class="col-sm">
