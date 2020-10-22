@@ -82,7 +82,9 @@ image: /assets/images/nixon.jpg
   </div>
   <div class="col-md-8 text-right">
     <h2>Jon Winet</h2>
-    <p>Jon Winet is a multimedia artist and scholar active in exploring artists' relationship to politics and social change. He is a professor in the department of Art and Art History at Iowa State University, and has maintained an ongoing multimedia work engaging with presidential nominating conventions</strong> for decades.</p>
+    <p>Jon Winet is an intermedia artist and scholar active in exploring artists' relationship to politics and social change. Before returning to Berkeley this year, he was a professor in the University of Iowa School of Art & Art History, heading the Intermedia Program.</p>
+
+    <p>He has maintained ongoing multimedia work engaging with presidential conventions and the theatrical spectacle of U.S. presidential elections for decades. He is currently directing "<a href="https://www.americanvisions2020.net/">Oxford to the Ballot Box</a>" in Oxford, Mississippi.</p>
   </div>
 </div>
 
