@@ -8,7 +8,7 @@ image: /assets/images/ice-cream.jpg
 <div class="row">
   <div class="col-sm-7 col-xl-12">
     <p>
-      In the run-up to the 2020 Republican and Democratic National Conventions and this November's presidential election, BAMPFA’s former video curator Steve Seid interviews some of the core members of TVTV. Chip Lord, Hudson Marquez, Allen Rucker, Michael Shamberg, and Megan Williams and give insight into the process of making <strong>guerrilla television</strong> and share their reflections on what has changed (and what hasn't) from the media landscape of the 1970s.
+      In the run-up to the 2020 Republican and Democratic National Conventions and the 2020 presidential election, BAMPFA’s former video curator Steve Seid interviewed some of the core members of TVTV. Chip Lord, Hudson Marquez, Allen Rucker, Michael Shamberg, and Megan Williams gave insight into the process of making <strong>guerrilla television</strong> and shared their reflections on what has changed (and what hasn't) from the media landscape of the 1970s.
     </p>
   </div>
   <div class="col-sm-5 col-xl-6 mx-auto">
