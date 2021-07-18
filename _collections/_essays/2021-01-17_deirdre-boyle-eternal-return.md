@@ -74,6 +74,6 @@ It took a lot more time than anyone expected for new media to create an alternat
   </div>
   <div class="col-md-8 text-right">
     <h2>Deirdre Boyle</h2>
-    <p>Steve Seid is the former video curator at BAMPFA and has written extensively on video art, guerrilla video, and activist art practice. He coordinated the donation of TVTV's video and paper archives to BAMPFA and is the author of a forthcoming definitive history of Ant Farm's iconic conceptual art piece <a href="https://www.moma.org/collection/works/107284"><i>Media Burn</i></a>, in addition to co-author with Constance Lewallen of a retrospective exhibition catalogue (<i>Ant Farm: 1968-1978</i>, 2004) of Ant Farm's work.</p>
+    <p>Deirdre Boyle is the author of <i>Subject to Change: Guerrilla Television Revisited</i> (1997), a definitive history of the artistic and political scene that fostered groups like TVTV and the Videofreex She is a professor of media studies at the <a href="https://www.newschool.edu/media-studies/faculty/deirdre-boyle/">New School</a> in New York City and writes frequently for scholarly film and media journals including <i>Film Quarterly</i> and <i>Afterimage</i>.</p>
   </div>
 </div>

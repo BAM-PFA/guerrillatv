@@ -70,7 +70,7 @@ image: /assets/images/nixon.jpg
   </div>
   <div class="col-md-8 text-right">
     <h2>Steve Seid</h2>
-    <p>Steve Seid is the former video curator at BAMPFA and has written extensively on video art, guerrilla video, and activist art practice. He coordinated the donation of TVTV's video and paper archives to BAMPFA and is the author of a forthcoming definitive history of Ant Farm's iconic conceptual art piece <a href="https://www.moma.org/collection/works/107284"><i>Media Burn</i></a>, in addition to co-author of a retrospective exhibition catalogue (<i>Ant Farm: 1968-1978</i>, 2004) of Ant Farm's work with Constance Lewallen.</p>
+    <p>Steve Seid is the former video curator at BAMPFA and has written extensively on video art, guerrilla video, and activist art practice. He coordinated the donation of TVTV's video and paper archives to BAMPFA and in 2020 published a <a href="http://www.inventorypress.com/product/media-burn-ant-farm-and-the-making-of-an-image">definitive history</a> of Ant Farm's iconic conceptual art piece <a href="https://www.moma.org/collection/works/107284"><i>Media Burn</i></a>. With Constance Lewallen, he also co-wrote a retrospective exhibition catalogue (<i>Ant Farm: 1968-1978</i>, 2004) of Ant Farm's work.</p>
   </div>
 </div>
 
