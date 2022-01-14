@@ -18,7 +18,7 @@ image: /assets/images/nixon.jpg
 
 <div class="row my-2">
   <div class="col-md-4">
-    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/deirdre-boyle.jpg"/>
+    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/deirdre-boyle.jpg" alt="Dierdre Boyle"/>
   </div>
   <div class="col-md-8 text-right">
     <h2>Deirdre Boyle</h2>
@@ -30,7 +30,7 @@ image: /assets/images/nixon.jpg
 
 <div class="row my-2">
   <div class="col-md-4">
-    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/brian-frye.jpg"/>
+    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/brian-frye.jpg" alt="Brian Frye"/>
   </div>
   <div class="col-md-8 text-right">
     <h2>Brian Frye</h2>
@@ -42,7 +42,7 @@ image: /assets/images/nixon.jpg
 
 <div class="row my-2">
   <div class="col-md-4">
-    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/rick-prelinger.jpg"/>
+    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/rick-prelinger.jpg" alt="Rick Prelinger"/>
   </div>
   <div class="col-md-8 text-right">
     <h2>Rick Prelinger</h2>
@@ -54,7 +54,7 @@ image: /assets/images/nixon.jpg
 
 <div class="row my-2">
   <div class="col-md-4">
-    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/maybell-romero.jpg"/>
+    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/maybell-romero.jpg" alt="Maybell Romero"/>
   </div>
   <div class="col-md-8 text-right">
     <h2>Maybell Romero</h2>
@@ -66,7 +66,7 @@ image: /assets/images/nixon.jpg
 
 <div class="row my-2">
   <div class="col-md-4">
-    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/steve-seid.jpg"/>
+    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/steve-seid.jpg" alt="Steve Seid"/>
   </div>
   <div class="col-md-8 text-right">
     <h2>Steve Seid</h2>
@@ -78,7 +78,7 @@ image: /assets/images/nixon.jpg
 
 <div class="row my-2">
   <div class="col-md-4">
-    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/jon-winet.jpg"/>
+    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/jon-winet.jpg" alt="Jon Winet"/>
   </div>
   <div class="col-md-8 text-right">
     <h2>Jon Winet</h2>

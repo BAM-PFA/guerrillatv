@@ -12,7 +12,7 @@ image: /assets/images/ice-cream.jpg
     </p>
   </div>
   <div class="col-sm-5 col-xl-6 mx-auto">
-    <image style="width:100%" src="{{ site.baseurl }}/assets/images/ice-cream.jpg"></image>
+    <image style="width:100%" src="{{ site.baseurl }}/assets/images/ice-cream.jpg" alt="Megan Williams, Allen Rucker, and Michael Shamberg sharing ice cream cone"></image>
   </div>
 </div>
 
@@ -22,7 +22,7 @@ image: /assets/images/ice-cream.jpg
 
 <div class="row my-2">
     <div class="col-md-4 col-lg-3">
-      <image style="width: 100%" src="{{ site.baseurl }}/assets/images/chip-gear.jpg"/>
+      <image style="width: 100%" src="{{ site.baseurl }}/assets/images/chip-gear.jpg" alt="Chip Lord"/>
     </div>
     <div class="col-md-8 col-xl-6 text-right">
       <h2>Chip Lord</h2>
@@ -34,7 +34,7 @@ image: /assets/images/ice-cream.jpg
 
 <div class="row my-2">
   <div class="col-md-4 col-lg-3">
-    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/marquez-2.jpg"/>
+    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/marquez-2.jpg" alt="Hudson Marquez"/>
   </div>
   <div class="col-md-8 col-xl-6 text-right">
     <h2>Hudson Marquez</h2>
@@ -46,7 +46,7 @@ image: /assets/images/ice-cream.jpg
 
 <div class="row my-2">
   <div class="col-md-4 col-lg-3">
-    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/rucker-2.jpg"/>
+    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/rucker-2.jpg" alt="Allen Rucker"/>
   </div>
   <div class="col-md-8 col-xl-6 text-right">
     <h2>Allen Rucker</h2>
@@ -60,7 +60,7 @@ image: /assets/images/ice-cream.jpg
 
 <div class="row my-2">
   <div class="col-md-4 col-lg-3">
-    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/williams-shamberg-gear.jpg"/>
+    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/williams-shamberg-gear.jpg" alt="Michael Shamberg"/>
   </div>
   <div class="col-md-8 col-xl-6 text-right">
     <h2>Michael Shamberg</h2>
@@ -72,7 +72,7 @@ image: /assets/images/ice-cream.jpg
 
 <div class="row my-2">
   <div class="col-md-4 col-lg-3">
-    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/williams-3.jpg"/>
+    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/williams-3.jpg" alt="Megan Williams"/>
   </div>
   <div class="col-md-8 col-xl-6 text-right">
     <h2>Megan Williams</h2>

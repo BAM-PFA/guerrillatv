@@ -13,7 +13,7 @@ image: /assets/images/guerrilla-tv.jpg
     </p>
   </div>
   <div class="col-sm-4 col-xl-2 mx-auto">
-    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/cam-boat.jpg" />
+    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/cam-boat.jpg" alt="TVTV woman shooting footage from a boat."/>
   </div>
 </div>
 
@@ -37,7 +37,7 @@ Eight of the standalone TVTV programs are available from the original TVTV membe
     </p>
   </div>
   <div class="col-xs-6 col-md-4 text-center">
-    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/lotu.jpg" />
+    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/lotu.jpg" alt="Still image of TVTV program 'Lord of the Universe'."/>
     <i>Image courtesy EAI</i>
   </div>
 </div>
@@ -48,8 +48,8 @@ Eight of the standalone TVTV programs are available from the original TVTV membe
 
 <div class="row">
   <div class="col-sm text-center">
-    <image style="width: 25%" src="{{ site.baseurl }}/assets/images/eai-logo.png" />
-    <image style="width: 25%" src="{{ site.baseurl }}/assets/images/vdb_logo.png" />
+    <image style="width: 25%" src="{{ site.baseurl }}/assets/images/eai-logo.png" alt="Electronic Arts Intermix logo"/>
+    <image style="width: 25%" src="{{ site.baseurl }}/assets/images/vdb_logo.png" alt="Video Data Bank logo"/>
   </div>
 </div>
 
@@ -63,7 +63,7 @@ EAI and Video Data Bank are two major resources in North America for video and m
 
 <div class="row">
   <div class="col-sm align-self-center text-center">
-    <a href="http://firstrunfeatures.com/tvtvdvd.html"><image style="width: 25%" src="{{ site.baseurl }}/assets/images/tvtv-doc.jpg" /></a>
+    <a href="http://firstrunfeatures.com/tvtvdvd.html"><image style="width: 25%" src="{{ site.baseurl }}/assets/images/tvtv-doc.jpg" alt="TVTV documentary poster of man holding television with words 'with Bill Murray, John Belushi, Goldie Hawn, Hunter Thompson, Steven Spielberg, Lily Tomlin, Bob Dylan & more'."/></a>
   </div>
 </div>
 <div class="row">
@@ -83,7 +83,7 @@ Read a review from *Vulture* [here](https://www.vulture.com/2018/11/paul-goldsmi
 
 <div class="row">
   <div class="col-sm align-self-center text-center">
-    <image style="width: 30%" src="{{ site.baseurl }}/assets/images/rad-soft.jpg" />
+    <image style="width: 30%" src="{{ site.baseurl }}/assets/images/rad-soft.jpg" alt="Radical Software magazine cover from summer 1971."/>
   </div>
 </div>
 <div class="row">
@@ -104,7 +104,7 @@ Ant Farm was deeply interwoven into the video and conceptual art scenes of the 1
 
 <div class="row">
   <div class="col-sm align-self-center text-center">
-    <image style="width: 40%" src="{{ site.baseurl }}/assets/images/ant-farm.jpg" />
+    <image style="width: 40%" src="{{ site.baseurl }}/assets/images/ant-farm.jpg" alt="Ant Farm photo of Chip Lord, Doug Michels, and Curtis Schreier."/>
   </div>
 </div>
 <div class="row">
@@ -121,7 +121,7 @@ Ant Farm was deeply interwoven into the video and conceptual art scenes of the 1
 
 <div class="row">
   <div class="col-sm align-self-center text-center">
-    <image style="width: 40%" src="{{ site.baseurl }}/assets/images/guerrilla-tv.jpg" />
+    <image style="width: 40%" src="{{ site.baseurl }}/assets/images/guerrilla-tv.jpg" alt="Cover of paperback Guerilla Television by Michael Shamberg."/>
   </div>
 </div>
 <div class="row">
@@ -138,7 +138,7 @@ Ant Farm was deeply interwoven into the video and conceptual art scenes of the 1
 
 <div class="row">
   <div class="col-sm align-self-center text-center">
-    <a href="https://videofreex.com/"><image style="width: 40%" src="{{ site.baseurl }}/assets/images/videofreex.jpg" /></a>
+    <a href="https://videofreex.com/"><image style="width: 40%" src="{{ site.baseurl }}/assets/images/videofreex.jpg" alt="Videofreex Collective photo of various members in TV studio"/></a>
   </div>
 </div>
 <div class="row">
@@ -157,7 +157,7 @@ The group soon grew to ten full-time members--including Chuck Kennedy, Nancy Cai
 
 <div class="row">
   <div class="col-sm align-self-center text-center">
-    <image style="width: 40%" src="{{ site.baseurl }}/assets/images/sears.jpg" />
+    <image style="width: 40%" src="{{ site.baseurl }}/assets/images/sears.jpg" alt="Loren Sears sitting in the Tribal Vision Network production van."/>
   </div>
 </div>
 <div class="row">
@@ -173,7 +173,7 @@ The group soon grew to ten full-time members--including Chuck Kennedy, Nancy Cai
 # Portable Channel
 <div class="row">
   <div class="col-sm align-self-center text-center">
-    <a href="http://www.vsw.org/collections/watch-portable-channel-videos/night-at-the-planetarium-1971/"><image style="width: 40%" src="{{ site.baseurl }}/assets/images/portable-channel.png" /></a>
+    <a href="http://www.vsw.org/collections/watch-portable-channel-videos/night-at-the-planetarium-1971/"><image style="width: 40%" src="{{ site.baseurl }}/assets/images/portable-channel.png" alt="Portable Channel photo of musician on stage."/></a>
   </div>
 </div>
 <div class="row">
