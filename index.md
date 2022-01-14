@@ -22,10 +22,10 @@ image: /assets/images/hudson-chip-van.jpg
   <div class="col-sm-4 col-xl-12">
     <div class="row justify-content-md-center">
       <div class="col-xl-3 text-center my-1">
-        <image style="width: 100%" src="{{ site.baseurl }}/assets/images/ar.gif"/>
+        <image style="width: 100%" src="{{ site.baseurl }}/assets/images/ar.gif" alt="Allen Rucker from TVTV"/>
       </div>
       <div class="col-xl-3 text-center my-1">
-        <image style="width: 100%" src="{{ site.baseurl }}/assets/images/portapak.jpg"/>
+        <image style="width: 100%" src="{{ site.baseurl }}/assets/images/portapak.jpg" alt="=TVTV Using Portapak"/>
       </div>
     </div>
   </div>
@@ -58,10 +58,10 @@ image: /assets/images/hudson-chip-van.jpg
   <div class="col-sm-4 col-xl-12">
     <div class="row justify-content-md-center">
       <div class="col-xl-3 text-center my-1">
-        <image style="width: 100%" src="{{ site.baseurl }}/assets/images/nancy-skip-van.jpg"/>
+        <image style="width: 100%" src="{{ site.baseurl }}/assets/images/nancy-skip-van.jpg" alt="Nancy Cain and Skip Blumberg with TVTV Van"/>
       </div>
       <div class="col-xl-3 text-center my-1">
-        <image style="width: 100%" src="{{ site.baseurl }}/assets/images/shamberg-williams.jpg"/>
+        <image style="width: 100%" src="{{ site.baseurl }}/assets/images/shamberg-williams.jpg" alt="Megan Williams and Michael Shamberg TVTV Members"/>
       </div>
     </div>
   </div>
@@ -75,7 +75,7 @@ Between 1972 and 1977 the TVTV collective attracted and lost dozens of members, 
 
 <div class="row my-2">
   <div class="col-md-4">
-    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/hudson.jpg"/>
+    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/hudson.jpg" alt="Hudson Marquez"/>
   </div>
   <div class="col-md-8 text-right">
     <h2>Hudson Marquez</h2>
@@ -85,7 +85,7 @@ Between 1972 and 1977 the TVTV collective attracted and lost dozens of members, 
 
 <div class="row my-2">
   <div class="col-md-4">
-    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/rucker.jpg"/>
+    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/rucker.jpg" alt="Allen Rucker"/>
   </div>
   <div class="col-md-8 text-right">
     <h2>Allen Rucker</h2>
@@ -97,7 +97,7 @@ Between 1972 and 1977 the TVTV collective attracted and lost dozens of members, 
 
 <div class="row my-2">
   <div class="col-md-4">
-    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/shamberg-1.jpg"/>
+    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/shamberg-1.jpg" alt="Michael Shamberg"/>
   </div>
   <div class="col-md-8 text-right">
     <h2>Michael Shamberg</h2>
@@ -109,7 +109,7 @@ Between 1972 and 1977 the TVTV collective attracted and lost dozens of members, 
 
 <div class="row my-2">
   <div class="col-md-4">
-    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/megan-williams.jpg"/>
+    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/megan-williams.jpg" alt="Megan Williams"/>
   </div>
   <div class="col-md-8  text-right">
     <h2>Megan Williams</h2>
@@ -121,7 +121,7 @@ Between 1972 and 1977 the TVTV collective attracted and lost dozens of members, 
 
 <div class="row my-2">
   <div class="col-md-4">
-    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/appel.jpg"/>
+    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/appel.jpg" alt="Wendy Appel"/>
   </div>
   <div class="col-md-8 text-right">
     <h2>Wendy Appel</h2>
@@ -133,7 +133,7 @@ Between 1972 and 1977 the TVTV collective attracted and lost dozens of members, 
 
 <div class="row my-2">
   <div class="col-md-4">
-    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/goldsmith.jpg"/>
+    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/goldsmith.jpg" alt="Paul Goldsmith"/>
   </div>
   <div class="col-md-8 text-right">
     <h2>Paul Goldsmith</h2>
@@ -145,7 +145,7 @@ Between 1972 and 1977 the TVTV collective attracted and lost dozens of members, 
 
 <div class="row my-2">
   <div class="col-md-4">
-    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/skip-skip.jpg"/>
+    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/skip-skip.jpg" alt="Skip Blumberg"/>
   </div>
   <div class="col-md-8 text-right">
     <h2>Skip Blumberg</h2>
@@ -155,7 +155,7 @@ Between 1972 and 1977 the TVTV collective attracted and lost dozens of members, 
 
 <div class="row my-2">
   <div class="col-md-4">
-    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/nancy-cain.jpg"/>
+    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/nancy-cain.jpg" alt="Nancy Cain"/>
   </div>
   <div class="col-md-8 text-right">
     <h2>Nancy Cain</h2>
@@ -167,7 +167,7 @@ Between 1972 and 1977 the TVTV collective attracted and lost dozens of members, 
 
 <div class="row my-2">
   <div class="col-md-4">
-    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/chip-jesus.jpg"/>
+    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/chip-jesus.jpg" alt="Chip Lord"/>
   </div>
   <div class="col-md-8 text-right">
     <h2>Chip Lord</h2>
@@ -177,7 +177,7 @@ Between 1972 and 1977 the TVTV collective attracted and lost dozens of members, 
 
 <div class="row my-2">
   <div class="col-md-4">
-    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/tom-weinberg.jpg"/>
+    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/tom-weinberg.jpg" alt="Tom Weinberg"/>
   </div>
   <div class="col-md-8 text-right">
     <h2>Tom Weinberg</h2>
@@ -188,7 +188,7 @@ Between 1972 and 1977 the TVTV collective attracted and lost dozens of members, 
 
 <div class="row my-2">
   <div class="col-md-4">
-    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/korsts.jpg"/>
+    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/korsts.jpg" alt="Anda Korsts"/>
   </div>
   <div class="col-md-8 text-right">
     <h2>Anda Korsts</h2>
@@ -198,7 +198,7 @@ Between 1972 and 1977 the TVTV collective attracted and lost dozens of members, 
 
 <div class="row my-2">
   <div class="col-md-4">
-    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/michels.jpg"/>
+    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/michels.jpg" alt="Doug Michels"/>
   </div>
   <div class="col-md-8 text-right">
     <h2>Doug Michels</h2>
@@ -208,7 +208,7 @@ Between 1972 and 1977 the TVTV collective attracted and lost dozens of members, 
 
 <div class="row my-2">
   <div class="col-md-4">
-      <image style="width: 100%" src="{{ site.baseurl }}/assets/images/schreier.jpg"/>
+      <image style="width: 100%" src="{{ site.baseurl }}/assets/images/schreier.jpg" alt="Curtis Schreier"/>
     </div>
     <div class="col-md-8 text-right">
       <h2>Curtis Schreier</h2>
@@ -220,7 +220,7 @@ Between 1972 and 1977 the TVTV collective attracted and lost dozens of members, 
 
 <div class="row my-2">
   <div class="col-md-4">
-    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/sibert.jpg"/>
+    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/sibert.jpg" alt="Jody Sibert"/>
   </div>
   <div class="col-md-8 text-right">
     <h2>Jody Sibert</h2>
@@ -230,7 +230,7 @@ Between 1972 and 1977 the TVTV collective attracted and lost dozens of members, 
 
 <div class="row my-2">
   <div class="col-md-4">
-    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/smokey.jpg"/>
+    <image style="width: 100%" src="{{ site.baseurl }}/assets/images/smokey.jpg" alt="Smokey the Cat from TVTV"/>
   </div>
   <div class="col-md-8 text-right">
     <h2>Smokey the cat</h2>

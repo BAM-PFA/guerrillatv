@@ -12,7 +12,7 @@ image: /assets/images/tapes.gif
       </p>
     </div>
     <div class="col">
-      <image style="width: 100%" src="{{ site.baseurl }}/assets/images/tapes.gif"/>
+      <image style="width: 100%" src="{{ site.baseurl }}/assets/images/tapes.gif" alt="Camera reels of raw footage from the TVTV collection"/>
     </div>
   </div>
   <div class="col-sm-12 col-md-12 col-lg-6">
@@ -22,7 +22,7 @@ image: /assets/images/tapes.gif
       </p>
     </div>
     <div class="col">
-      <image style="width: 100%" src="{{ site.baseurl }}/assets/images/vault-2.jpg"/>
+      <image style="width: 100%" src="{{ site.baseurl }}/assets/images/vault-2.jpg" alt="Shelves of half inch open reel videotapes"/>
     </div>
   </div>
 </div>
